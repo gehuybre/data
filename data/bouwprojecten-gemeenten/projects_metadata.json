@@ -5,9 +5,325 @@
   "chunks": 4,
   "chunk_size": 2000,
   "categories": {
-    "wegenbouw": {
-      "id": "wegenbouw",
-      "label": "wegenbouw",
+    "00-algemene-financiering": {
+      "id": "00-algemene-financiering",
+      "label": "Algemene financiering",
+      "project_count": 130,
+      "total_amount": 1200787283.0,
+      "largest_projects": [
+        {
+          "ac_code": "3SBS070101",
+          "ac_short": "Dotaties",
+          "municipality": "Antwerpen",
+          "nis_code": "11002",
+          "total_amount": 278121739.0,
+          "yearly_amounts": {
+            "2026": 45204095.0,
+            "2027": 45657811.0,
+            "2028": 46116064.0,
+            "2029": 46578900.0,
+            "2030": 47046365.0,
+            "2031": 47518504.0
+          }
+        },
+        {
+          "ac_code": "AC35788",
+          "ac_short": "portfolio Stad",
+          "municipality": "Gent",
+          "nis_code": "44021",
+          "total_amount": 194427178.0,
+          "yearly_amounts": {
+            "2026": 34136445.0,
+            "2027": 50705837.0,
+            "2028": 34641101.0,
+            "2029": 22842136.0,
+            "2030": 32318009.0,
+            "2031": 19783650.0
+          }
+        },
+        {
+          "ac_code": "",
+          "ac_short": "overigBeleid zonder actie",
+          "municipality": "Maasmechelen",
+          "nis_code": "73107",
+          "total_amount": 84756051.0,
+          "yearly_amounts": {
+            "2026": 17065253.0,
+            "2027": 18354664.0,
+            "2028": 17869338.0,
+            "2029": 11147236.0,
+            "2030": 11526079.0,
+            "2031": 8793481.0
+          }
+        },
+        {
+          "ac_code": "5.11.",
+          "ac_short": "Ondergrond (parking, casino, publieke ruimte, Kursaal)",
+          "municipality": "Knokke-Heist",
+          "nis_code": "31043",
+          "total_amount": 83158484.0,
+          "yearly_amounts": {
+            "2026": 11015725.0,
+            "2027": 14734487.0,
+            "2028": 17551972.0,
+            "2029": 16819596.0,
+            "2030": 6927702.0,
+            "2031": 16109002.0
+          }
+        },
+        {
+          "ac_code": "",
+          "ac_short": "overigBeleid zonder actie",
+          "municipality": "Roeselare",
+          "nis_code": "36015",
+          "total_amount": 56580575.0,
+          "yearly_amounts": {
+            "2026": 11573953.0,
+            "2027": 10068043.0,
+            "2028": 9393245.0,
+            "2029": 9909602.0,
+            "2030": 8781283.0,
+            "2031": 6854449.0
+          }
+        },
+        {
+          "ac_code": "GBB",
+          "ac_short": "Verrichtingen zonder beleidsdoelstelling",
+          "municipality": "Tervuren",
+          "nis_code": "24104",
+          "total_amount": 41833991.0,
+          "yearly_amounts": {
+            "2026": 8944231.0,
+            "2027": 7409134.0,
+            "2028": 11481410.0,
+            "2029": 8188373.0,
+            "2030": 3540514.0,
+            "2031": 2270329.0
+          }
+        },
+        {
+          "ac_code": "2.4.",
+          "ac_short": "Bouw van een nieuwe brandweerkazerne",
+          "municipality": "Knokke-Heist",
+          "nis_code": "31043",
+          "total_amount": 41272560.0,
+          "yearly_amounts": {
+            "2026": 7344220.0,
+            "2027": 10740004.0,
+            "2028": 13288590.0,
+            "2029": 9184311.0,
+            "2030": 670435.0,
+            "2031": 45000.0
+          }
+        },
+        {
+          "ac_code": "VCOM010101",
+          "ac_short": "Beheer eigen commerciële patrimoniumportefeuille",
+          "municipality": "Antwerpen",
+          "nis_code": "11002",
+          "total_amount": 37612890.0,
+          "yearly_amounts": {
+            "2026": 3104000.0,
+            "2027": 22351745.0,
+            "2028": 1159145.0,
+            "2029": 3885000.0,
+            "2030": 4615000.0,
+            "2031": 2498000.0
+          }
+        },
+        {
+          "ac_code": "AC000049",
+          "ac_short": "Overig beleid",
+          "municipality": "Waregem",
+          "nis_code": "34040",
+          "total_amount": 35023760.0,
+          "yearly_amounts": {
+            "2026": 6963727.0,
+            "2027": 7006738.0,
+            "2028": 6338042.0,
+            "2029": 4270354.0,
+            "2030": 5594106.0,
+            "2031": 4850793.0
+          }
+        },
+        {
+          "ac_code": "GBB",
+          "ac_short": "Verrichtingen zonder beleidsdoelstelling",
+          "municipality": "Heusden-Zolder",
+          "nis_code": "71070",
+          "total_amount": 26521561.0,
+          "yearly_amounts": {
+            "2026": 7887062.0,
+            "2027": 6595443.0,
+            "2028": 3423050.0,
+            "2029": 3441415.0,
+            "2030": 2963919.0,
+            "2031": 2210672.0
+          }
+        }
+      ]
+    },
+    "01-algemeen-bestuur": {
+      "id": "01-algemeen-bestuur",
+      "label": "Algemeen bestuur",
+      "project_count": 1243,
+      "total_amount": 4453923748.0,
+      "largest_projects": [
+        {
+          "ac_code": "3HMS020201A00000",
+          "ac_short": "ZBA SZ VG Cons. plan",
+          "municipality": "Antwerpen",
+          "nis_code": "11002",
+          "total_amount": 278459450.0,
+          "yearly_amounts": {
+            "2026": 35154500.0,
+            "2027": 52526000.0,
+            "2028": 64805000.0,
+            "2029": 46262300.0,
+            "2030": 44142800.0,
+            "2031": 35568850.0
+          }
+        },
+        {
+          "ac_code": "",
+          "ac_short": "overigBeleid zonder actie",
+          "municipality": "Oostende",
+          "nis_code": "35013",
+          "total_amount": 192742751.0,
+          "yearly_amounts": {
+            "2026": 66312411.0,
+            "2027": 21940314.0,
+            "2028": 15650524.0,
+            "2029": 17409100.0,
+            "2030": 44096117.0,
+            "2031": 27334285.0
+          }
+        },
+        {
+          "ac_code": "AP1701RB",
+          "ac_short": "Recurrent beleid dienst Communicatie en Citymarketing en sta",
+          "municipality": "Brugge",
+          "nis_code": "31005",
+          "total_amount": 170864708.0,
+          "yearly_amounts": {
+            "2026": 34298252.0,
+            "2027": 32858006.0,
+            "2028": 32531204.0,
+            "2029": 24888167.0,
+            "2030": 22532139.0,
+            "2031": 23756940.0
+          }
+        },
+        {
+          "ac_code": "AC000496",
+          "ac_short": "Mechelen stimuleert via stadsvernieuwing een vernieuwende, duurzame en betaalbaar woon- en leefom...",
+          "municipality": "Mechelen",
+          "nis_code": "12025",
+          "total_amount": 107846347.0,
+          "yearly_amounts": {
+            "2026": 20792179.0,
+            "2027": 21012492.0,
+            "2028": 22348831.0,
+            "2029": 22896175.0,
+            "2030": 15050397.0,
+            "2031": 5746273.0
+          }
+        },
+        {
+          "ac_code": "",
+          "ac_short": "overigBeleid zonder actie",
+          "municipality": "Kortrijk",
+          "nis_code": "34022",
+          "total_amount": 104618495.0,
+          "yearly_amounts": {
+            "2026": 22747927.0,
+            "2027": 22328310.0,
+            "2028": 16673723.0,
+            "2029": 16573596.0,
+            "2030": 13235429.0,
+            "2031": 13059510.0
+          }
+        },
+        {
+          "ac_code": "AP",
+          "ac_short": "Laagdrempelig Welzijnsonthaal in Welzijnshuis Ten Hove",
+          "municipality": "Mol",
+          "nis_code": "13025",
+          "total_amount": 104426347.0,
+          "yearly_amounts": {
+            "2026": 16958098.0,
+            "2027": 18894738.0,
+            "2028": 20768553.0,
+            "2029": 13190966.0,
+            "2030": 14402412.0,
+            "2031": 20211580.0
+          }
+        },
+        {
+          "ac_code": "3HMS020103A00000",
+          "ac_short": "ZBA SZ SO Pub Dienst",
+          "municipality": "Antwerpen",
+          "nis_code": "11002",
+          "total_amount": 99301506.0,
+          "yearly_amounts": {
+            "2026": 15734405.0,
+            "2027": 16065053.0,
+            "2028": 16393420.0,
+            "2029": 16729041.0,
+            "2030": 17034215.0,
+            "2031": 17345372.0
+          }
+        },
+        {
+          "ac_code": "G",
+          "ac_short": "Bewerkstelligen van een performant en doeltreffend juridisch beleid en patrimoniumbeheer",
+          "municipality": "Puurs-Sint-Amands",
+          "nis_code": "12041",
+          "total_amount": 76478457.0,
+          "yearly_amounts": {
+            "2026": 15158109.0,
+            "2027": 16298517.0,
+            "2028": 14090282.0,
+            "2029": 12491840.0,
+            "2030": 11689291.0,
+            "2031": 6750418.0
+          }
+        },
+        {
+          "ac_code": "AC35124",
+          "ac_short": "onderhoud MOK/niet-MOK FM Themagebouwen",
+          "municipality": "Gent",
+          "nis_code": "44021",
+          "total_amount": 66881955.0,
+          "yearly_amounts": {
+            "2026": 9233278.0,
+            "2027": 10050688.0,
+            "2028": 10686542.0,
+            "2029": 11481271.0,
+            "2030": 12303816.0,
+            "2031": 13126360.0
+          }
+        },
+        {
+          "ac_code": "AP1501",
+          "ac_short": "Met ondersteuning van de Vlaamse overheid renoveren en richt",
+          "municipality": "Brugge",
+          "nis_code": "31005",
+          "total_amount": 64959561.0,
+          "yearly_amounts": {
+            "2026": 3986612.0,
+            "2027": 14747289.0,
+            "2028": 12923057.0,
+            "2029": 19293559.0,
+            "2030": 10470020.0,
+            "2031": 3539024.0
+          }
+        }
+      ]
+    },
+    "02-mobiliteit": {
+      "id": "02-mobiliteit",
+      "label": "Zich verplaatsen en mobiliteit",
       "project_count": 1613,
       "total_amount": 4013474581.0,
       "largest_projects": [
@@ -164,11 +480,11 @@
         }
       ]
     },
-    "riolering": {
-      "id": "riolering",
-      "label": "riolering",
-      "project_count": 186,
-      "total_amount": 372454644.0,
+    "03-natuur-milieu": {
+      "id": "03-natuur-milieu",
+      "label": "Natuur en milieubeheer",
+      "project_count": 498,
+      "total_amount": 855400944.0,
       "largest_projects": [
         {
           "ac_code": "AC35132",
@@ -186,695 +502,48 @@
           }
         },
         {
-          "ac_code": "AP0331",
-          "ac_short": "Individuele zuiveringsinstallaties gerealiseerd",
-          "municipality": "Zwevegem",
-          "nis_code": "34042",
-          "total_amount": 12306000.0,
-          "yearly_amounts": {
-            "2026": 2515000.0,
-            "2027": 2715000.0,
-            "2028": 2831000.0,
-            "2029": 2465000.0,
-            "2030": 390000.0,
-            "2031": 1390000.0
-          }
-        },
-        {
-          "ac_code": "AC000088",
-          "ac_short": "We voeren een rioolbeleid uit om de reductiedoelstellingen te behalen.",
-          "municipality": "Beersel",
-          "nis_code": "23003",
-          "total_amount": 11238652.0,
-          "yearly_amounts": {
-            "2026": 2172067.0,
-            "2027": 7945855.0,
-            "2028": 1120730.0,
-            "2029": 0,
-            "2030": 0,
-            "2031": 0
-          }
-        },
-        {
-          "ac_code": "AC000075",
-          "ac_short": "Watersaneringsbijdrage en Hidrosan",
-          "municipality": "Schilde",
-          "nis_code": "11039",
-          "total_amount": 10853025.0,
-          "yearly_amounts": {
-            "2026": 1418377.0,
-            "2027": 1894859.0,
-            "2028": 2775568.0,
-            "2029": 1579617.0,
-            "2030": 1531828.0,
-            "2031": 1652776.0
-          }
-        },
-        {
-          "ac_code": "AC000104",
-          "ac_short": "6.1.2 We sluiten woningen aan op de riolering volgens het gebiedsdekkend uitvoeringsplan",
-          "municipality": "Turnhout",
-          "nis_code": "13040",
-          "total_amount": 10219500.0,
-          "yearly_amounts": {
-            "2026": 5337500.0,
-            "2027": 3020000.0,
-            "2028": 1862000.0,
-            "2029": 0,
-            "2030": 0,
-            "2031": 0
-          }
-        },
-        {
-          "ac_code": "AC000109",
-          "ac_short": "6.2.3 We onderhouden ons rioleringsstelsel, zowel in het centrum als in landelijke zones",
-          "municipality": "Turnhout",
-          "nis_code": "13040",
-          "total_amount": 8187000.0,
-          "yearly_amounts": {
-            "2026": 1930000.0,
-            "2027": 100000.0,
-            "2028": 1402000.0,
-            "2029": 1728000.0,
-            "2030": 1693000.0,
-            "2031": 1334000.0
-          }
-        },
-        {
-          "ac_code": "AC000060",
-          "ac_short": "Rioleringen",
-          "municipality": "Stabroek",
-          "nis_code": "11044",
-          "total_amount": 8159962.0,
-          "yearly_amounts": {
-            "2026": 1332337.0,
-            "2027": 1343336.0,
-            "2028": 1354383.0,
-            "2029": 1365478.0,
-            "2030": 1376620.0,
-            "2031": 1387808.0
-          }
-        },
-        {
-          "ac_code": "AC300595",
-          "ac_short": "Project: Rioproject Hoogkameren uitvoeren.",
-          "municipality": "Sint-Niklaas",
-          "nis_code": "46021",
-          "total_amount": 8047257.0,
-          "yearly_amounts": {
-            "2026": 6300000.0,
-            "2027": 1747257.0,
-            "2028": 0,
-            "2029": 0,
-            "2030": 0,
-            "2031": 0
-          }
-        },
-        {
-          "ac_code": "AP143",
-          "ac_short": "Investeringstoelage Aquario",
-          "municipality": "Sint-Lievens-Houtem",
-          "nis_code": "41063",
-          "total_amount": 8021551.0,
-          "yearly_amounts": {
-            "2026": 200000.0,
-            "2027": 899923.0,
-            "2028": 4228455.0,
-            "2029": 1252242.0,
-            "2030": 1440931.0,
-            "2031": 0
-          }
-        },
-        {
-          "ac_code": "AC000127",
-          "ac_short": "We investeren in kwalitatieve publieke ruimte: investeringstoelage Pidpa",
-          "municipality": "Nijlen",
-          "nis_code": "12026",
-          "total_amount": 7357273.0,
-          "yearly_amounts": {
-            "2026": 1028516.0,
-            "2027": 1380300.0,
-            "2028": 2411940.0,
-            "2029": 606690.0,
-            "2030": 506380.0,
-            "2031": 1423447.0
-          }
-        }
-      ]
-    },
-    "scholenbouw": {
-      "id": "scholenbouw",
-      "label": "scholenbouw",
-      "project_count": 348,
-      "total_amount": 1004553969.0,
-      "largest_projects": [
-        {
-          "ac_code": "3LOW030501",
-          "ac_short": "Elke school realiseert kwalite",
+          "ac_code": "3LMS050101",
+          "ac_short": "Stadsreiniging algemeen",
           "municipality": "Antwerpen",
           "nis_code": "11002",
-          "total_amount": 403425230.0,
+          "total_amount": 63699200.0,
           "yearly_amounts": {
-            "2026": 97406312.0,
-            "2027": 81672160.0,
-            "2028": 77303161.0,
-            "2029": 61804936.0,
-            "2030": 53723425.0,
-            "2031": 31515236.0
-          }
-        },
-        {
-          "ac_code": "GBB",
-          "ac_short": "GBB-AMWD",
-          "municipality": "Bornem",
-          "nis_code": "12007",
-          "total_amount": 34964650.0,
-          "yearly_amounts": {
-            "2026": 8852300.0,
-            "2027": 6675450.0,
-            "2028": 4841750.0,
-            "2029": 4904700.0,
-            "2030": 4747150.0,
-            "2031": 4943300.0
-          }
-        },
-        {
-          "ac_code": "A",
-          "ac_short": "Onderhoud instrumentarium MA",
-          "municipality": "Wemmel",
-          "nis_code": "23102",
-          "total_amount": 34611189.0,
-          "yearly_amounts": {
-            "2026": 8898101.0,
-            "2027": 11488750.0,
-            "2028": 7487272.0,
-            "2029": 2812928.0,
-            "2030": 2574713.0,
-            "2031": 1349425.0
-          }
-        },
-        {
-          "ac_code": "AC000063",
-          "ac_short": "Ontwikkeling Markthalsite met aandacht voor de capaciteit van het gemeentelijk onderwijs",
-          "municipality": "Overijse",
-          "nis_code": "23062",
-          "total_amount": 23175000.0,
-          "yearly_amounts": {
-            "2026": 10075000.0,
-            "2027": 13000000.0,
-            "2028": 100000.0,
-            "2029": 0,
+            "2026": 50975332.0,
+            "2027": 11855041.0,
+            "2028": 795606.0,
+            "2029": 73221.0,
             "2030": 0,
             "2031": 0
           }
         },
         {
-          "ac_code": "01.01",
-          "ac_short": "Bouw lagere school met poly. zaal en bib op de Argo-site",
-          "municipality": "Londerzeel",
-          "nis_code": "23045",
-          "total_amount": 22577023.0,
-          "yearly_amounts": {
-            "2026": 1305687.0,
-            "2027": 1590860.0,
-            "2028": 2389037.0,
-            "2029": 8683255.0,
-            "2030": 8132909.0,
-            "2031": 475275.0
-          }
-        },
-        {
-          "ac_code": "RW",
-          "ac_short": "Reguliere werking Deeltijds Kunstonderwijs",
-          "municipality": "Tienen",
-          "nis_code": "24107",
-          "total_amount": 17659186.0,
-          "yearly_amounts": {
-            "2026": 3289708.0,
-            "2027": 3064530.0,
-            "2028": 4937126.0,
-            "2029": 2528143.0,
-            "2030": 1311713.0,
-            "2031": 2527966.0
-          }
-        },
-        {
-          "ac_code": "AC000065",
-          "ac_short": "We zetten een nieuwbouw voor gemeentelijke basisschool ’t Populiertje.",
-          "municipality": "Sint-Pieters-Leeuw",
-          "nis_code": "23077",
-          "total_amount": 17443176.0,
-          "yearly_amounts": {
-            "2026": 4000000.0,
-            "2027": 7700000.0,
-            "2028": 5238521.0,
-            "2029": 504655.0,
-            "2030": 0,
-            "2031": 0
-          }
-        },
-        {
-          "ac_code": "20101",
-          "ac_short": "Nieuwe onderwijsinfrastructuur",
-          "municipality": "Zonnebeke",
-          "nis_code": "33037",
-          "total_amount": 17441678.0,
-          "yearly_amounts": {
-            "2026": 2226497.0,
-            "2027": 1905000.0,
-            "2028": 405000.0,
-            "2029": 5000.0,
-            "2030": 12895181.0,
-            "2031": 5000.0
-          }
-        },
-        {
-          "ac_code": "PB3",
-          "ac_short": "We streven naar een uitbreiding van het gesubsidieerd aanbod voor de lessen secundair",
-          "municipality": "Wevelgem",
-          "nis_code": "34041",
-          "total_amount": 16437900.0,
-          "yearly_amounts": {
-            "2026": 8560897.0,
-            "2027": 4639500.0,
-            "2028": 1652503.0,
-            "2029": 240000.0,
-            "2030": 845000.0,
-            "2031": 500000.0
-          }
-        },
-        {
-          "ac_code": "AC000183",
-          "ac_short": "Realiseren van het nieuwbouwproject Denderdal 2.0",
-          "municipality": "Aalst",
-          "nis_code": "41002",
-          "total_amount": 16372060.0,
-          "yearly_amounts": {
-            "2026": 0,
-            "2027": 4083554.0,
-            "2028": 6767053.0,
-            "2029": 5521453.0,
-            "2030": 0,
-            "2031": 0
-          }
-        }
-      ]
-    },
-    "sport": {
-      "id": "sport",
-      "label": "sport",
-      "project_count": 421,
-      "total_amount": 1217010886.0,
-      "largest_projects": [
-        {
-          "ac_code": "M",
-          "ac_short": "Investeren in sport- en jeugdinfrastructuur",
-          "municipality": "Maldegem",
-          "nis_code": "43010",
-          "total_amount": 93928552.0,
-          "yearly_amounts": {
-            "2026": 15256470.0,
-            "2027": 19786588.0,
-            "2028": 19150893.0,
-            "2029": 16834464.0,
-            "2030": 17497514.0,
-            "2031": 5402623.0
-          }
-        },
-        {
-          "ac_code": "AC35413",
-          "ac_short": "Samenwerking sport Farys",
+          "ac_code": "AC34780",
+          "ac_short": "Ivago - Ophalen en verwerken van huishou",
           "municipality": "Gent",
           "nis_code": "44021",
-          "total_amount": 85503955.0,
+          "total_amount": 47750000.0,
           "yearly_amounts": {
-            "2026": 3202294.0,
-            "2027": 11376403.0,
-            "2028": 18050198.0,
-            "2029": 17503429.0,
-            "2030": 17632504.0,
-            "2031": 17739127.0
+            "2026": 9385000.0,
+            "2027": 8270000.0,
+            "2028": 6400000.0,
+            "2029": 6030000.0,
+            "2030": 8990000.0,
+            "2031": 8675000.0
           }
         },
         {
-          "ac_code": "AP",
-          "ac_short": "Bouwen van een nieuw binnenzwembad en cafetaria",
-          "municipality": "Izegem",
-          "nis_code": "36008",
-          "total_amount": 72409787.0,
-          "yearly_amounts": {
-            "2026": 7613287.0,
-            "2027": 11607073.0,
-            "2028": 14453818.0,
-            "2029": 6551657.0,
-            "2030": 31747031.0,
-            "2031": 436921.0
-          }
-        },
-        {
-          "ac_code": "AC000005",
-          "ac_short": "algemeen overig beleid",
-          "municipality": "Sint-Pieters-Leeuw",
-          "nis_code": "23077",
-          "total_amount": 35146043.0,
-          "yearly_amounts": {
-            "2026": 16655538.0,
-            "2027": 5390618.0,
-            "2028": 5704029.0,
-            "2029": 3118031.0,
-            "2030": 2473493.0,
-            "2031": 1804334.0
-          }
-        },
-        {
-          "ac_code": "3BRS040301",
-          "ac_short": "Nieuwbouw",
-          "municipality": "Antwerpen",
-          "nis_code": "11002",
-          "total_amount": 34143630.0,
-          "yearly_amounts": {
-            "2026": 7320130.0,
-            "2027": 14352000.0,
-            "2028": 4870000.0,
-            "2029": 2541500.0,
-            "2030": 2420000.0,
-            "2031": 2640000.0
-          }
-        },
-        {
-          "ac_code": "",
-          "ac_short": "overigBeleid zonder actie",
-          "municipality": "Poperinge",
-          "nis_code": "33021",
-          "total_amount": 30445148.0,
-          "yearly_amounts": {
-            "2026": 8966442.0,
-            "2027": 8025345.0,
-            "2028": 5846566.0,
-            "2029": 4528764.0,
-            "2030": 2331323.0,
-            "2031": 746708.0
-          }
-        },
-        {
-          "ac_code": "ACT",
-          "ac_short": "Het voeren van een gericht zwembadenbeleid voor diverse doelgroepen",
-          "municipality": "Koksijde",
-          "nis_code": "38014",
-          "total_amount": 25385384.0,
-          "yearly_amounts": {
-            "2026": 1133500.0,
-            "2027": 4186356.0,
-            "2028": 6180567.0,
-            "2029": 7509827.0,
-            "2030": 3189303.0,
-            "2031": 3185831.0
-          }
-        },
-        {
-          "ac_code": "AC000056",
-          "ac_short": "Bouw nieuw sportcomplex (sporthal/zwembad) De Weeg",
-          "municipality": "Bree",
-          "nis_code": "72004",
-          "total_amount": 23822234.0,
-          "yearly_amounts": {
-            "2026": 20866446.0,
-            "2027": 2955788.0,
-            "2028": 0,
-            "2029": 0,
-            "2030": 0,
-            "2031": 0
-          }
-        },
-        {
-          "ac_code": "ACT",
-          "ac_short": "Dentergem zet in op het bevorderen van gezondheid via een gevarieerd en inclusief sportaanbod.",
-          "municipality": "Dentergem",
-          "nis_code": "37002",
-          "total_amount": 22914236.0,
-          "yearly_amounts": {
-            "2026": 6096360.0,
-            "2027": 6312565.0,
-            "2028": 4829086.0,
-            "2029": 3325865.0,
-            "2030": 1489090.0,
-            "2031": 861270.0
-          }
-        },
-        {
-          "ac_code": "AC000476",
-          "ac_short": "Mechelen investeert in sportinfrastructuur",
-          "municipality": "Mechelen",
-          "nis_code": "12025",
-          "total_amount": 22726260.0,
-          "yearly_amounts": {
-            "2026": 2022428.0,
-            "2027": 4764600.0,
-            "2028": 7837500.0,
-            "2029": 5937500.0,
-            "2030": 2126732.0,
-            "2031": 37500.0
-          }
-        }
-      ]
-    },
-    "cultuur": {
-      "id": "cultuur",
-      "label": "cultuur",
-      "project_count": 1039,
-      "total_amount": 1822800979.0,
-      "largest_projects": [
-        {
-          "ac_code": "3BRS020401",
-          "ac_short": "Basisinrichting, opwaardering",
-          "municipality": "Antwerpen",
-          "nis_code": "11002",
-          "total_amount": 124588366.0,
-          "yearly_amounts": {
-            "2026": 33761588.0,
-            "2027": 38936063.0,
-            "2028": 30608944.0,
-            "2029": 10614563.0,
-            "2030": 10278508.0,
-            "2031": 388700.0
-          }
-        },
-        {
-          "ac_code": "AC000211",
-          "ac_short": "Patrimonium: investeert",
-          "municipality": "Geel",
-          "nis_code": "13008",
-          "total_amount": 47359790.0,
-          "yearly_amounts": {
-            "2026": 8114730.0,
-            "2027": 17578210.0,
-            "2028": 12778600.0,
-            "2029": 6820050.0,
-            "2030": 1108200.0,
-            "2031": 960000.0
-          }
-        },
-        {
-          "ac_code": "3BRS030403",
-          "ac_short": "Smaakhaven",
-          "municipality": "Antwerpen",
-          "nis_code": "11002",
-          "total_amount": 45225308.0,
-          "yearly_amounts": {
-            "2026": 1800000.0,
-            "2027": 6729184.0,
-            "2028": 11810000.0,
-            "2029": 11820000.0,
-            "2030": 12200000.0,
-            "2031": 866124.0
-          }
-        },
-        {
-          "ac_code": "",
-          "ac_short": "Participatiebeleid lokaal uitwerken",
-          "municipality": "Wetteren",
-          "nis_code": "42025",
-          "total_amount": 42772432.0,
-          "yearly_amounts": {
-            "2026": 16410641.0,
-            "2027": 15166109.0,
-            "2028": 6225260.0,
-            "2029": 2254676.0,
-            "2030": 1414351.0,
-            "2031": 1301395.0
-          }
-        },
-        {
-          "ac_code": "AC000464",
-          "ac_short": "Mechelen ontwikkelt een uniek cultuurhart aan de voet van de Sint-Romboutstoren en realiseert daa...",
-          "municipality": "Mechelen",
-          "nis_code": "12025",
-          "total_amount": 42369571.0,
-          "yearly_amounts": {
-            "2026": 6686538.0,
-            "2027": 13089650.0,
-            "2028": 6050402.0,
-            "2029": 5517981.0,
-            "2030": 11025000.0,
-            "2031": 0
-          }
-        },
-        {
-          "ac_code": "AP",
-          "ac_short": "Kerkenbeleidsplan",
-          "municipality": "Meise",
-          "nis_code": "23050",
-          "total_amount": 38354701.0,
-          "yearly_amounts": {
-            "2026": 5900885.0,
-            "2027": 10757021.0,
-            "2028": 8212015.0,
-            "2029": 6860460.0,
-            "2030": 5504320.0,
-            "2031": 1120000.0
-          }
-        },
-        {
-          "ac_code": "ACT",
-          "ac_short": "Zorgen voor voldoende aanbod op vlak van sport, jeugdkampen, spw,  dKO, atelierwerking, bib, vorming",
-          "municipality": "Damme",
-          "nis_code": "31006",
-          "total_amount": 37516187.0,
-          "yearly_amounts": {
-            "2026": 11407413.0,
-            "2027": 8931054.0,
-            "2028": 7263598.0,
-            "2029": 3793377.0,
-            "2030": 2570159.0,
-            "2031": 3550586.0
-          }
-        },
-        {
-          "ac_code": "GBB",
-          "ac_short": "Gelijkblijvend beleid Archief",
-          "municipality": "Blankenberge",
-          "nis_code": "31004",
-          "total_amount": 37286705.0,
-          "yearly_amounts": {
-            "2026": 7297071.0,
-            "2027": 5937980.0,
-            "2028": 8999503.0,
-            "2029": 6892472.0,
-            "2030": 5021921.0,
-            "2031": 3137758.0
-          }
-        },
-        {
-          "ac_code": "1.4.1",
-          "ac_short": "Nieuwe zeedijk",
-          "municipality": "Middelkerke",
-          "nis_code": "35011",
-          "total_amount": 35000000.0,
-          "yearly_amounts": {
-            "2026": 5000000.0,
-            "2027": 9000000.0,
-            "2028": 9000000.0,
-            "2029": 9000000.0,
-            "2030": 3000000.0,
-            "2031": 0
-          }
-        },
-        {
-          "ac_code": "AC000136",
-          "ac_short": "Renovatie van het stadhuis als toeristische topattractie en erfgoedhuis.",
-          "municipality": "Leuven",
-          "nis_code": "24062",
-          "total_amount": 34207687.0,
-          "yearly_amounts": {
-            "2026": 8864229.0,
-            "2027": 9669229.0,
-            "2028": 10224229.0,
-            "2029": 5280000.0,
-            "2030": 170000.0,
-            "2031": 0
-          }
-        }
-      ]
-    },
-    "gebouwen": {
-      "id": "gebouwen",
-      "label": "gebouwen",
-      "project_count": 126,
-      "total_amount": 354317410.0,
-      "largest_projects": [
-        {
-          "ac_code": "ACT",
-          "ac_short": "Ontwikkelen van de verkaveling Proostdijk",
-          "municipality": "Veurne",
-          "nis_code": "38025",
-          "total_amount": 51522255.0,
-          "yearly_amounts": {
-            "2026": 11383500.0,
-            "2027": 6888755.0,
-            "2028": 8725000.0,
-            "2029": 12825000.0,
-            "2030": 10425000.0,
-            "2031": 1275000.0
-          }
-        },
-        {
-          "ac_code": "3WNS019801",
+          "ac_code": "3LMS059801",
           "ac_short": "Cluster investeringen",
           "municipality": "Antwerpen",
           "nis_code": "11002",
-          "total_amount": 46838006.0,
+          "total_amount": 36319887.0,
           "yearly_amounts": {
-            "2026": 7902884.0,
-            "2027": 7095520.0,
-            "2028": 11811210.0,
-            "2029": 7701601.0,
-            "2030": 6657027.0,
-            "2031": 5669764.0
-          }
-        },
-        {
-          "ac_code": "AC000002",
-          "ac_short": "Inzetten op een betaalbaar woningaanbod met focus op sociale huisvesting en betaalbare huurwoningen.",
-          "municipality": "Leuven",
-          "nis_code": "24062",
-          "total_amount": 38794857.0,
-          "yearly_amounts": {
-            "2026": 7974849.0,
-            "2027": 12478139.0,
-            "2028": 15172959.0,
-            "2029": 1932609.0,
-            "2030": 776396.0,
-            "2031": 459905.0
-          }
-        },
-        {
-          "ac_code": "AC35735",
-          "ac_short": "voldoende betaalbare woningen",
-          "municipality": "Gent",
-          "nis_code": "44021",
-          "total_amount": 30929432.0,
-          "yearly_amounts": {
-            "2026": 10591886.0,
-            "2027": 9762130.0,
-            "2028": 4719978.0,
-            "2029": 2145426.0,
-            "2030": 2424706.0,
-            "2031": 1285306.0
-          }
-        },
-        {
-          "ac_code": "AC000485",
-          "ac_short": "Mechelen blijft investeren in het vernieuwen van straten en pleinen (incl. riolering).",
-          "municipality": "Mechelen",
-          "nis_code": "12025",
-          "total_amount": 24100000.0,
-          "yearly_amounts": {
-            "2026": 3300000.0,
-            "2027": 4800000.0,
-            "2028": 4830000.0,
-            "2029": 5970000.0,
-            "2030": 4325000.0,
-            "2031": 875000.0
+            "2026": 3622926.0,
+            "2027": 9092785.0,
+            "2028": 9092641.0,
+            "2029": 5445159.0,
+            "2030": 5445062.0,
+            "2031": 3621314.0
           }
         },
         {
@@ -893,228 +562,85 @@
           }
         },
         {
+          "ac_code": "ACT",
+          "ac_short": "Regulier beleid omgeving",
+          "municipality": "Pittem",
+          "nis_code": "37011",
+          "total_amount": 19023186.0,
+          "yearly_amounts": {
+            "2026": 5337840.0,
+            "2027": 3244166.0,
+            "2028": 4870212.0,
+            "2029": 4166853.0,
+            "2030": 768641.0,
+            "2031": 635474.0
+          }
+        },
+        {
+          "ac_code": "PVM",
+          "ac_short": "We realiseren bijkomende groen in de openbare ruimte en bij particulieren.",
+          "municipality": "Asse",
+          "nis_code": "23002",
+          "total_amount": 17565323.0,
+          "yearly_amounts": {
+            "2026": 3460465.0,
+            "2027": 5357144.0,
+            "2028": 5211340.0,
+            "2029": 464000.0,
+            "2030": 1801000.0,
+            "2031": 1271374.0
+          }
+        },
+        {
+          "ac_code": "AP13",
+          "ac_short": "Hemelwater, droogte en erosie integraal aanpakken",
+          "municipality": "Halle",
+          "nis_code": "23027",
+          "total_amount": 16599098.0,
+          "yearly_amounts": {
+            "2026": 3013000.0,
+            "2027": 4295583.0,
+            "2028": 2491244.0,
+            "2029": 1879178.0,
+            "2030": 1955673.0,
+            "2031": 2964420.0
+          }
+        },
+        {
           "ac_code": "A",
-          "ac_short": "Aankopen van digitale infoborden om gemeentelijke info bij burgers te brengen",
-          "municipality": "Lennik",
-          "nis_code": "23104",
-          "total_amount": 19177073.0,
+          "ac_short": "Strategische/procesmatige evaluatie van de (intergemeentelijke) samenwerkingsverbanden",
+          "municipality": "Eeklo",
+          "nis_code": "43005",
+          "total_amount": 14555080.0,
           "yearly_amounts": {
-            "2026": 3823881.0,
-            "2027": 3354162.0,
-            "2028": 2307247.0,
-            "2029": 1586912.0,
-            "2030": 4383538.0,
-            "2031": 3721333.0
+            "2026": 4434572.0,
+            "2027": 3077165.0,
+            "2028": 2456434.0,
+            "2029": 1389117.0,
+            "2030": 1736770.0,
+            "2031": 1461022.0
           }
         },
         {
-          "ac_code": "AP0701",
-          "ac_short": "Met de Vlaamse Mijn VerbouwPremie bieden we financiële steun",
-          "municipality": "Brugge",
-          "nis_code": "31005",
-          "total_amount": 15000000.0,
+          "ac_code": "LBS",
+          "ac_short": "Stints voor propere straten",
+          "municipality": "Schoten",
+          "nis_code": "11040",
+          "total_amount": 12335887.0,
           "yearly_amounts": {
-            "2026": 2500000.0,
-            "2027": 2500000.0,
-            "2028": 2500000.0,
-            "2029": 2500000.0,
-            "2030": 2500000.0,
-            "2031": 2500000.0
-          }
-        },
-        {
-          "ac_code": "3LMS049801",
-          "ac_short": "Cluster investeringen",
-          "municipality": "Antwerpen",
-          "nis_code": "11002",
-          "total_amount": 11054518.0,
-          "yearly_amounts": {
-            "2026": 4354518.0,
-            "2027": 3700000.0,
-            "2028": 1800000.0,
-            "2029": 1000000.0,
-            "2030": 200000.0,
-            "2031": 0
-          }
-        },
-        {
-          "ac_code": "AC34251",
-          "ac_short": "ondersteunen REGent",
-          "municipality": "Gent",
-          "nis_code": "44021",
-          "total_amount": 8000812.0,
-          "yearly_amounts": {
-            "2026": 1346802.0,
-            "2027": 1351802.0,
-            "2028": 1381802.0,
-            "2029": 1306802.0,
-            "2030": 1306802.0,
-            "2031": 1306802.0
+            "2026": 2202535.0,
+            "2027": 2140486.0,
+            "2028": 2377634.0,
+            "2029": 2544589.0,
+            "2030": 1223158.0,
+            "2031": 1847485.0
           }
         }
       ]
     },
-    "werking": {
-      "id": "werking",
-      "label": "organisatie & werking",
-      "project_count": 1470,
-      "total_amount": 5732886853.0,
-      "largest_projects": [
-        {
-          "ac_code": "3HMS020201A00000",
-          "ac_short": "ZBA SZ VG Cons. plan",
-          "municipality": "Antwerpen",
-          "nis_code": "11002",
-          "total_amount": 278459450.0,
-          "yearly_amounts": {
-            "2026": 35154500.0,
-            "2027": 52526000.0,
-            "2028": 64805000.0,
-            "2029": 46262300.0,
-            "2030": 44142800.0,
-            "2031": 35568850.0
-          }
-        },
-        {
-          "ac_code": "3SBS070101",
-          "ac_short": "Dotaties",
-          "municipality": "Antwerpen",
-          "nis_code": "11002",
-          "total_amount": 278121739.0,
-          "yearly_amounts": {
-            "2026": 45204095.0,
-            "2027": 45657811.0,
-            "2028": 46116064.0,
-            "2029": 46578900.0,
-            "2030": 47046365.0,
-            "2031": 47518504.0
-          }
-        },
-        {
-          "ac_code": "AC35788",
-          "ac_short": "portfolio Stad",
-          "municipality": "Gent",
-          "nis_code": "44021",
-          "total_amount": 194427178.0,
-          "yearly_amounts": {
-            "2026": 34136445.0,
-            "2027": 50705837.0,
-            "2028": 34641101.0,
-            "2029": 22842136.0,
-            "2030": 32318009.0,
-            "2031": 19783650.0
-          }
-        },
-        {
-          "ac_code": "",
-          "ac_short": "overigBeleid zonder actie",
-          "municipality": "Oostende",
-          "nis_code": "35013",
-          "total_amount": 192742751.0,
-          "yearly_amounts": {
-            "2026": 66312411.0,
-            "2027": 21940314.0,
-            "2028": 15650524.0,
-            "2029": 17409100.0,
-            "2030": 44096117.0,
-            "2031": 27334285.0
-          }
-        },
-        {
-          "ac_code": "AP1701RB",
-          "ac_short": "Recurrent beleid dienst Communicatie en Citymarketing en sta",
-          "municipality": "Brugge",
-          "nis_code": "31005",
-          "total_amount": 170864708.0,
-          "yearly_amounts": {
-            "2026": 34298252.0,
-            "2027": 32858006.0,
-            "2028": 32531204.0,
-            "2029": 24888167.0,
-            "2030": 22532139.0,
-            "2031": 23756940.0
-          }
-        },
-        {
-          "ac_code": "AC000496",
-          "ac_short": "Mechelen stimuleert via stadsvernieuwing een vernieuwende, duurzame en betaalbaar woon- en leefom...",
-          "municipality": "Mechelen",
-          "nis_code": "12025",
-          "total_amount": 107846347.0,
-          "yearly_amounts": {
-            "2026": 20792179.0,
-            "2027": 21012492.0,
-            "2028": 22348831.0,
-            "2029": 22896175.0,
-            "2030": 15050397.0,
-            "2031": 5746273.0
-          }
-        },
-        {
-          "ac_code": "",
-          "ac_short": "overigBeleid zonder actie",
-          "municipality": "Kortrijk",
-          "nis_code": "34022",
-          "total_amount": 104618495.0,
-          "yearly_amounts": {
-            "2026": 22747927.0,
-            "2027": 22328310.0,
-            "2028": 16673723.0,
-            "2029": 16573596.0,
-            "2030": 13235429.0,
-            "2031": 13059510.0
-          }
-        },
-        {
-          "ac_code": "AP",
-          "ac_short": "Laagdrempelig Welzijnsonthaal in Welzijnshuis Ten Hove",
-          "municipality": "Mol",
-          "nis_code": "13025",
-          "total_amount": 104426347.0,
-          "yearly_amounts": {
-            "2026": 16958098.0,
-            "2027": 18894738.0,
-            "2028": 20768553.0,
-            "2029": 13190966.0,
-            "2030": 14402412.0,
-            "2031": 20211580.0
-          }
-        },
-        {
-          "ac_code": "3HMS020103A00000",
-          "ac_short": "ZBA SZ SO Pub Dienst",
-          "municipality": "Antwerpen",
-          "nis_code": "11002",
-          "total_amount": 99301506.0,
-          "yearly_amounts": {
-            "2026": 15734405.0,
-            "2027": 16065053.0,
-            "2028": 16393420.0,
-            "2029": 16729041.0,
-            "2030": 17034215.0,
-            "2031": 17345372.0
-          }
-        },
-        {
-          "ac_code": "",
-          "ac_short": "overigBeleid zonder actie",
-          "municipality": "Maasmechelen",
-          "nis_code": "73107",
-          "total_amount": 84756051.0,
-          "yearly_amounts": {
-            "2026": 17065253.0,
-            "2027": 18354664.0,
-            "2028": 17869338.0,
-            "2029": 11147236.0,
-            "2030": 11526079.0,
-            "2031": 8793481.0
-          }
-        }
-      ]
-    },
-    "veiligheid": {
-      "id": "veiligheid",
-      "label": "veiligheid",
+    "04-veiligheidszorg": {
+      "id": "04-veiligheidszorg",
+      "label": "Veiligheidszorg",
       "project_count": 260,
       "total_amount": 648781034.0,
       "largest_projects": [
@@ -1270,327 +796,169 @@
         }
       ]
     },
-    "verlichting": {
-      "id": "verlichting",
-      "label": "verlichting",
-      "project_count": 77,
-      "total_amount": 216663849.0,
+    "05-ondernemen-werken": {
+      "id": "05-ondernemen-werken",
+      "label": "Ondernemen en werken",
+      "project_count": 210,
+      "total_amount": 183391058.0,
       "largest_projects": [
         {
-          "ac_code": "3LMS030102",
-          "ac_short": "Een stralende en duurzaam verl",
+          "ac_code": "3BRS030403",
+          "ac_short": "Smaakhaven",
           "municipality": "Antwerpen",
           "nis_code": "11002",
-          "total_amount": 57043261.0,
+          "total_amount": 45225308.0,
           "yearly_amounts": {
-            "2026": 10266551.0,
-            "2027": 9427052.0,
-            "2028": 9433946.0,
-            "2029": 9366816.0,
-            "2030": 9277204.0,
-            "2031": 9271692.0
+            "2026": 1800000.0,
+            "2027": 6729184.0,
+            "2028": 11810000.0,
+            "2029": 11820000.0,
+            "2030": 12200000.0,
+            "2031": 866124.0
           }
         },
         {
-          "ac_code": "ACT",
-          "ac_short": "We voeren een toekomstgericht financieel beleid waarbij we de financiële risico's beheersen.",
-          "municipality": "Boortmeerbeek",
-          "nis_code": "24014",
-          "total_amount": 41014884.0,
+          "ac_code": "2.5.1.1",
+          "ac_short": "We werken de schachtbok verder af als kantoorruimte, opleidingscentrum en erfgoedmonument",
+          "municipality": "Heusden-Zolder",
+          "nis_code": "71070",
+          "total_amount": 12057655.0,
           "yearly_amounts": {
-            "2026": 12887907.0,
-            "2027": 13902359.0,
-            "2028": 9542475.0,
-            "2029": 2970753.0,
-            "2030": 951223.0,
-            "2031": 760167.0
-          }
-        },
-        {
-          "ac_code": "BD4",
-          "ac_short": "W-P schakelt het volledige openbare verlichtingsnet om naar LED tegen 2028.",
-          "municipality": "Wortegem-Petegem",
-          "nis_code": "45061",
-          "total_amount": 12668251.0,
-          "yearly_amounts": {
-            "2026": 1806682.0,
-            "2027": 4086580.0,
-            "2028": 3159304.0,
-            "2029": 2327890.0,
-            "2030": 836872.0,
-            "2031": 450923.0
-          }
-        },
-        {
-          "ac_code": "3.3.2.",
-          "ac_short": "Prioritair beleid",
-          "municipality": "Zottegem",
-          "nis_code": "41081",
-          "total_amount": 7817259.0,
-          "yearly_amounts": {
-            "2026": 2953140.0,
-            "2027": 1949899.0,
-            "2028": 754000.0,
-            "2029": 787000.0,
-            "2030": 697000.0,
-            "2031": 676220.0
-          }
-        },
-        {
-          "ac_code": "AP0602",
-          "ac_short": "Met \"Licht-als-een-dienst\" zetten we samen met Fluvius in op",
-          "municipality": "Brugge",
-          "nis_code": "31005",
-          "total_amount": 7028190.0,
-          "yearly_amounts": {
-            "2026": 2242730.0,
-            "2027": 2242730.0,
-            "2028": 2242730.0,
-            "2029": 100000.0,
-            "2030": 100000.0,
-            "2031": 100000.0
-          }
-        },
-        {
-          "ac_code": "AC300553",
-          "ac_short": "Beheren van de openbare verlichting.",
-          "municipality": "Sint-Niklaas",
-          "nis_code": "46021",
-          "total_amount": 6589508.0,
-          "yearly_amounts": {
-            "2026": 2341105.0,
-            "2027": 1396856.0,
-            "2028": 1126647.0,
-            "2029": 1126647.0,
-            "2030": 62372.0,
-            "2031": 535881.0
-          }
-        },
-        {
-          "ac_code": "AP3.01",
-          "ac_short": "Verkeersveiligheid verhogen",
-          "municipality": "Boechout",
-          "nis_code": "11004",
-          "total_amount": 6232623.0,
-          "yearly_amounts": {
-            "2026": 1432207.0,
-            "2027": 3380580.0,
-            "2028": 1072240.0,
-            "2029": 79449.0,
-            "2030": 79149.0,
-            "2031": 188998.0
-          }
-        },
-        {
-          "ac_code": "AC000487",
-          "ac_short": "Mechelen investeert in het openbaar domein.",
-          "municipality": "Mechelen",
-          "nis_code": "12025",
-          "total_amount": 3575175.0,
-          "yearly_amounts": {
-            "2026": 874502.0,
-            "2027": 1124705.0,
-            "2028": 329380.0,
-            "2029": 323210.0,
-            "2030": 322000.0,
-            "2031": 601378.0
-          }
-        },
-        {
-          "ac_code": "AC060504",
-          "ac_short": "AC060504 De openbare verlichting brandt 's nachts op maat van de omgeving",
-          "municipality": "Heist-op-den-Berg",
-          "nis_code": "12014",
-          "total_amount": 3511436.0,
-          "yearly_amounts": {
-            "2026": 953943.0,
-            "2027": 954052.0,
-            "2028": 949689.0,
-            "2029": 61807.0,
-            "2030": 60493.0,
-            "2031": 531452.0
-          }
-        },
-        {
-          "ac_code": "5.4.",
-          "ac_short": "Verledding",
-          "municipality": "Knokke-Heist",
-          "nis_code": "31043",
-          "total_amount": 3421286.0,
-          "yearly_amounts": {
-            "2026": 893423.0,
-            "2027": 894209.0,
-            "2028": 885119.0,
-            "2029": 67874.0,
-            "2030": 69981.0,
-            "2031": 610680.0
-          }
-        }
-      ]
-    },
-    "groen": {
-      "id": "groen",
-      "label": "groen",
-      "project_count": 565,
-      "total_amount": 694393232.0,
-      "largest_projects": [
-        {
-          "ac_code": "AP",
-          "ac_short": "Verder ontwikkelen van de stadsrandbossen Bergmolenbos en Kr",
-          "municipality": "Roeselare",
-          "nis_code": "36015",
-          "total_amount": 98287138.0,
-          "yearly_amounts": {
-            "2026": 23138399.0,
-            "2027": 20835366.0,
-            "2028": 18721158.0,
-            "2029": 12734085.0,
-            "2030": 12998300.0,
-            "2031": 9859830.0
-          }
-        },
-        {
-          "ac_code": "3LMS050101",
-          "ac_short": "Stadsreiniging algemeen",
-          "municipality": "Antwerpen",
-          "nis_code": "11002",
-          "total_amount": 63699200.0,
-          "yearly_amounts": {
-            "2026": 50975332.0,
-            "2027": 11855041.0,
-            "2028": 795606.0,
-            "2029": 73221.0,
+            "2026": 7057655.0,
+            "2027": 5000000.0,
+            "2028": 0,
+            "2029": 0,
             "2030": 0,
             "2031": 0
           }
         },
         {
-          "ac_code": "AC34780",
-          "ac_short": "Ivago - Ophalen en verwerken van huishou",
-          "municipality": "Gent",
-          "nis_code": "44021",
-          "total_amount": 47750000.0,
+          "ac_code": "3BRS030302",
+          "ac_short": "Infrastructuur",
+          "municipality": "Antwerpen",
+          "nis_code": "11002",
+          "total_amount": 6400005.0,
           "yearly_amounts": {
-            "2026": 9385000.0,
-            "2027": 8270000.0,
-            "2028": 6400000.0,
-            "2029": 6030000.0,
-            "2030": 8990000.0,
-            "2031": 8675000.0
+            "2026": 1400119.0,
+            "2027": 2050282.0,
+            "2028": 737401.0,
+            "2029": 737401.0,
+            "2030": 737401.0,
+            "2031": 737401.0
           }
         },
         {
-          "ac_code": "3LMS059801",
+          "ac_code": "3",
+          "ac_short": "De realisatie van verschillende functionele en ecologisch ve",
+          "municipality": "Houthulst",
+          "nis_code": "32006",
+          "total_amount": 4760000.0,
+          "yearly_amounts": {
+            "2026": 865000.0,
+            "2027": 685000.0,
+            "2028": 680000.0,
+            "2029": 870000.0,
+            "2030": 755000.0,
+            "2031": 905000.0
+          }
+        },
+        {
+          "ac_code": "R.05",
+          "ac_short": "Actualiseren fiets-en wandelroutes met bewegwijzering/borden",
+          "municipality": "Londerzeel",
+          "nis_code": "23045",
+          "total_amount": 4728750.0,
+          "yearly_amounts": {
+            "2026": 813125.0,
+            "2027": 783125.0,
+            "2028": 783125.0,
+            "2029": 783125.0,
+            "2030": 783125.0,
+            "2031": 783125.0
+          }
+        },
+        {
+          "ac_code": "AC000510",
+          "ac_short": "De stad geeft impulsen aan toerisme",
+          "municipality": "Lommel",
+          "nis_code": "72020",
+          "total_amount": 4338000.0,
+          "yearly_amounts": {
+            "2026": 4265000.0,
+            "2027": 25000.0,
+            "2028": 12000.0,
+            "2029": 12000.0,
+            "2030": 12000.0,
+            "2031": 12000.0
+          }
+        },
+        {
+          "ac_code": "AC000150",
+          "ac_short": "Regierol ontwikkeling Health & Care Valley en Health Campus en versterken van vestigingsfactoren",
+          "municipality": "Aalst",
+          "nis_code": "41002",
+          "total_amount": 4219620.0,
+          "yearly_amounts": {
+            "2026": 1633500.0,
+            "2027": 1633500.0,
+            "2028": 892620.0,
+            "2029": 20000.0,
+            "2030": 20000.0,
+            "2031": 20000.0
+          }
+        },
+        {
+          "ac_code": "A041205",
+          "ac_short": "Actualiseren van de behoefteanalyse voor een lokaal bedrijventerrein en bijsturen waar nodig",
+          "municipality": "Bierbeek",
+          "nis_code": "24011",
+          "total_amount": 3910000.0,
+          "yearly_amounts": {
+            "2026": 1890000.0,
+            "2027": 20000.0,
+            "2028": 0,
+            "2029": 2000000.0,
+            "2030": 0,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "AC000020",
+          "ac_short": "Zonhoven biedt al dan niet ism partners een uitgebreid aanbod aan vrijetijdsinfrastructuur aan",
+          "municipality": "Zonhoven",
+          "nis_code": "71066",
+          "total_amount": 3545050.0,
+          "yearly_amounts": {
+            "2026": 636550.0,
+            "2027": 1539750.0,
+            "2028": 415750.0,
+            "2029": 216750.0,
+            "2030": 617750.0,
+            "2031": 118500.0
+          }
+        },
+        {
+          "ac_code": "3LOW049801",
           "ac_short": "Cluster investeringen",
           "municipality": "Antwerpen",
           "nis_code": "11002",
-          "total_amount": 36319887.0,
+          "total_amount": 3225000.0,
           "yearly_amounts": {
-            "2026": 3622926.0,
-            "2027": 9092785.0,
-            "2028": 9092641.0,
-            "2029": 5445159.0,
-            "2030": 5445062.0,
-            "2031": 3621314.0
-          }
-        },
-        {
-          "ac_code": "ACT",
-          "ac_short": "Regulier beleid omgeving",
-          "municipality": "Pittem",
-          "nis_code": "37011",
-          "total_amount": 19023186.0,
-          "yearly_amounts": {
-            "2026": 5337840.0,
-            "2027": 3244166.0,
-            "2028": 4870212.0,
-            "2029": 4166853.0,
-            "2030": 768641.0,
-            "2031": 635474.0
-          }
-        },
-        {
-          "ac_code": "PVM",
-          "ac_short": "We realiseren bijkomende groen in de openbare ruimte en bij particulieren.",
-          "municipality": "Asse",
-          "nis_code": "23002",
-          "total_amount": 17565323.0,
-          "yearly_amounts": {
-            "2026": 3460465.0,
-            "2027": 5357144.0,
-            "2028": 5211340.0,
-            "2029": 464000.0,
-            "2030": 1801000.0,
-            "2031": 1271374.0
-          }
-        },
-        {
-          "ac_code": "AP13",
-          "ac_short": "Hemelwater, droogte en erosie integraal aanpakken",
-          "municipality": "Halle",
-          "nis_code": "23027",
-          "total_amount": 16599098.0,
-          "yearly_amounts": {
-            "2026": 3013000.0,
-            "2027": 4295583.0,
-            "2028": 2491244.0,
-            "2029": 1879178.0,
-            "2030": 1955673.0,
-            "2031": 2964420.0
-          }
-        },
-        {
-          "ac_code": "1",
-          "ac_short": "Versterken van groene verbindingen en ecologische corridors",
-          "municipality": "Diksmuide",
-          "nis_code": "32003",
-          "total_amount": 14722468.0,
-          "yearly_amounts": {
-            "2026": 2091234.0,
-            "2027": 2461234.0,
-            "2028": 2815000.0,
-            "2029": 3865000.0,
-            "2030": 2520000.0,
-            "2031": 970000.0
-          }
-        },
-        {
-          "ac_code": "A",
-          "ac_short": "Strategische/procesmatige evaluatie van de (intergemeentelijke) samenwerkingsverbanden",
-          "municipality": "Eeklo",
-          "nis_code": "43005",
-          "total_amount": 14555080.0,
-          "yearly_amounts": {
-            "2026": 4434572.0,
-            "2027": 3077165.0,
-            "2028": 2456434.0,
-            "2029": 1389117.0,
-            "2030": 1736770.0,
-            "2031": 1461022.0
-          }
-        },
-        {
-          "ac_code": "D16",
-          "ac_short": "01 Dienstverlening dichbij de mensen via antennepunten",
-          "municipality": "Harelbeke",
-          "nis_code": "34013",
-          "total_amount": 12860889.0,
-          "yearly_amounts": {
-            "2026": 2892332.0,
-            "2027": 2126910.0,
-            "2028": 3324503.0,
-            "2029": 1558447.0,
-            "2030": 1483027.0,
-            "2031": 1475670.0
+            "2026": 100000.0,
+            "2027": 1625000.0,
+            "2028": 1125000.0,
+            "2029": 125000.0,
+            "2030": 125000.0,
+            "2031": 125000.0
           }
         }
       ]
     },
-    "ruimtelijke-ordening": {
-      "id": "ruimtelijke-ordening",
-      "label": "ruimtelijke ordening",
-      "project_count": 142,
-      "total_amount": 575682850.0,
+    "06-wonen-ruimte": {
+      "id": "06-wonen-ruimte",
+      "label": "Wonen en ruimtelijke ordening",
+      "project_count": 468,
+      "total_amount": 1301827720.0,
       "largest_projects": [
         {
           "ac_code": "3LMS019801",
@@ -1605,6 +973,21 @@
             "2029": 27322921.0,
             "2030": 20886714.0,
             "2031": 20225941.0
+          }
+        },
+        {
+          "ac_code": "AP",
+          "ac_short": "Verder ontwikkelen van de stadsrandbossen Bergmolenbos en Kr",
+          "municipality": "Roeselare",
+          "nis_code": "36015",
+          "total_amount": 98287138.0,
+          "yearly_amounts": {
+            "2026": 23138399.0,
+            "2027": 20835366.0,
+            "2028": 18721158.0,
+            "2029": 12734085.0,
+            "2030": 12998300.0,
+            "2031": 9859830.0
           }
         },
         {
@@ -1623,6 +1006,51 @@
           }
         },
         {
+          "ac_code": "3LMS030102",
+          "ac_short": "Een stralende en duurzaam verl",
+          "municipality": "Antwerpen",
+          "nis_code": "11002",
+          "total_amount": 57043261.0,
+          "yearly_amounts": {
+            "2026": 10266551.0,
+            "2027": 9427052.0,
+            "2028": 9433946.0,
+            "2029": 9366816.0,
+            "2030": 9277204.0,
+            "2031": 9271692.0
+          }
+        },
+        {
+          "ac_code": "ACT",
+          "ac_short": "Ontwikkelen van de verkaveling Proostdijk",
+          "municipality": "Veurne",
+          "nis_code": "38025",
+          "total_amount": 51522255.0,
+          "yearly_amounts": {
+            "2026": 11383500.0,
+            "2027": 6888755.0,
+            "2028": 8725000.0,
+            "2029": 12825000.0,
+            "2030": 10425000.0,
+            "2031": 1275000.0
+          }
+        },
+        {
+          "ac_code": "3WNS019801",
+          "ac_short": "Cluster investeringen",
+          "municipality": "Antwerpen",
+          "nis_code": "11002",
+          "total_amount": 46838006.0,
+          "yearly_amounts": {
+            "2026": 7902884.0,
+            "2027": 7095520.0,
+            "2028": 11811210.0,
+            "2029": 7701601.0,
+            "2030": 6657027.0,
+            "2031": 5669764.0
+          }
+        },
+        {
           "ac_code": "AC000244",
           "ac_short": "Beheren van het budget",
           "municipality": "Aalst",
@@ -1635,6 +1063,36 @@
             "2029": 12875510.0,
             "2030": 12285122.0,
             "2031": 5328051.0
+          }
+        },
+        {
+          "ac_code": "ACT",
+          "ac_short": "We voeren een toekomstgericht financieel beleid waarbij we de financiële risico's beheersen.",
+          "municipality": "Boortmeerbeek",
+          "nis_code": "24014",
+          "total_amount": 41014884.0,
+          "yearly_amounts": {
+            "2026": 12887907.0,
+            "2027": 13902359.0,
+            "2028": 9542475.0,
+            "2029": 2970753.0,
+            "2030": 951223.0,
+            "2031": 760167.0
+          }
+        },
+        {
+          "ac_code": "AC000002",
+          "ac_short": "Inzetten op een betaalbaar woningaanbod met focus op sociale huisvesting en betaalbare huurwoningen.",
+          "municipality": "Leuven",
+          "nis_code": "24062",
+          "total_amount": 38794857.0,
+          "yearly_amounts": {
+            "2026": 7974849.0,
+            "2027": 12478139.0,
+            "2028": 15172959.0,
+            "2029": 1932609.0,
+            "2030": 776396.0,
+            "2031": 459905.0
           }
         },
         {
@@ -1651,104 +1109,330 @@
             "2030": 115000.0,
             "2031": 115000.0
           }
-        },
+        }
+      ]
+    },
+    "07-cultuur-vrije-tijd": {
+      "id": "07-cultuur-vrije-tijd",
+      "label": "Cultuur en vrije tijd",
+      "project_count": 1604,
+      "total_amount": 3233722041.0,
+      "largest_projects": [
         {
-          "ac_code": "3ANT010201",
-          "ac_short": "Pleinen, woonerven en tuinstra",
+          "ac_code": "3BRS020401",
+          "ac_short": "Basisinrichting, opwaardering",
           "municipality": "Antwerpen",
           "nis_code": "11002",
-          "total_amount": 29198225.0,
+          "total_amount": 124588366.0,
           "yearly_amounts": {
-            "2026": 4175125.0,
-            "2027": 2485600.0,
-            "2028": 7556000.0,
-            "2029": 5056000.0,
-            "2030": 3973600.0,
-            "2031": 5951900.0
+            "2026": 33761588.0,
+            "2027": 38936063.0,
+            "2028": 30608944.0,
+            "2029": 10614563.0,
+            "2030": 10278508.0,
+            "2031": 388700.0
           }
         },
         {
-          "ac_code": "AC000024",
-          "ac_short": "Herontwikkeling van de Stadhuis- en Pupillensite (AGSA)",
-          "municipality": "Aalst",
-          "nis_code": "41002",
-          "total_amount": 28293822.0,
+          "ac_code": "M",
+          "ac_short": "Investeren in sport- en jeugdinfrastructuur",
+          "municipality": "Maldegem",
+          "nis_code": "43010",
+          "total_amount": 93928552.0,
           "yearly_amounts": {
-            "2026": 133500.0,
-            "2027": 37392.0,
-            "2028": 619724.0,
-            "2029": 5719977.0,
-            "2030": 8297191.0,
-            "2031": 13486038.0
+            "2026": 15256470.0,
+            "2027": 19786588.0,
+            "2028": 19150893.0,
+            "2029": 16834464.0,
+            "2030": 17497514.0,
+            "2031": 5402623.0
           }
         },
         {
-          "ac_code": "AC000026",
-          "ac_short": "Ontwikkelen van de Tragelsite (AGSA)",
-          "municipality": "Aalst",
-          "nis_code": "41002",
-          "total_amount": 24934926.0,
+          "ac_code": "AC35413",
+          "ac_short": "Samenwerking sport Farys",
+          "municipality": "Gent",
+          "nis_code": "44021",
+          "total_amount": 85503955.0,
           "yearly_amounts": {
-            "2026": 1350207.0,
-            "2027": 1119199.0,
-            "2028": 6580721.0,
-            "2029": 8852528.0,
-            "2030": 6862276.0,
-            "2031": 169995.0
+            "2026": 3202294.0,
+            "2027": 11376403.0,
+            "2028": 18050198.0,
+            "2029": 17503429.0,
+            "2030": 17632504.0,
+            "2031": 17739127.0
           }
         },
         {
-          "ac_code": "3LMS010201",
-          "ac_short": "Gebiedsgerichte regie en visie",
+          "ac_code": "AP",
+          "ac_short": "Bouwen van een nieuw binnenzwembad en cafetaria",
+          "municipality": "Izegem",
+          "nis_code": "36008",
+          "total_amount": 72409787.0,
+          "yearly_amounts": {
+            "2026": 7613287.0,
+            "2027": 11607073.0,
+            "2028": 14453818.0,
+            "2029": 6551657.0,
+            "2030": 31747031.0,
+            "2031": 436921.0
+          }
+        },
+        {
+          "ac_code": "AC000211",
+          "ac_short": "Patrimonium: investeert",
+          "municipality": "Geel",
+          "nis_code": "13008",
+          "total_amount": 47359790.0,
+          "yearly_amounts": {
+            "2026": 8114730.0,
+            "2027": 17578210.0,
+            "2028": 12778600.0,
+            "2029": 6820050.0,
+            "2030": 1108200.0,
+            "2031": 960000.0
+          }
+        },
+        {
+          "ac_code": "",
+          "ac_short": "Participatiebeleid lokaal uitwerken",
+          "municipality": "Wetteren",
+          "nis_code": "42025",
+          "total_amount": 42772432.0,
+          "yearly_amounts": {
+            "2026": 16410641.0,
+            "2027": 15166109.0,
+            "2028": 6225260.0,
+            "2029": 2254676.0,
+            "2030": 1414351.0,
+            "2031": 1301395.0
+          }
+        },
+        {
+          "ac_code": "AC000464",
+          "ac_short": "Mechelen ontwikkelt een uniek cultuurhart aan de voet van de Sint-Romboutstoren en realiseert daa...",
+          "municipality": "Mechelen",
+          "nis_code": "12025",
+          "total_amount": 42369571.0,
+          "yearly_amounts": {
+            "2026": 6686538.0,
+            "2027": 13089650.0,
+            "2028": 6050402.0,
+            "2029": 5517981.0,
+            "2030": 11025000.0,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "AP",
+          "ac_short": "Kerkenbeleidsplan",
+          "municipality": "Meise",
+          "nis_code": "23050",
+          "total_amount": 38354701.0,
+          "yearly_amounts": {
+            "2026": 5900885.0,
+            "2027": 10757021.0,
+            "2028": 8212015.0,
+            "2029": 6860460.0,
+            "2030": 5504320.0,
+            "2031": 1120000.0
+          }
+        },
+        {
+          "ac_code": "ACT",
+          "ac_short": "Zorgen voor voldoende aanbod op vlak van sport, jeugdkampen, spw,  dKO, atelierwerking, bib, vorming",
+          "municipality": "Damme",
+          "nis_code": "31006",
+          "total_amount": 37516187.0,
+          "yearly_amounts": {
+            "2026": 11407413.0,
+            "2027": 8931054.0,
+            "2028": 7263598.0,
+            "2029": 3793377.0,
+            "2030": 2570159.0,
+            "2031": 3550586.0
+          }
+        },
+        {
+          "ac_code": "GBB",
+          "ac_short": "Gelijkblijvend beleid Archief",
+          "municipality": "Blankenberge",
+          "nis_code": "31004",
+          "total_amount": 37286705.0,
+          "yearly_amounts": {
+            "2026": 7297071.0,
+            "2027": 5937980.0,
+            "2028": 8999503.0,
+            "2029": 6892472.0,
+            "2030": 5021921.0,
+            "2031": 3137758.0
+          }
+        }
+      ]
+    },
+    "08-onderwijs": {
+      "id": "08-onderwijs",
+      "label": "Leren en onderwijs",
+      "project_count": 348,
+      "total_amount": 1004553969.0,
+      "largest_projects": [
+        {
+          "ac_code": "3LOW030501",
+          "ac_short": "Elke school realiseert kwalite",
           "municipality": "Antwerpen",
           "nis_code": "11002",
-          "total_amount": 22432793.0,
+          "total_amount": 403425230.0,
           "yearly_amounts": {
-            "2026": 0,
-            "2027": 439793.0,
-            "2028": 0,
-            "2029": 0,
-            "2030": 0,
-            "2031": 21993000.0
+            "2026": 97406312.0,
+            "2027": 81672160.0,
+            "2028": 77303161.0,
+            "2029": 61804936.0,
+            "2030": 53723425.0,
+            "2031": 31515236.0
           }
         },
         {
-          "ac_code": "3LMS010301",
-          "ac_short": "Stad aan het Water",
-          "municipality": "Antwerpen",
-          "nis_code": "11002",
-          "total_amount": 17509967.0,
+          "ac_code": "GBB",
+          "ac_short": "GBB-AMWD",
+          "municipality": "Bornem",
+          "nis_code": "12007",
+          "total_amount": 34964650.0,
           "yearly_amounts": {
-            "2026": 16601870.0,
-            "2027": 812630.0,
-            "2028": 95467.0,
+            "2026": 8852300.0,
+            "2027": 6675450.0,
+            "2028": 4841750.0,
+            "2029": 4904700.0,
+            "2030": 4747150.0,
+            "2031": 4943300.0
+          }
+        },
+        {
+          "ac_code": "A",
+          "ac_short": "Onderhoud instrumentarium MA",
+          "municipality": "Wemmel",
+          "nis_code": "23102",
+          "total_amount": 34611189.0,
+          "yearly_amounts": {
+            "2026": 8898101.0,
+            "2027": 11488750.0,
+            "2028": 7487272.0,
+            "2029": 2812928.0,
+            "2030": 2574713.0,
+            "2031": 1349425.0
+          }
+        },
+        {
+          "ac_code": "AC000063",
+          "ac_short": "Ontwikkeling Markthalsite met aandacht voor de capaciteit van het gemeentelijk onderwijs",
+          "municipality": "Overijse",
+          "nis_code": "23062",
+          "total_amount": 23175000.0,
+          "yearly_amounts": {
+            "2026": 10075000.0,
+            "2027": 13000000.0,
+            "2028": 100000.0,
             "2029": 0,
             "2030": 0,
             "2031": 0
           }
         },
         {
-          "ac_code": "AC300408",
-          "ac_short": "Project: Site Huis van het Kind en bibliotheek realiseren.",
-          "municipality": "Sint-Niklaas",
-          "nis_code": "46021",
-          "total_amount": 11180000.0,
+          "ac_code": "01.01",
+          "ac_short": "Bouw lagere school met poly. zaal en bib op de Argo-site",
+          "municipality": "Londerzeel",
+          "nis_code": "23045",
+          "total_amount": 22577023.0,
           "yearly_amounts": {
-            "2026": 2100000.0,
-            "2027": 1266250.0,
-            "2028": 2367500.0,
-            "2029": 2446250.0,
-            "2030": 1500000.0,
-            "2031": 1500000.0
+            "2026": 1305687.0,
+            "2027": 1590860.0,
+            "2028": 2389037.0,
+            "2029": 8683255.0,
+            "2030": 8132909.0,
+            "2031": 475275.0
+          }
+        },
+        {
+          "ac_code": "RW",
+          "ac_short": "Reguliere werking Deeltijds Kunstonderwijs",
+          "municipality": "Tienen",
+          "nis_code": "24107",
+          "total_amount": 17659186.0,
+          "yearly_amounts": {
+            "2026": 3289708.0,
+            "2027": 3064530.0,
+            "2028": 4937126.0,
+            "2029": 2528143.0,
+            "2030": 1311713.0,
+            "2031": 2527966.0
+          }
+        },
+        {
+          "ac_code": "AC000065",
+          "ac_short": "We zetten een nieuwbouw voor gemeentelijke basisschool ’t Populiertje.",
+          "municipality": "Sint-Pieters-Leeuw",
+          "nis_code": "23077",
+          "total_amount": 17443176.0,
+          "yearly_amounts": {
+            "2026": 4000000.0,
+            "2027": 7700000.0,
+            "2028": 5238521.0,
+            "2029": 504655.0,
+            "2030": 0,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "20101",
+          "ac_short": "Nieuwe onderwijsinfrastructuur",
+          "municipality": "Zonnebeke",
+          "nis_code": "33037",
+          "total_amount": 17441678.0,
+          "yearly_amounts": {
+            "2026": 2226497.0,
+            "2027": 1905000.0,
+            "2028": 405000.0,
+            "2029": 5000.0,
+            "2030": 12895181.0,
+            "2031": 5000.0
+          }
+        },
+        {
+          "ac_code": "PB3",
+          "ac_short": "We streven naar een uitbreiding van het gesubsidieerd aanbod voor de lessen secundair",
+          "municipality": "Wevelgem",
+          "nis_code": "34041",
+          "total_amount": 16437900.0,
+          "yearly_amounts": {
+            "2026": 8560897.0,
+            "2027": 4639500.0,
+            "2028": 1652503.0,
+            "2029": 240000.0,
+            "2030": 845000.0,
+            "2031": 500000.0
+          }
+        },
+        {
+          "ac_code": "AC000183",
+          "ac_short": "Realiseren van het nieuwbouwproject Denderdal 2.0",
+          "municipality": "Aalst",
+          "nis_code": "41002",
+          "total_amount": 16372060.0,
+          "yearly_amounts": {
+            "2026": 0,
+            "2027": 4083554.0,
+            "2028": 6767053.0,
+            "2029": 5521453.0,
+            "2030": 0,
+            "2031": 0
           }
         }
       ]
     },
-    "zorg": {
-      "id": "zorg",
-      "label": "zorg",
-      "project_count": 887,
-      "total_amount": 1314241222.0,
+    "09-zorg-opvang": {
+      "id": "09-zorg-opvang",
+      "label": "Zorg en opvang",
+      "project_count": 760,
+      "total_amount": 1071399131.0,
       "largest_projects": [
         {
           "ac_code": "3HMS020103",
@@ -1826,21 +1510,6 @@
           }
         },
         {
-          "ac_code": "AP",
-          "ac_short": "Neen",
-          "municipality": "Zedelgem",
-          "nis_code": "31040",
-          "total_amount": 30146594.0,
-          "yearly_amounts": {
-            "2026": 3305934.0,
-            "2027": 8758960.0,
-            "2028": 13086950.0,
-            "2029": 2835250.0,
-            "2030": 1935750.0,
-            "2031": 223750.0
-          }
-        },
-        {
           "ac_code": "3HMS039801",
           "ac_short": "Cluster investeringen",
           "municipality": "Antwerpen",
@@ -1898,6 +1567,21 @@
             "2029": 650000.0,
             "2030": 0,
             "2031": 0
+          }
+        },
+        {
+          "ac_code": "ACT",
+          "ac_short": "Het LB zet in op mobiliteitskansen voor mensen die minder mobiel zijn.",
+          "municipality": "Boutersem",
+          "nis_code": "24016",
+          "total_amount": 25369813.0,
+          "yearly_amounts": {
+            "2026": 9160102.0,
+            "2027": 6134865.0,
+            "2028": 4556588.0,
+            "2029": 1879699.0,
+            "2030": 1867863.0,
+            "2031": 1770696.0
           }
         }
       ]
