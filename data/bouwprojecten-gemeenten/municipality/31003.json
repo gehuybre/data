@@ -1,0 +1,70 @@
+[
+  {
+    "municipality": "Beernem",
+    "nis_code": "31003",
+    "bd_code": "BD",
+    "bd_short": "Met een efficiënt werkende technische dienst",
+    "bd_long": "Kwalitatieve omschrijving: We versterken de werking van onze technische dienst door te investeren in moderne uitrusting, duurzame voertuigen en slimme uitbesteding. Zo verhogen we de efficiëntie, beperken we de ecologische impact en garanderen we een kwalitatieve uitvoering van taken in de openbare ruimte. Door het combineren van interne capaciteit met externe expertise zorgen we voor een flexibele, toekomstgerichte en milieubewuste aanpak van het gemeentelijk beheer.",
+    "ap_code": "AP",
+    "ap_short": "Vervangen rollend materiaal en voorzien van de nodige gereedschappen en werktuigen",
+    "ap_long": "De gemeente investeert in een toekomstgerichte en efficiënte uitrusting voor haar technische diensten. Door voertuigen en werktuigen tijdig te vervangen en te kiezen voor elektrische alternatieven, beperken we de ecologische impact. Tegelijk zorgen we voor veilige en vlotte uitvoering van werken op hoogte via een structurele huur van een hoogtewerker.",
+    "ac_code": "AC",
+    "ac_short": "Aankoop voertuigen",
+    "ac_long": "Om de werking te optimaliseren worden deze legislatuur voer- en werktuigen vervangen waar nodig. We kiezen zo veel mogelijk voor elektrische voer- en werktuigen.",
+    "categories": [
+      "02-mobiliteit"
+    ],
+    "total_amount": 14082117.0,
+    "amount_per_capita": 0,
+    "yearly_amounts": {
+      "2026": 2254117.0,
+      "2027": 4598000.0,
+      "2028": 3910000.0,
+      "2029": 2560000.0,
+      "2030": 365000.0,
+      "2031": 395000.0
+    },
+    "yearly_per_capita": {
+      "2026": 0,
+      "2027": 0,
+      "2028": 0,
+      "2029": 0,
+      "2030": 0,
+      "2031": 0
+    }
+  },
+  {
+    "municipality": "Beernem",
+    "nis_code": "31003",
+    "bd_code": "",
+    "bd_short": "",
+    "bd_long": "",
+    "ap_code": "GBB",
+    "ap_short": "Verrichtingen zonder beleidsdoelstelling",
+    "ap_long": "Commentaar:",
+    "ac_code": "GBB",
+    "ac_short": "Verrichtingen zonder beleidsdoelstelling",
+    "ac_long": "Commentaar:",
+    "categories": [
+      "04-veiligheidszorg"
+    ],
+    "total_amount": 5768910.0,
+    "amount_per_capita": 0,
+    "yearly_amounts": {
+      "2026": 1845899.0,
+      "2027": 1152052.0,
+      "2028": 828548.0,
+      "2029": 679946.0,
+      "2030": 556204.0,
+      "2031": 706261.0
+    },
+    "yearly_per_capita": {
+      "2026": 0,
+      "2027": 0,
+      "2028": 0,
+      "2029": 0,
+      "2030": 0,
+      "2031": 0
+    }
+  }
+]

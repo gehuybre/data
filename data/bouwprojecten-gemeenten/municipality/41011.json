@@ -1,0 +1,70 @@
+[
+  {
+    "municipality": "Denderleeuw",
+    "nis_code": "41011",
+    "bd_code": "BDS",
+    "bd_short": "BD09 - Een sterk team tot jouw dienst",
+    "bd_long": "Een sterk team tot jouw dienst",
+    "ap_code": "AP",
+    "ap_short": "Imago versterken van ons lokaal bestuur",
+    "ap_long": "Imago versterken van ons lokaal bestuur",
+    "ac_code": "AP",
+    "ac_short": "Inzetten op beeldcommunicatie",
+    "ac_long": "Inzetten op beeldcommunicatie",
+    "categories": [
+      "01-algemeen-bestuur"
+    ],
+    "total_amount": 29843129.0,
+    "amount_per_capita": 0,
+    "yearly_amounts": {
+      "2026": 11863645.0,
+      "2027": 7010705.0,
+      "2028": 4284307.0,
+      "2029": 2155508.0,
+      "2030": 2519704.0,
+      "2031": 2009260.0
+    },
+    "yearly_per_capita": {
+      "2026": 0,
+      "2027": 0,
+      "2028": 0,
+      "2029": 0,
+      "2030": 0,
+      "2031": 0
+    }
+  },
+  {
+    "municipality": "Denderleeuw",
+    "nis_code": "41011",
+    "bd_code": "",
+    "bd_short": "",
+    "bd_long": "",
+    "ap_code": "",
+    "ap_short": "overigBeleid",
+    "ap_long": "overigBeleid",
+    "ac_code": "",
+    "ac_short": "overigBeleid zonder actie",
+    "ac_long": "overigBeleid zonder actie",
+    "categories": [
+      "01-algemeen-bestuur"
+    ],
+    "total_amount": 5778399.0,
+    "amount_per_capita": 0,
+    "yearly_amounts": {
+      "2026": 2003171.0,
+      "2027": 1127830.0,
+      "2028": 813097.0,
+      "2029": 577396.0,
+      "2030": 695905.0,
+      "2031": 561000.0
+    },
+    "yearly_per_capita": {
+      "2026": 0,
+      "2027": 0,
+      "2028": 0,
+      "2029": 0,
+      "2030": 0,
+      "2031": 0
+    }
+  }
+]
