@@ -1,0 +1,36 @@
+[
+  {
+    "municipality": "Westerlo",
+    "nis_code": "13049",
+    "bd_code": "BD000011",
+    "bd_short": "Sterke organisatie",
+    "bd_long": "We werken samen aan een sterke organisatie",
+    "ap_code": "AP000035",
+    "ap_short": "Beleidsinformatie, informatie en data",
+    "ap_long": "We verzamelen, bewaren en gebruiken (beleids)informatie en data op een efficiënte en veilige wijze",
+    "ac_code": "A",
+    "ac_short": "print en kopie",
+    "ac_long": "We ondersteunen een efficiënte administratie door het aanbieden van print- en kopiemogelijkheden.",
+    "categories": [
+      "01-algemeen-bestuur"
+    ],
+    "total_amount": 53061764.0,
+    "amount_per_capita": 0,
+    "yearly_amounts": {
+      "2026": 11586233.0,
+      "2027": 13224517.0,
+      "2028": 10339916.0,
+      "2029": 7550589.0,
+      "2030": 6948895.0,
+      "2031": 3411614.0
+    },
+    "yearly_per_capita": {
+      "2026": 0,
+      "2027": 0,
+      "2028": 0,
+      "2029": 0,
+      "2030": 0,
+      "2031": 0
+    }
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "municipality": "Hamme",
+    "nis_code": "42008",
+    "bd_code": "BD",
+    "bd_short": "Instandhouden en verbeteren van het patrimonium",
+    "bd_long": "Kwalitatieve omschrijving: Het AGB wil zich inzetten voor het duurzaam behouden, beheren en verbeteren van het patrimonium in eigendom of beheer, met het oog op een optimale maatschappelijke en economische waarde.\nHierbij wordt gestreefd naar een kwaliteitsvolle, toekomstgerichte infrastructuur die bijdraagt aan de leefbaarheid, dienstverlening en strategische doelstellingen van de gemeente.",
+    "ap_code": "AP",
+    "ap_short": "Sporthal structureel en functioneel verbeteren",
+    "ap_long": "De sporthal is een centrale infrastructuur voor sportieve en gemeenschapsactiviteiten. Het verbeteren ervan draagt bij aan een verhoogde gebruiksvriendelijkheid, energie-efficiëntie en multifunctionaliteit.",
+    "ac_code": "ACT",
+    "ac_short": "Inrichten van de casco-ruimte voor multifunctioneel sportgebruik",
+    "ac_long": "De casco-ruimte wordt ingericht tot polyvalente zaal voor sportactiviteiten. Dit verhoogt de benutting van de infrastructuur.",
+    "categories": [
+      "07-cultuur-vrije-tijd"
+    ],
+    "total_amount": 17660827.0,
+    "amount_per_capita": 0,
+    "yearly_amounts": {
+      "2026": 1646472.0,
+      "2027": 8611147.0,
+      "2028": 4611771.0,
+      "2029": 511525.0,
+      "2030": 1717303.0,
+      "2031": 562609.0
+    },
+    "yearly_per_capita": {
+      "2026": 0,
+      "2027": 0,
+      "2028": 0,
+      "2029": 0,
+      "2030": 0,
+      "2031": 0
+    }
+  },
+  {
+    "municipality": "Hamme",
+    "nis_code": "42008",
+    "bd_code": "",
+    "bd_short": "",
+    "bd_long": "",
+    "ap_code": "GBB",
+    "ap_short": "Verrichtingen zonder beleidsdoelstelling",
+    "ap_long": "Commentaar:",
+    "ac_code": "GBB",
+    "ac_short": "Verrichtingen zonder beleidsdoelstelling",
+    "ac_long": "Commentaar:",
+    "categories": [
+      "01-algemeen-bestuur"
+    ],
+    "total_amount": 14239844.0,
+    "amount_per_capita": 0,
+    "yearly_amounts": {
+      "2026": 2905906.0,
+      "2027": 2325969.0,
+      "2028": 2420184.0,
+      "2029": 2119039.0,
+      "2030": 2326696.0,
+      "2031": 2142050.0
+    },
+    "yearly_per_capita": {
+      "2026": 0,
+      "2027": 0,
+      "2028": 0,
+      "2029": 0,
+      "2030": 0,
+      "2031": 0
+    }
+  },
+  {
+    "municipality": "Hamme",
+    "nis_code": "42008",
+    "bd_code": "",
+    "bd_short": "",
+    "bd_long": "",
+    "ap_code": "OCMW",
+    "ap_short": "Verrichtingen zonder beleidsdoelstelling OCMW",
+    "ap_long": "Commentaar:",
+    "ac_code": "OCMW",
+    "ac_short": "Verrichtingen zonder beleidsdoelstelling OCMW",
+    "ac_long": "Commentaar:",
+    "categories": [
+      "09-zorg-opvang"
+    ],
+    "total_amount": 2817727.0,
+    "amount_per_capita": 0,
+    "yearly_amounts": {
+      "2026": 585100.0,
+      "2027": 290275.0,
+      "2028": 109500.0,
+      "2029": 1520852.0,
+      "2030": 149500.0,
+      "2031": 162500.0
+    },
+    "yearly_per_capita": {
+      "2026": 0,
+      "2027": 0,
+      "2028": 0,
+      "2029": 0,
+      "2030": 0,
+      "2031": 0
+    }
+  }
+]
