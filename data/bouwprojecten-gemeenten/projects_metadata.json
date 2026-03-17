@@ -4,6 +4,7 @@
   "municipalities": 272,
   "chunks": 4,
   "chunk_size": 2000,
+  "category_top_projects_limit": 20,
   "categories": {
     "00-algemene-financiering": {
       "id": "00-algemene-financiering",
@@ -320,8 +321,319 @@
             "2030": 84.82,
             "2031": 63.26
           }
+        },
+        {
+          "ac_code": "ACZ1401",
+          "ac_short": "portfolio OCMW",
+          "ac_long": "AC.Portfoliobudget OCMW",
+          "ap_code": "OD20117",
+          "ap_short": "Algemene financiering",
+          "ap_long": "OD.Robuuster maken van de financiële gezondheid en structuur van Stad en OCMW",
+          "bd_code": "SD20014",
+          "bd_short": "SD Organisatie",
+          "bd_long": "SD.Organisatie",
+          "municipality": "Gent",
+          "nis_code": "44021",
+          "total_amount": 25058635.0,
+          "amount_per_capita": 90.07,
+          "yearly_amounts": {
+            "2026": 2676917.0,
+            "2027": 4555097.0,
+            "2028": 7388621.0,
+            "2029": 7655871.0,
+            "2030": 2762163.0,
+            "2031": 19966.0
+          },
+          "yearly_per_capita": {
+            "2026": 9.62,
+            "2027": 16.37,
+            "2028": 26.56,
+            "2029": 27.52,
+            "2030": 9.93,
+            "2031": 0.07
+          }
+        },
+        {
+          "ac_code": "GBB",
+          "ac_short": "Verrichtingen zonder beleidsdoelstelling",
+          "ac_long": "Commentaar:",
+          "ap_code": "GBB",
+          "ap_short": "Verrichtingen zonder beleidsdoelstelling",
+          "ap_long": "Commentaar:",
+          "bd_code": "",
+          "bd_short": "",
+          "bd_long": "",
+          "municipality": "Wervik",
+          "nis_code": "33029",
+          "total_amount": 22713551.0,
+          "amount_per_capita": 1160.34,
+          "yearly_amounts": {
+            "2026": 8967930.0,
+            "2027": 2882494.0,
+            "2028": 2882346.0,
+            "2029": 2922142.0,
+            "2030": 3119735.0,
+            "2031": 1938904.0
+          },
+          "yearly_per_capita": {
+            "2026": 458.13,
+            "2027": 147.25,
+            "2028": 147.25,
+            "2029": 149.28,
+            "2030": 159.37,
+            "2031": 99.05
+          }
+        },
+        {
+          "ac_code": "",
+          "ac_short": "overigBeleid zonder actie",
+          "ac_long": "overigBeleid zonder actie",
+          "ap_code": "",
+          "ap_short": "overigBeleid",
+          "ap_long": "overigBeleid",
+          "bd_code": "",
+          "bd_short": "",
+          "bd_long": "",
+          "municipality": "Izegem",
+          "nis_code": "36008",
+          "total_amount": 22665055.0,
+          "amount_per_capita": 762.9,
+          "yearly_amounts": {
+            "2026": 7074452.0,
+            "2027": 3661445.0,
+            "2028": 3614815.0,
+            "2029": 3153008.0,
+            "2030": 2673211.0,
+            "2031": 2488124.0
+          },
+          "yearly_per_capita": {
+            "2026": 238.12,
+            "2027": 123.24,
+            "2028": 121.67,
+            "2029": 106.13,
+            "2030": 89.98,
+            "2031": 83.75
+          }
+        },
+        {
+          "ac_code": "AP",
+          "ac_short": "Inspelen op opportuniteiten tot verwerving van patrimonium",
+          "ac_long": "Inspelen op opportuniteiten tot verwerving van patrimonium",
+          "ap_code": "AP",
+          "ap_short": "Infrastructuur afstemmen op huidige en toekomstige noden",
+          "ap_long": "Infrastructuur afstemmen op huidige en toekomstige noden",
+          "bd_code": "BDS",
+          "bd_short": "Mooie en groene gemeente die klaar is voor de toekomst",
+          "bd_long": "Hooglede wil een aangename en duurzame leefomgeving creëren, met aandacht voor groen, klimaat en ruimtelijke kwaliteit. We streven naar een gemeente die zich aanpast aan de uitdagingen van morgen, zoals energie-efficiëntie, klimaatverandering en verantwoorde ruimtelijke ontwikkeling. \nDoor werk te maken van een doordacht woonbeleid en het versterken van de open ruimte, willen we het evenwicht bewaren tussen wonen, natuur en leefbaarheid. Ook het gemeentelijk patrimonium wordt toekomstgericht beheerd, met oog voor efficiënt gebruik en maatschappelijke meerwaarde. Hooglede neemt daarbij duurzame keuzes mee in haar beleid, zodat de gemeente stap voor stap evolueert naar een toekomstgerichte en aantrekkelijke plek om te wonen, te werken en te leven.",
+          "municipality": "Hooglede",
+          "nis_code": "36006",
+          "total_amount": 17981121.0,
+          "amount_per_capita": 1754.06,
+          "yearly_amounts": {
+            "2026": 3179591.0,
+            "2027": 4536506.0,
+            "2028": 5270779.0,
+            "2029": 2598487.0,
+            "2030": 1409459.0,
+            "2031": 986299.0
+          },
+          "yearly_per_capita": {
+            "2026": 310.17,
+            "2027": 442.54,
+            "2028": 514.16,
+            "2029": 253.48,
+            "2030": 137.49,
+            "2031": 96.21
+          }
+        },
+        {
+          "ac_code": "A",
+          "ac_short": "Vernieuwing en uitbreiding HVAC en elektriciteit en zonnenpanelen",
+          "ac_long": "Commentaar:",
+          "ap_code": "AP",
+          "ap_short": "Investeren in energiezuinige gebouwen",
+          "ap_long": "Commentaar:",
+          "bd_code": "BD",
+          "bd_short": "Voeren van een duurzaam patrimoniumbeleid",
+          "bd_long": "Kwalitatieve omschrijving: Het patrimonium verder duurzaam, toegankelijk, energieneutraal maken",
+          "municipality": "Glabbeek",
+          "nis_code": "24137",
+          "total_amount": 16163753.0,
+          "amount_per_capita": 3047.43,
+          "yearly_amounts": {
+            "2026": 9222458.0,
+            "2027": 1451000.0,
+            "2028": 1994295.0,
+            "2029": 2494350.0,
+            "2030": 966650.0,
+            "2031": 35000.0
+          },
+          "yearly_per_capita": {
+            "2026": 1738.75,
+            "2027": 273.56,
+            "2028": 375.99,
+            "2029": 470.27,
+            "2030": 182.25,
+            "2031": 6.6
+          }
+        },
+        {
+          "ac_code": "",
+          "ac_short": "overigBeleid zonder actie",
+          "ac_long": "overigBeleid zonder actie",
+          "ap_code": "",
+          "ap_short": "overigBeleid",
+          "ap_long": "overigBeleid",
+          "bd_code": "",
+          "bd_short": "",
+          "bd_long": "",
+          "municipality": "Meise",
+          "nis_code": "23050",
+          "total_amount": 12958630.0,
+          "amount_per_capita": 619.18,
+          "yearly_amounts": {
+            "2026": 6533304.0,
+            "2027": 3552388.0,
+            "2028": 821817.0,
+            "2029": 547304.0,
+            "2030": 1000353.0,
+            "2031": 503464.0
+          },
+          "yearly_per_capita": {
+            "2026": 312.17,
+            "2027": 169.74,
+            "2028": 39.27,
+            "2029": 26.15,
+            "2030": 47.8,
+            "2031": 24.06
+          }
+        },
+        {
+          "ac_code": "",
+          "ac_short": "overigBeleid zonder actie",
+          "ac_long": "overigBeleid zonder actie",
+          "ap_code": "",
+          "ap_short": "",
+          "ap_long": "",
+          "bd_code": "",
+          "bd_short": "",
+          "bd_long": "",
+          "municipality": "Diksmuide",
+          "nis_code": "32003",
+          "total_amount": 12594727.0,
+          "amount_per_capita": 717.9,
+          "yearly_amounts": {
+            "2026": 5140221.0,
+            "2027": 1999119.0,
+            "2028": 1689337.0,
+            "2029": 1350036.0,
+            "2030": 1364544.0,
+            "2031": 1051470.0
+          },
+          "yearly_per_capita": {
+            "2026": 292.99,
+            "2027": 113.95,
+            "2028": 96.29,
+            "2029": 76.95,
+            "2030": 77.78,
+            "2031": 59.93
+          }
+        },
+        {
+          "ac_code": "GBB",
+          "ac_short": "Verrichtingen zonder beleidsdoelstelling",
+          "ac_long": "Commentaar:",
+          "ap_code": "GBB",
+          "ap_short": "Verrichtingen zonder beleidsdoelstelling",
+          "ap_long": "Commentaar:",
+          "bd_code": "",
+          "bd_short": "",
+          "bd_long": "",
+          "municipality": "Avelgem",
+          "nis_code": "34003",
+          "total_amount": 11811932.0,
+          "amount_per_capita": 1097.57,
+          "yearly_amounts": {
+            "2026": 2757266.0,
+            "2027": 1347492.0,
+            "2028": 3496666.0,
+            "2029": 2816973.0,
+            "2030": 658636.0,
+            "2031": 734899.0
+          },
+          "yearly_per_capita": {
+            "2026": 256.21,
+            "2027": 125.21,
+            "2028": 324.91,
+            "2029": 261.75,
+            "2030": 61.2,
+            "2031": 68.29
+          }
+        },
+        {
+          "ac_code": "GBB",
+          "ac_short": "Verrichtingen zonder beleidsdoelstelling",
+          "ac_long": "Commentaar:",
+          "ap_code": "GBB",
+          "ap_short": "Verrichtingen zonder beleidsdoelstelling",
+          "ap_long": "Commentaar:",
+          "bd_code": "",
+          "bd_short": "",
+          "bd_long": "",
+          "municipality": "Dentergem",
+          "nis_code": "37002",
+          "total_amount": 11330419.0,
+          "amount_per_capita": 1274.67,
+          "yearly_amounts": {
+            "2026": 2109467.0,
+            "2027": 1608858.0,
+            "2028": 3574968.0,
+            "2029": 1324626.0,
+            "2030": 1436913.0,
+            "2031": 1275587.0
+          },
+          "yearly_per_capita": {
+            "2026": 237.32,
+            "2027": 181.0,
+            "2028": 402.18,
+            "2029": 149.02,
+            "2030": 161.65,
+            "2031": 143.5
+          }
+        },
+        {
+          "ac_code": "",
+          "ac_short": "overigBeleid zonder actie",
+          "ac_long": "overigBeleid zonder actie",
+          "ap_code": "",
+          "ap_short": "",
+          "ap_long": "",
+          "bd_code": "",
+          "bd_short": "",
+          "bd_long": "",
+          "municipality": "Lede",
+          "nis_code": "41034",
+          "total_amount": 8600927.0,
+          "amount_per_capita": 437.27,
+          "yearly_amounts": {
+            "2026": 2077796.0,
+            "2027": 1421696.0,
+            "2028": 2836347.0,
+            "2029": 802896.0,
+            "2030": 671596.0,
+            "2031": 790596.0
+          },
+          "yearly_per_capita": {
+            "2026": 105.64,
+            "2027": 72.28,
+            "2028": 144.2,
+            "2029": 40.82,
+            "2030": 34.14,
+            "2031": 40.19
+          }
         }
-      ]
+      ],
+      "data_file": "category/00-algemene-financiering.json"
     },
     "01-algemeen-bestuur": {
       "id": "01-algemeen-bestuur",
@@ -638,8 +950,319 @@
             "2030": 87.34,
             "2031": 29.52
           }
+        },
+        {
+          "ac_code": "3SBS019801",
+          "ac_short": "Cluster investeringen",
+          "ac_long": "Cluster investeringen",
+          "ap_code": "3SBS0198",
+          "ap_short": "Cluster investeringen",
+          "ap_long": "Cluster investeringen",
+          "bd_code": "3SBS01",
+          "bd_short": "Patrimonium",
+          "bd_long": "Patrimonium",
+          "municipality": "Antwerpen",
+          "nis_code": "11002",
+          "total_amount": 60189179.0,
+          "amount_per_capita": 108.07,
+          "yearly_amounts": {
+            "2026": 13666442.0,
+            "2027": 9200000.0,
+            "2028": 9200000.0,
+            "2029": 9200000.0,
+            "2030": 9200000.0,
+            "2031": 9722737.0
+          },
+          "yearly_per_capita": {
+            "2026": 24.54,
+            "2027": 16.52,
+            "2028": 16.52,
+            "2029": 16.52,
+            "2030": 16.52,
+            "2031": 17.46
+          }
+        },
+        {
+          "ac_code": "AC35787",
+          "ac_short": "MAKET",
+          "ac_long": "AC.Uitvoeren wettelijke verplichtingen gebouwen (MAKET)",
+          "ap_code": "OD20086",
+          "ap_short": "Vastgoed",
+          "ap_long": "OD.Bouwen aan kwalitatief en toekomstbestendig vastgoed",
+          "bd_code": "SD20014",
+          "bd_short": "SD Organisatie",
+          "bd_long": "SD.Organisatie",
+          "municipality": "Gent",
+          "nis_code": "44021",
+          "total_amount": 58000000.0,
+          "amount_per_capita": 208.47,
+          "yearly_amounts": {
+            "2026": 5083125.0,
+            "2027": 7014712.0,
+            "2028": 10890341.0,
+            "2029": 11271502.0,
+            "2030": 11666005.0,
+            "2031": 12074315.0
+          },
+          "yearly_per_capita": {
+            "2026": 18.27,
+            "2027": 25.21,
+            "2028": 39.14,
+            "2029": 40.51,
+            "2030": 41.93,
+            "2031": 43.4
+          }
+        },
+        {
+          "ac_code": "ACT",
+          "ac_short": "Aalter organiseert de verkiezingen op verschillende niveaus.",
+          "ac_long": "Het lokaal bestuur organiseert de verkiezingen in overeenstemming met de geldende kieswetgeving. Deze actie omvat de voorbereiding, coördinatie en uitvoering van alle noodzakelijke stappen om een correct, toegankelijk en ordentelijk stemproces te garanderen. Om dit te realiseren, wordt de samenwerking tussen verschillende diensten en betrokken partners afgestemd binnen een projectmatige aanpak. De organisatie van de verkiezingen is een wettelijke opdracht van het lokaal bestuur.",
+          "ap_code": "AP",
+          "ap_short": "Aalter stelt een bestuur aan en monitort de meerjarenplanning en diens doelstellingen.",
+          "ap_long": "Aalter waarborgt een vlotte en transparante overgang naar een nieuw bestuur, met respect voor democratische processen en goed bestuur. We zorgen voor een correcte organisatie van de verkiezingen en een efficiënte installatie van de nieuwe organen. De opmaak van een nieuw meerjarenplan vormt het beleidsmatige kompas, gedragen door actuele inzichten en maatschappelijke noden. Dit plan wordt voortdurend afgestemd op evoluties binnen en buiten de organisatie en vormt zo de basis voor doordacht, coherent beleid. Deze aanpak en opvolging verzekert de bestuurskrachtige werking van Aalter en een beleid dat blijft inspelen op de verwachtingen van burgers.",
+          "bd_code": "SD",
+          "bd_short": "Aalter profileert zich als een ambitieuze en bestuurskrachtige gemeente.",
+          "bd_long": "Kwalitatieve omschrijving: Aalter profileert zich als een ambitieuze organisatie die voortdurend aandacht besteedt aan kwaliteit. Het lokaal bestuur ziet toe op de continue verbetering van de organisatie, met oog op het behoud van het ISO 9001-certificaat. Heldere interne communicatie en goede coördinatie versterken onze werking. We volgen de beleids- en beheerscyclus consequent op als leidraad voor planning, uitvoering en bijsturing. Via een doordacht personeelsbeleid zet de organisatie in op ontwikkeling, samenwerking en resultaat. Bovendien hanteren we een efficiënte ICT-infrastructuur met veilig en verantwoord databeheer. Zo blijft Aalter evolueren als bestuurskrachtige gemeente.",
+          "municipality": "Aalter",
+          "nis_code": "44084",
+          "total_amount": 57228324.0,
+          "amount_per_capita": 1925.37,
+          "yearly_amounts": {
+            "2026": 8345495.0,
+            "2027": 6617774.0,
+            "2028": 16699299.0,
+            "2029": 17023317.0,
+            "2030": 6928090.0,
+            "2031": 1614349.0
+          },
+          "yearly_per_capita": {
+            "2026": 280.77,
+            "2027": 222.65,
+            "2028": 561.83,
+            "2029": 572.73,
+            "2030": 233.09,
+            "2031": 54.31
+          }
+        },
+        {
+          "ac_code": "AC",
+          "ac_short": "Optimaal inrichten AC voor burgers en medewerkers",
+          "ac_long": "Optimaal inrichten AC voor burgers en medewerkers\n\nDoor het AC optimaal in te richten, versterken we de dienstverlening aan burgers en creëren we een functionele werkomgeving voor medewerkers.",
+          "ap_code": "AP",
+          "ap_short": "We optimaliseren de werkomgeving en de organisatiecultuur en stimuleren de betrokkenheid van alle me",
+          "ap_long": "We optimaliseren de werkomgeving en de organisatiecultuur en stimuleren de betrokkenheid van alle medewerkers",
+          "bd_code": "BD",
+          "bd_short": "Voluit voor een sterke organisatie in Kortenberg",
+          "bd_long": "Commentaar:",
+          "municipality": "Kortenberg",
+          "nis_code": "24055",
+          "total_amount": 56702952.0,
+          "amount_per_capita": 2631.02,
+          "yearly_amounts": {
+            "2026": 10570991.0,
+            "2027": 19428166.0,
+            "2028": 20024003.0,
+            "2029": 4776919.0,
+            "2030": 1191877.0,
+            "2031": 710996.0
+          },
+          "yearly_per_capita": {
+            "2026": 490.49,
+            "2027": 901.47,
+            "2028": 929.11,
+            "2029": 221.65,
+            "2030": 55.3,
+            "2031": 32.99
+          }
+        },
+        {
+          "ac_code": "AC35123",
+          "ac_short": "Onderhoud MOK/niet-MOK FM Onderwijs",
+          "ac_long": "AC.Uitvoeren van onderhoud gebouwen en operationeel beheer gebouwen Dienst FM Onderwijs",
+          "ap_code": "OD20086",
+          "ap_short": "Vastgoed",
+          "ap_long": "OD.Bouwen aan kwalitatief en toekomstbestendig vastgoed",
+          "bd_code": "SD20014",
+          "bd_short": "SD Organisatie",
+          "bd_long": "SD.Organisatie",
+          "municipality": "Gent",
+          "nis_code": "44021",
+          "total_amount": 54116566.0,
+          "amount_per_capita": 194.51,
+          "yearly_amounts": {
+            "2026": 9316566.0,
+            "2027": 8960000.0,
+            "2028": 8960000.0,
+            "2029": 8960000.0,
+            "2030": 8960000.0,
+            "2031": 8960000.0
+          },
+          "yearly_per_capita": {
+            "2026": 33.49,
+            "2027": 32.21,
+            "2028": 32.21,
+            "2029": 32.21,
+            "2030": 32.21,
+            "2031": 32.21
+          }
+        },
+        {
+          "ac_code": "3SBS010201",
+          "ac_short": "Recurrent onderhoud",
+          "ac_long": "Recurrent onderhoud",
+          "ap_code": "3SBS0102",
+          "ap_short": "Beheersbaar, veilig en duurzaa",
+          "ap_long": "Beheersbaar, veilig en duurzaam patrimonium",
+          "bd_code": "3SBS01",
+          "bd_short": "Patrimonium",
+          "bd_long": "Patrimonium",
+          "municipality": "Antwerpen",
+          "nis_code": "11002",
+          "total_amount": 53619028.0,
+          "amount_per_capita": 96.27,
+          "yearly_amounts": {
+            "2026": 8500000.0,
+            "2027": 8670000.0,
+            "2028": 8843400.0,
+            "2029": 9020268.0,
+            "2030": 9200673.0,
+            "2031": 9384687.0
+          },
+          "yearly_per_capita": {
+            "2026": 15.26,
+            "2027": 15.57,
+            "2028": 15.88,
+            "2029": 16.2,
+            "2030": 16.52,
+            "2031": 16.85
+          }
+        },
+        {
+          "ac_code": "A",
+          "ac_short": "print en kopie",
+          "ac_long": "We ondersteunen een efficiënte administratie door het aanbieden van print- en kopiemogelijkheden.",
+          "ap_code": "AP000035",
+          "ap_short": "Beleidsinformatie, informatie en data",
+          "ap_long": "We verzamelen, bewaren en gebruiken (beleids)informatie en data op een efficiënte en veilige wijze",
+          "bd_code": "BD000011",
+          "bd_short": "Sterke organisatie",
+          "bd_long": "We werken samen aan een sterke organisatie",
+          "municipality": "Westerlo",
+          "nis_code": "13049",
+          "total_amount": 53061764.0,
+          "amount_per_capita": 2043.72,
+          "yearly_amounts": {
+            "2026": 11586233.0,
+            "2027": 13224517.0,
+            "2028": 10339916.0,
+            "2029": 7550589.0,
+            "2030": 6948895.0,
+            "2031": 3411614.0
+          },
+          "yearly_per_capita": {
+            "2026": 446.25,
+            "2027": 509.35,
+            "2028": 398.25,
+            "2029": 290.82,
+            "2030": 267.64,
+            "2031": 131.4
+          }
+        },
+        {
+          "ac_code": "ACT",
+          "ac_short": "Uitbouw van een optimale dienstverlening en een klantgericht lokaal bestuur",
+          "ac_long": "De actie Gestroomlijnd Afspraken- en Snelloketsysteem heeft als doel het verbeteren van de toegankelijkheid en efficiëntie van publieke dienstverlening. Burgers ervaren soms onduidelijkheid, wachttijden en versnipperde communicatie bij het maken van afspraken of het verkrijgen van informatie het loket. Deze actie richt zich op het vereenvoudigen, versnellen en centraliseren van deze processen.",
+          "ap_code": "AP",
+          "ap_short": "Uitbouw van een optimale dienstverlening en een klantgericht bestuur",
+          "ap_long": "Commentaar:",
+          "bd_code": "BD",
+          "bd_short": "Datagedreven en gefundeerd beleid",
+          "bd_long": "Kwalitatieve omschrijving: Opwijk is een gemeente die wordt bestuurd vanuit een warm hart, maar waarin ook het hoofd een belangrijke rol speelt:  \nDe gemeente gaat voluit voor een datagedreven aanpak waarin ze gegevens uit verschillende bronnen samenbrengt alvorens keuzes te maken en uit te voeren. Op deze manier krijgt Opwijk inzicht in de samenhang tussen factoren en worden verbanden zichtbaar. Aan de hand van een datagedreven aanpak wordt duidelijk wat écht werkt om doelen te bereiken. \nDatagedreven beleid: analyse als basis voor beleidskeuzes \n- aan de hand van mijlpalen en indicatoren wordt info verzameld en leesbaar gemaakt voor iedereen.\n\nDaarnaast wil Opwijk ook de weg van digitalisering verder bewandelen.\n\nDigitalisering:\n-Gemeente zonder gemeentehuis: bijv. burgerprofiel, naar 1 geïntegreerd platform. \n-Gebruik van AI\n-Procesmanagement \n- E-inclusie: zowel voor ouderen als voor jeugd \n Kwantitatieve omschrijving: Per dienst wordt een actie voorzien, waaraan indicatoren gekoppeld worden om zo alle nuttige info te verzamelen om gefundeerde beslissingen te kunnen nemen.",
+          "municipality": "Opwijk",
+          "nis_code": "23060",
+          "total_amount": 48283300.0,
+          "amount_per_capita": 3173.12,
+          "yearly_amounts": {
+            "2026": 13010895.0,
+            "2027": 10850897.0,
+            "2028": 15162338.0,
+            "2029": 6249267.0,
+            "2030": 1476153.0,
+            "2031": 1533750.0
+          },
+          "yearly_per_capita": {
+            "2026": 855.06,
+            "2027": 713.11,
+            "2028": 996.45,
+            "2029": 410.69,
+            "2030": 97.01,
+            "2031": 100.8
+          }
+        },
+        {
+          "ac_code": "LB04",
+          "ac_short": "Middelen voor huur stadskantoor en Sociaal Huis",
+          "ac_long": "Middelen voor huur stadskantoor en Sociaal Huis",
+          "ap_code": "LB04",
+          "ap_short": "Financieel en zakelijk vastgoedbeheer",
+          "ap_long": "We gaan verstandig om met het geld en het beheer van ons vastgoed. We kiezen voor duurzame oplossingen, zetten middelen efficiënt in en nemen beslissingen op een transparante manier.",
+          "bd_code": "BDS",
+          "bd_short": "Kostenefficiënt en toekomstbestendig patrimonium",
+          "bd_long": "We kiezen bewust welke gebouwen en gronden we behouden als strategisch vastgoed op basis van onze beleidsdoelstellingen en de beschikbare middelen. Zo kunnen we ons patrimonium op een kostenefficiënte en toekomstgerichte manier beheren en onderhouden.",
+          "municipality": "Lier",
+          "nis_code": "12021",
+          "total_amount": 47862845.0,
+          "amount_per_capita": 1195.58,
+          "yearly_amounts": {
+            "2026": 13683209.0,
+            "2027": 13746781.0,
+            "2028": 9602815.0,
+            "2029": 8091217.0,
+            "2030": 1415171.0,
+            "2031": 1323652.0
+          },
+          "yearly_per_capita": {
+            "2026": 341.8,
+            "2027": 343.38,
+            "2028": 239.87,
+            "2029": 202.11,
+            "2030": 35.35,
+            "2031": 33.06
+          }
+        },
+        {
+          "ac_code": "",
+          "ac_short": "overigBeleid zonder actie",
+          "ac_long": "overigBeleid zonder actie",
+          "ap_code": "",
+          "ap_short": "",
+          "ap_long": "",
+          "bd_code": "",
+          "bd_short": "",
+          "bd_long": "",
+          "municipality": "Mortsel",
+          "nis_code": "11029",
+          "total_amount": 43636438.0,
+          "amount_per_capita": 1622.19,
+          "yearly_amounts": {
+            "2026": 29186551.0,
+            "2027": 6260026.0,
+            "2028": 1637616.0,
+            "2029": 2756639.0,
+            "2030": 1482542.0,
+            "2031": 2313064.0
+          },
+          "yearly_per_capita": {
+            "2026": 1085.01,
+            "2027": 232.72,
+            "2028": 60.88,
+            "2029": 102.48,
+            "2030": 55.11,
+            "2031": 85.99
+          }
         }
-      ]
+      ],
+      "data_file": "category/01-algemeen-bestuur.json"
     },
     "02-mobiliteit": {
       "id": "02-mobiliteit",
@@ -958,8 +1581,319 @@
             "2030": 105.82,
             "2031": 105.82
           }
+        },
+        {
+          "ac_code": "AC35686",
+          "ac_short": "Projectleiders WBW",
+          "ac_long": "AC.Plannen, ontwerpen, coördineren, leiden en/of opvolgen van projecten",
+          "ap_code": "OD20024",
+          "ap_short": "Vernieuwen wegen bruggen en waterlopen",
+          "ap_long": "OD.Vernieuwen van wegen, bruggen en waterlopen",
+          "bd_code": "SD20002",
+          "bd_short": "SD Ruimte",
+          "bd_long": "SD.Ruimte",
+          "municipality": "Gent",
+          "nis_code": "44021",
+          "total_amount": 56162085.0,
+          "amount_per_capita": 201.87,
+          "yearly_amounts": {
+            "2026": 9129865.0,
+            "2027": 8999232.0,
+            "2028": 9030159.0,
+            "2029": 9348607.0,
+            "2030": 9660352.0,
+            "2031": 9993870.0
+          },
+          "yearly_per_capita": {
+            "2026": 32.82,
+            "2027": 32.35,
+            "2028": 32.46,
+            "2029": 33.6,
+            "2030": 34.72,
+            "2031": 35.92
+          }
+        },
+        {
+          "ac_code": "AP05",
+          "ac_short": "Omschakelen van curatief naar preventief onderhoud van gemeentewegen",
+          "ac_long": "De stad Tienen wenst een meer objectieve beslissingsboom uit te werken voor onderhoud die berust op de effectieve meting van de algemene toestand van de wegenis/rijwegen (i.p.v. meldingen/klachten). Dit kan aan de hand van een wegenscan die om de 3 jaar herhaald zal worden om de evolutie van het wegennet op te volgen.  Aan de hand van software en artificiële intelligentie kan men uit de waargenomen evolutie van het wegennet onderhoudsprogramma’s opstellen en zich meer gaan toespitsen op het preventieve onderhoud.\n\nDit preventieve onderhoud zou de levensduur moeten verhogen en de onderhoudskosten terugdringen. \nFactoren zoals, de aanwezigheid van scholen, rusthuizen, belangrijke verkeersaders zullen eveneens opgenomen moeten worden in de beslissingsboom.  Een specifiek beslissingskader wordt uitgewerkt om een meerjaren-investeringsprogramma op te zetten.\n\nHet onderhoud  van voetpaden zal berusten op meldingen, input van Toegankelijk Tienen, stapscore, ... . Op plaatsen met weinig verkeer moet ontharding in plaats van de aanleg van voetpaden in overweging worden genomen. De aanwezigheid van scholen, instellingen, missing links, de aansluiting met andere trage wegen en de algemene toestand van het voetpad zullen deel uitmaken van het beslissingskader en de opmaak van een onderhoudsprogramma voor de voetpaden.\n\nTevens zal de stad de nutswerken voor water, stroom, internet e.d. voor de Tiense bevolking op haar grondgebied begeleiden.",
+          "ap_code": "AP05",
+          "ap_short": "Verbeteren, verduurzamen en vergroenen van straten en pleinen",
+          "ap_long": "De stad Tienen zet volop in op het verbeteren, verduurzamen en vergroenen van straten en pleinen. Er wordt een omslag gemaakt van curatief onderhoud naar structureel preventief groot onderhoud, zodat de  infrastructuur niet alleen veilig en leefbaar blijft, maar ook klaar is voor de toekomst.\n\nStrategische keuzes:\n- Vernieuwing en vergroening van wegen: Investeringen in gemeentewegen, gewestwegen en fietssnelwegen.\n- Hemelwaterbeheer en erosiebestrijding: Slimme oplossingen om wateroverlast te voorkomen en de bodem te beschermen.\n- Groene inrichting: Meer bomen en groene zones om biodiversiteit te bevorderen en het stedelijk klimaat te verbeteren.\n\nDe stad streeft naar een duurzame, veilige en toekomstbestendige openbare ruimte die niet alleen functioneel is, maar ook aantrekkelijk en gezond voor alle inwoners door:\n- Renovatie van bestaande infrastructuur: Verhoogt de leefbaarheid en veiligheid.\n- Duurzame materialen en technieken: Verminderen de ecologische voetafdruk.\n- Gebiedsgerichte vergroening: Creëert aantrekkelijke publieke ruimtes met meer natuur.",
+          "bd_code": "BD02",
+          "bd_short": "Aangenamer wonen, werken en leven via stadsvernieuwing en betere infrastructuur",
+          "bd_long": "Kwalitatieve omschrijving: Tienen bouwt aan een toekomstgerichte stad met een veilige, groene en toegankelijke infrastructuur die mobiliteit, leefbaarheid en duurzaamheid in balans brengt. Stadsvernieuwing blijft een belangrijke opdracht: de stad wil strategische zones zoals de stationsomgeving stap voor stap verbeteren en herinrichten, met aandacht voor wonen, werken en groen. Daarbij streeft ze naar een meer leefbare en toegankelijke omgeving, zonder de bestaande functies uit het oog te verliezen. De stad creëert aantrekkelijke publieke ruimtes die uitnodigen tot ontmoeting en versterkt de verbinding tussen stadskern en deelgemeenten.  \n \nDe stad hanteert een geïntegreerde aanpak waarin preventief onderhoud, vergroening en slimme technologie centraal staan. Door een weloverwogen heraanleg van wegen, voetpaden en pleinen, gecombineerd met een mobiliteitsplan dat doorgaand verkeer beperkt en duurzame vervoersmodi stimuleert.  \n \nEr wordt geïnvesteerd in projecten zoals fietsverbindingen, klimaatbestendige parken en een groen netwerk van trage wegen. Tegelijk wordt ingezet op een sterk patrimoniumbeleid dat erfgoed respecteert en stadsgebouwen moderniseert, en op kwalitatieve vrijetijdsinfrastructuur die uitnodigt tot sport, cultuur en ontmoeting. Samenwerking met partners en innovatieve technieken zoals datagedreven beslissingskaders zorgen voor efficiëntie en transparantie. \n \nMet deze geïntegreerde visie ontstaat een stad die niet alleen veilig en bereikbaar is, maar ook duurzaam, aantrekkelijk en klaar voor de uitdagingen van morgen.",
+          "municipality": "Tienen",
+          "nis_code": "24107",
+          "total_amount": 54863531.0,
+          "amount_per_capita": 1463.72,
+          "yearly_amounts": {
+            "2026": 20818531.0,
+            "2027": 12170000.0,
+            "2028": 7140000.0,
+            "2029": 5585000.0,
+            "2030": 5350000.0,
+            "2031": 3800000.0
+          },
+          "yearly_per_capita": {
+            "2026": 555.42,
+            "2027": 324.69,
+            "2028": 190.49,
+            "2029": 149.0,
+            "2030": 142.73,
+            "2031": 101.38
+          }
+        },
+        {
+          "ac_code": "PB4",
+          "ac_short": "We zetten een behoud van het aantal parkeerplaatsen binnen wandelafstand voorop.",
+          "ac_long": "Op die manier combineren we verblijfskwaliteit met algemene bereikbaarheid.",
+          "ap_code": "PB4",
+          "ap_short": "Een behoud van het aantal parkeerplaatsen binnen wandelafstand combineert verblijfskwaliteit",
+          "ap_long": "met algemene bereikbaarheid.",
+          "bd_code": "PB4",
+          "bd_short": "Onze omgeving, onze thuis",
+          "bd_long": "Kwalitatieve omschrijving: We willen een aangename, kwalitatieve en veilige ruimte om te leven en te bewegen. We moeten ons thuis voelen in onze gemeente. Dit vraagt inspanningen, blijvende investeringen. Inspanningen op het vlak van onderhoud en netheid, inspanningen op het vlak van mobiliteit, inspanningen op het vlak van kwalitatieve verblijfsruimte, levendige centra, en dit alles met een duurzame reflex, met het oog op de toekomst van de gemeente.",
+          "municipality": "Wevelgem",
+          "nis_code": "34041",
+          "total_amount": 54790655.0,
+          "amount_per_capita": 1709.53,
+          "yearly_amounts": {
+            "2026": 9026477.0,
+            "2027": 13247080.0,
+            "2028": 7547080.0,
+            "2029": 9414925.0,
+            "2030": 8882690.0,
+            "2031": 6672403.0
+          },
+          "yearly_per_capita": {
+            "2026": 281.64,
+            "2027": 413.32,
+            "2028": 235.48,
+            "2029": 293.76,
+            "2030": 277.15,
+            "2031": 208.19
+          }
+        },
+        {
+          "ac_code": "3.1",
+          "ac_short": "We maken werk van de derde fase van de verlaging van de Leie",
+          "ac_long": "We maken werk van de derde fase van de verlaging van de Leieboorden met inbegrip van een haven.",
+          "ap_code": "3.1",
+          "ap_short": "Verderzetten van de stadsvernieuwing",
+          "ap_long": "Verderzetten van de stadsvernieuwing",
+          "bd_code": "BDS",
+          "bd_short": "BD 3",
+          "bd_long": "Voortdurend vernieuwend",
+          "municipality": "Kortrijk",
+          "nis_code": "34022",
+          "total_amount": 54171346.0,
+          "amount_per_capita": 673.03,
+          "yearly_amounts": {
+            "2026": 7064802.0,
+            "2027": 8459084.0,
+            "2028": 9595793.0,
+            "2029": 8216001.0,
+            "2030": 11324000.0,
+            "2031": 9511666.0
+          },
+          "yearly_per_capita": {
+            "2026": 87.77,
+            "2027": 105.1,
+            "2028": 119.22,
+            "2029": 102.08,
+            "2030": 140.69,
+            "2031": 118.17
+          }
+        },
+        {
+          "ac_code": "LB03",
+          "ac_short": "Toegankelijke en goed onderhouden weginfrastructuur",
+          "ac_long": "Toegankelijke en goed onderhouden weginfrastructuur",
+          "ap_code": "LB03",
+          "ap_short": "Aantrekkelijk, duurzaam en goed onderhouden openbaar domein",
+          "ap_long": "We zorgen ervoor dat ons openbaar domein (wegen, voetpaden, grachten, pleinen, parken, groenzones en bossen) goed ingericht en onderhouden is. Het moet veilig, aangenaam en duurzaam zijn. We zetten in op proactief onderhoud, zodat iedereen kan genieten van groen in de buurt en beschermd is tegen wateroverlast.",
+          "bd_code": "BDS",
+          "bd_short": "Aangenaam, goed onderhouden toekomstgericht openbaar domein",
+          "bd_long": "We zorgen voor een aangenaam en goed onderhouden openbaar domein door het tijdig te onderhouden en te vernieuwen. Met een doordachte en preventieve aanpak sporen we gebreken sneller op en pakken we ze aan voordat ze voor overlast zorgen. We letten daarbij niet alleen op wat zichtbaar is, maar houden ook rekening met veiligheid, toegankelijkheid en duurzaamheid. Zo zorgen we ervoor dat straten, pleinen en andere publieke ruimtes in goede staat blijven en aangepast zijn aan de noden van vandaag én morgen.",
+          "municipality": "Lier",
+          "nis_code": "12021",
+          "total_amount": 49503842.0,
+          "amount_per_capita": 1236.57,
+          "yearly_amounts": {
+            "2026": 7405432.0,
+            "2027": 13301173.0,
+            "2028": 11162255.0,
+            "2029": 7807249.0,
+            "2030": 5590936.0,
+            "2031": 4236797.0
+          },
+          "yearly_per_capita": {
+            "2026": 184.98,
+            "2027": 332.25,
+            "2028": 278.82,
+            "2029": 195.02,
+            "2030": 139.66,
+            "2031": 105.83
+          }
+        },
+        {
+          "ac_code": "3LMS020101",
+          "ac_short": "Ringparken",
+          "ac_long": "Ringparken",
+          "ap_code": "3LMS0201",
+          "ap_short": "De grote verbinding",
+          "ap_long": "De grote verbinding",
+          "bd_code": "3LMS02",
+          "bd_short": "Mobiliteit",
+          "bd_long": "Mobiliteit",
+          "municipality": "Antwerpen",
+          "nis_code": "11002",
+          "total_amount": 41464309.0,
+          "amount_per_capita": 74.45,
+          "yearly_amounts": {
+            "2026": 22682342.0,
+            "2027": 11601650.0,
+            "2028": 7180317.0,
+            "2029": 0,
+            "2030": 0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 40.72,
+            "2027": 20.83,
+            "2028": 12.89,
+            "2029": 0,
+            "2030": 0,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "3DEU010101",
+          "ac_short": "Publiek domein en straatbeeld",
+          "ac_long": "Publiek domein en straatbeeld",
+          "ap_code": "3DEU0101",
+          "ap_short": "Een leefbaar Deurne",
+          "ap_long": "Een leefbaar Deurne",
+          "bd_code": "3DEU01",
+          "bd_short": "Doordacht Deurne",
+          "bd_long": "Doordacht Deurne",
+          "municipality": "Antwerpen",
+          "nis_code": "11002",
+          "total_amount": 40497570.0,
+          "amount_per_capita": 72.71,
+          "yearly_amounts": {
+            "2026": 6034000.0,
+            "2027": 11130920.0,
+            "2028": 5135300.0,
+            "2029": 7631090.0,
+            "2030": 5854180.0,
+            "2031": 4712080.0
+          },
+          "yearly_per_capita": {
+            "2026": 10.83,
+            "2027": 19.98,
+            "2028": 9.22,
+            "2029": 13.7,
+            "2030": 10.51,
+            "2031": 8.46
+          }
+        },
+        {
+          "ac_code": "WAS",
+          "ac_short": "Sint-Maria-Ten-Boslei",
+          "ac_long": "Wegenwerken - Sint-Maria-Ten-Boslei",
+          "ap_code": "WAS",
+          "ap_short": "Schoolomgevingen Schotenhof",
+          "ap_long": "Een veilige schoolomgeving in Schotenhof en Koningshof",
+          "bd_code": "BDS",
+          "bd_short": "WAS/007",
+          "bd_long": "Schotenhof met een verbeterde mobiliteit en fraaier straatbeeld",
+          "municipality": "Schoten",
+          "nis_code": "11040",
+          "total_amount": 39210000.0,
+          "amount_per_capita": 1144.93,
+          "yearly_amounts": {
+            "2026": 9611000.0,
+            "2027": 11486000.0,
+            "2028": 5763000.0,
+            "2029": 3480000.0,
+            "2030": 4440000.0,
+            "2031": 4430000.0
+          },
+          "yearly_per_capita": {
+            "2026": 280.64,
+            "2027": 335.39,
+            "2028": 168.28,
+            "2029": 101.62,
+            "2030": 129.65,
+            "2031": 129.36
+          }
+        },
+        {
+          "ac_code": "ACT",
+          "ac_short": "fietssnelweg OMA-route en Leirekensroute",
+          "ac_long": "Realisatie van fietssnelweg F221",
+          "ap_code": "AP",
+          "ap_short": "Investeren in fietsers en voetgangers",
+          "ap_long": "Het bestuur wil woon-werkverplaatsingen van het personeel per fiets en te voet zoveel mogelijk faciliteren (ACT-63). Investeringen in voet- en fietspaden worden meegenomen in ACT-68. Schoolomgevingen en schoolroutes worden veiliger gemaakt (ACT-64 en 128)",
+          "bd_code": "BD",
+          "bd_short": "MERCHTEM mobieler",
+          "bd_long": "Kwalitatieve omschrijving: Een ligging in de rand van Brussel kan vele voordelen bieden aan een gemeente, maar er is zeker één nadeel: de verkeersdrukte. In het centrum van Merchtem komen twee gewestwegen samen, en dat zorgt voor problemen inzake de mobiliteit. Om die mobiliteit toch beheersbaar te houden wordt er geïnvesteerd in handhaving (AP-18), in fietsers en voetgangers (AP-19) en in een vlottere doorstroming (AP-20).\nEr wordt een parkeerbeleid uitgewerkt (AP-21) en we investeren in openbaar vervoer en nieuwe mobiliteit en zetten technologie in (AP-22)",
+          "municipality": "Merchtem",
+          "nis_code": "23052",
+          "total_amount": 36473411.0,
+          "amount_per_capita": 2002.72,
+          "yearly_amounts": {
+            "2026": 8160285.0,
+            "2027": 11861252.0,
+            "2028": 10256162.0,
+            "2029": 5045212.0,
+            "2030": 553000.0,
+            "2031": 597500.0
+          },
+          "yearly_per_capita": {
+            "2026": 448.07,
+            "2027": 651.29,
+            "2028": 563.16,
+            "2029": 277.03,
+            "2030": 30.36,
+            "2031": 32.81
+          }
+        },
+        {
+          "ac_code": "D11",
+          "ac_short": "01 Leieboorden als belevingsgebied",
+          "ac_long": "We richten de Leieboorden in als belevingsgebied waar natuur, ontspanning en ontmoeting samenkomen",
+          "ap_code": "D11",
+          "ap_short": "AP01 Duurzaam, bereikbaar en levendig stadscentrum",
+          "ap_long": "AP01 We ontwikkelen een goed bereikbaar, duurzaam en levendig stadscentrum",
+          "bd_code": "BDS",
+          "bd_short": "Duurzame steden en gemeenschappen",
+          "bd_long": "SDG 11: Duurzame steden en gemeenschappen",
+          "municipality": "Harelbeke",
+          "nis_code": "34013",
+          "total_amount": 35163658.0,
+          "amount_per_capita": 1147.18,
+          "yearly_amounts": {
+            "2026": 5451062.0,
+            "2027": 1265000.0,
+            "2028": 2398325.0,
+            "2029": 4411289.0,
+            "2030": 6511689.0,
+            "2031": 15126293.0
+          },
+          "yearly_per_capita": {
+            "2026": 177.84,
+            "2027": 41.27,
+            "2028": 78.24,
+            "2029": 143.91,
+            "2030": 212.44,
+            "2031": 493.48
+          }
         }
-      ]
+      ],
+      "data_file": "category/02-mobiliteit.json"
     },
     "03-natuur-milieu": {
       "id": "03-natuur-milieu",
@@ -1276,8 +2210,319 @@
             "2030": 35.72,
             "2031": 53.95
           }
+        },
+        {
+          "ac_code": "AP0331",
+          "ac_short": "Individuele zuiveringsinstallaties gerealiseerd",
+          "ac_long": "We ronden de plaatsing van de resterend te realiseren individuele zuiveringsinstallaties (IBA's) uiterlijk af in 2027. \nWe versterken het stimulerende beleid van de afgelopen jaren, en gaan na hoe plaatsing kan afgedwongen worden waar nodig. Handhaving is hierbij een van de instrumenten.",
+          "ap_code": "AP0331",
+          "ap_short": "(Afval)water beheerd",
+          "ap_long": "(Afval)water beheerd",
+          "bd_code": "BDS",
+          "bd_short": "BD033 - Zuiver water",
+          "bd_long": "Zuiver water",
+          "municipality": "Zwevegem",
+          "nis_code": "34042",
+          "total_amount": 12306000.0,
+          "amount_per_capita": 476.86,
+          "yearly_amounts": {
+            "2026": 2515000.0,
+            "2027": 2715000.0,
+            "2028": 2831000.0,
+            "2029": 2465000.0,
+            "2030": 390000.0,
+            "2031": 1390000.0
+          },
+          "yearly_per_capita": {
+            "2026": 97.46,
+            "2027": 105.21,
+            "2028": 109.7,
+            "2029": 95.52,
+            "2030": 15.11,
+            "2031": 53.86
+          }
+        },
+        {
+          "ac_code": "A010301",
+          "ac_short": "A010301",
+          "ac_long": "Berlaar investeert in een toegankelijke vrijetijdsinfrastructuur.",
+          "ap_code": "AP001003",
+          "ap_short": "Berlaar beweegt en verbindt",
+          "ap_long": "We investeren in duurzame en veilige mobiliteit, toegankelijke infrastructuur en vlotte verbindingen tussen dorpskernen, voorzieningen en mensen.",
+          "bd_code": "BD000001",
+          "bd_short": "Berlaar leeft voor iedereen",
+          "bd_long": "We zorgen voor een warme, solidaire en inclusieve gemeente waar elke inwoner zich gehoord, geholpen en verbonden voelt. Met een open geest en nabij bestuur zetten we in op welzijn, gezondheid, onderwijs, een aantrekkelijk vrijetijdsaanbod en sociale verbondenheid, zodat iedereen kansen krijgt om volwaardig deel te nemen aan het maatschappelijk leven.",
+          "municipality": "Berlaar",
+          "nis_code": "12002",
+          "total_amount": 12136565.0,
+          "amount_per_capita": 1006.94,
+          "yearly_amounts": {
+            "2026": 150000.0,
+            "2027": 0,
+            "2028": 1485821.0,
+            "2029": 5993282.0,
+            "2030": 4457462.0,
+            "2031": 50000.0
+          },
+          "yearly_per_capita": {
+            "2026": 12.45,
+            "2027": 0,
+            "2028": 123.28,
+            "2029": 497.25,
+            "2030": 369.83,
+            "2031": 4.15
+          }
+        },
+        {
+          "ac_code": "AC000088",
+          "ac_short": "We voeren een rioolbeleid uit om de reductiedoelstellingen te behalen.",
+          "ac_long": "We voeren een doordacht rioolbeleid uit om de reductiedoelstellingen van Vlaanderente behalen van oppervlaktewater en grondwater, zowel op gebied van kwaliteit en kwantiteit.",
+          "ap_code": "AP000024",
+          "ap_short": "Beersel zet in op kwalitatieve kernversterking voor verkoelende en infiltrerende groene ruimte en...",
+          "ap_long": "Beersel zet in op kwalitatieve kernversterking met bijzondere aandacht voor verkoelende en infiltrerende groene ruimte en het vrijwaren en versterken van de open ruimte en de biodiversiteit.",
+          "bd_code": "BD000006",
+          "bd_short": "Beersel wil haar ruimtelijk karakter bewaren en samen met de inwoners de uitdagingen aangaan van mil",
+          "bd_long": "Beersel wil haar ruimtelijk karakter bewaren en samen met de inwoners de uitdagingen aangaan van milieu, leefomgeving, landbouw en klimaat.",
+          "municipality": "Beersel",
+          "nis_code": "23003",
+          "total_amount": 11238652.0,
+          "amount_per_capita": 410.03,
+          "yearly_amounts": {
+            "2026": 2172067.0,
+            "2027": 7945855.0,
+            "2028": 1120730.0,
+            "2029": 0,
+            "2030": 0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 79.25,
+            "2027": 289.9,
+            "2028": 40.89,
+            "2029": 0,
+            "2030": 0,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "3LMS049801",
+          "ac_short": "Cluster investeringen",
+          "ac_long": "Cluster investeringen",
+          "ap_code": "3LMS0498",
+          "ap_short": "Cluster investeringen",
+          "ap_long": "Cluster investeringen",
+          "bd_code": "3LMS04",
+          "bd_short": "Leefmilieu",
+          "bd_long": "Leefmilieu",
+          "municipality": "Antwerpen",
+          "nis_code": "11002",
+          "total_amount": 11054518.0,
+          "amount_per_capita": 19.85,
+          "yearly_amounts": {
+            "2026": 4354518.0,
+            "2027": 3700000.0,
+            "2028": 1800000.0,
+            "2029": 1000000.0,
+            "2030": 200000.0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 7.82,
+            "2027": 6.64,
+            "2028": 3.23,
+            "2029": 1.8,
+            "2030": 0.36,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "AC000075",
+          "ac_short": "Watersaneringsbijdrage en Hidrosan",
+          "ac_long": "Watersaneringsbijdrage en Hidrosan",
+          "ap_code": "AP000016",
+          "ap_short": "Financi le zaken",
+          "ap_long": "Financi le zaken",
+          "bd_code": "BD000006",
+          "bd_short": "Slimme krachtbron",
+          "bd_long": "Slimme krachtbron: We maken van elke euro een motor voor vernieuwing",
+          "municipality": "Schilde",
+          "nis_code": "11039",
+          "total_amount": 10853025.0,
+          "amount_per_capita": 524.27,
+          "yearly_amounts": {
+            "2026": 1418377.0,
+            "2027": 1894859.0,
+            "2028": 2775568.0,
+            "2029": 1579617.0,
+            "2030": 1531828.0,
+            "2031": 1652776.0
+          },
+          "yearly_per_capita": {
+            "2026": 68.52,
+            "2027": 91.53,
+            "2028": 134.08,
+            "2029": 76.31,
+            "2030": 74.0,
+            "2031": 79.84
+          }
+        },
+        {
+          "ac_code": "AC000104",
+          "ac_short": "6.1.2 We sluiten woningen aan op de riolering volgens het gebiedsdekkend uitvoeringsplan",
+          "ac_long": "6.1.2 We sluiten woningen aan op de riolering volgens het gebiedsdekkend uitvoeringsplan",
+          "ap_code": "AP000029",
+          "ap_short": "6.1 We investeren in ons openbaar domein",
+          "ap_long": "6.1 We investeren in ons openbaar domein",
+          "bd_code": "BD000006",
+          "bd_short": "BD 06 Turnhout zet kaai hert in op openbare ruimte",
+          "bd_long": "BD 06 Turnhout zet kaai hert in op openbare ruimte",
+          "municipality": "Turnhout",
+          "nis_code": "13040",
+          "total_amount": 10219500.0,
+          "amount_per_capita": 205.16,
+          "yearly_amounts": {
+            "2026": 5337500.0,
+            "2027": 3020000.0,
+            "2028": 1862000.0,
+            "2029": 0,
+            "2030": 0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 107.15,
+            "2027": 60.63,
+            "2028": 37.38,
+            "2029": 0,
+            "2030": 0,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "AC35726",
+          "ac_short": "onderhouden openbaar groen",
+          "ac_long": "AC.Onderhouden openbaar groen.",
+          "ap_code": "OD20013",
+          "ap_short": "Openbaar groen",
+          "ap_long": "OD.Beheren, onderhouden en vernieuwen van openbaar groen",
+          "bd_code": "SD20004",
+          "bd_short": "SD Klimaat en natuur",
+          "bd_long": "SD.Klimaat en natuur",
+          "municipality": "Gent",
+          "nis_code": "44021",
+          "total_amount": 9277000.0,
+          "amount_per_capita": 33.34,
+          "yearly_amounts": {
+            "2026": 1380000.0,
+            "2027": 1480000.0,
+            "2028": 1540000.0,
+            "2029": 1577000.0,
+            "2030": 1650000.0,
+            "2031": 1650000.0
+          },
+          "yearly_per_capita": {
+            "2026": 4.96,
+            "2027": 5.32,
+            "2028": 5.54,
+            "2029": 5.67,
+            "2030": 5.93,
+            "2031": 5.93
+          }
+        },
+        {
+          "ac_code": "AP01",
+          "ac_short": "Uitwerken van visie, richtlijnen en uitvoeringsinstrumenten met betrekking tot afval",
+          "ac_long": "De stad Tienen kiest voor een afvalbeleid dat inzet op drie pijlers om de stad leefbaarder en properder te maken. Ze zet in op een betere infrastructuur, veeg- en vuilnisplannen, een gerichtere inzameling en gedragsverandering van de inwoners. \n\nDe operationele uitrol van DifTar huis-aan-huisinzameling start in 2028. De stad Tienen beoogt hiermee een vermindering van zwerfvuil en sluikstort van 15% ten opzichte van 2024.",
+          "ap_code": "AP01",
+          "ap_short": "Optimaal beheren van het openbaar domein",
+          "ap_long": "De stad Tienen wil tijdens deze bestuursperiode tegemoet komen aan de vraag van inwoners naar betere, nettere en veiligere straten, pleinen, parken en voet- en fietspaden. Ze zet in op een professioneel, efficiënt en duurzaam beheer van het openbaar domein, met als doel de kwaliteit, veiligheid en leefbaarheid structureel te verhogen.\n\nStrategische keuzes:\n- Versterking van de organisatie: Optimalisatie van interne en externe samenwerking, uitbouw van een continue en klantgerichte dienstverlening, en duidelijke richtlijnen voor afvalbeheer.\n- Integraal en gebiedsgericht beheer: Aandacht voor onderhoud, vergroening, ontharding en klimaatbestendigheid, zodat het openbaar domein niet alleen netjes maar ook toekomstbestendig is.\n- Digitalisering en datagedreven planning: Slimme technologie en data zorgen voor meer efficiëntie, transparantie en wendbaarheid in de werking.\n- Gerichte investeringen: Modern materieel, voertuigen en infrastructuur versterken de operationele slagkracht en ondersteunen een duurzaam beheer.\n\nDoor deze acties te bundelen in een geïntegreerde aanpak bouwt de stad aan een wendbare, klantgerichte en toekomstbestendige organisatie die inspeelt op de noden van vandaag en voorbereid is op de uitdagingen van morgen.",
+          "bd_code": "BD01",
+          "bd_short": "Zorgen voor een propere, veilige stad",
+          "bd_long": "Kwalitatieve omschrijving: Tienen wil uitgroeien tot een stad waar netheid en veiligheid niet alleen zichtbaar, maar ook voelbaar aanwezig zijn in het dagelijks leven van elke inwoner. Ze streeft naar een hoogwaardig openbaar domein dat verzorgd, toegankelijk en duurzaam is ingericht, met voortdurende aandacht voor kwaliteit en optimalisatie.  \n \nOm dit te realiseren investeert de stad in onderhoud, digitalisering en slimme technologie, zodat ze met een datagedreven aanpak efficiënt en transparant werkt. Burgers worden actief betrokken via meldpunten en duidelijke communicatie, waardoor participatie en gedeelde verantwoordelijkheid centraal staan. Ze versterkt haar slagkracht met gerichte investeringen in materieel, infrastructuur en personeel, en garandeert snelle interventies en continue dienstverlening.  \n \nDe inspanningen zijn meetbaar: heldere doelstellingen worden gekoppeld aan indicatoren zoals minder restafval, minder sluikstort en een hogere tevredenheid over netheid en veiligheid. Met DifTar zet de stad een onderscheidende stap naar een eerlijk en duurzaam afvalbeleid, terwijl het stedelijk veiligheidsbeleid versterkt wordt via cameratoezicht, verkeersveiligheid en handhaving in combinatie met preventie.  \n \nDoor samenwerking met interne diensten, politie en externe partners en door voortdurende monitoring en bijsturing wordt stap voor stap gebouwd aan een stad die niet alleen proper en veilig is, maar ook veerkrachtig en leefbaar voor iedereen. Netheid en veiligheid vormen samen de basis van een sterke gemeenschap waarin inwoners zich thuis, betrokken en beschermd voelen.",
+          "municipality": "Tienen",
+          "nis_code": "24107",
+          "total_amount": 8570731.0,
+          "amount_per_capita": 228.66,
+          "yearly_amounts": {
+            "2026": 3361631.0,
+            "2027": 1241850.0,
+            "2028": 1060500.0,
+            "2029": 1764750.0,
+            "2030": 782000.0,
+            "2031": 360000.0
+          },
+          "yearly_per_capita": {
+            "2026": 89.69,
+            "2027": 33.13,
+            "2028": 28.29,
+            "2029": 47.08,
+            "2030": 20.86,
+            "2031": 9.6
+          }
+        },
+        {
+          "ac_code": "AC000109",
+          "ac_short": "6.2.3 We onderhouden ons rioleringsstelsel, zowel in het centrum als in landelijke zones",
+          "ac_long": "6.2.3 We onderhouden ons rioleringsstelsel, zowel in het centrum als in landelijke zones",
+          "ap_code": "AP000030",
+          "ap_short": "6.2 We onderhouden ons openbaar domein",
+          "ap_long": "6.2 We onderhouden ons openbaar domein",
+          "bd_code": "BD000006",
+          "bd_short": "BD 06 Turnhout zet kaai hert in op openbare ruimte",
+          "bd_long": "BD 06 Turnhout zet kaai hert in op openbare ruimte",
+          "municipality": "Turnhout",
+          "nis_code": "13040",
+          "total_amount": 8187000.0,
+          "amount_per_capita": 164.36,
+          "yearly_amounts": {
+            "2026": 1930000.0,
+            "2027": 100000.0,
+            "2028": 1402000.0,
+            "2029": 1728000.0,
+            "2030": 1693000.0,
+            "2031": 1334000.0
+          },
+          "yearly_per_capita": {
+            "2026": 38.75,
+            "2027": 2.01,
+            "2028": 28.15,
+            "2029": 34.69,
+            "2030": 33.99,
+            "2031": 26.78
+          }
+        },
+        {
+          "ac_code": "AC000060",
+          "ac_short": "Rioleringen",
+          "ac_long": "Het rioleringsstelsel is goed onderhouden en betrouwbaar uitgebouwd. Afval- en regenwater worden doeltreffend afgevoerd en verwerkt.",
+          "ap_code": "AP000017",
+          "ap_short": "Openbaar domein dagelijks beheer en onderhoud",
+          "ap_long": "Het openbaar domein wordt goed onderhouden: het groen wordt verzorgd, de wegen, voet- en fietspaden zijn in veilige en bruikbare staat, overlast door dieren of exoten is onder controle. Bijzondere aandacht gaat naar het afvalbeleid en het tegengaan van sluikstort en zwerfvuil.",
+          "bd_code": "BD000004",
+          "bd_short": "Toekomstbestendige gebouwen en aantrekkelijk openbaar domein",
+          "bd_long": "Stabroek investeert in toekomstbestendige gebouwen en een aantrekkelijk openbaar domein. In onze gebouwen gaan functionaliteit, efficiëntie en duurzaamheid hand in hand. Voor onze openbare ruimte  primeren een adequaat onderhoud naast klimaatbestendigheid. Dit draagt bij aan een omgeving die meerwaarde creëert, waar inwoners zich thuis voelen, trots op zijn en die hun levenskwaliteit en tevredenheid versterkt.",
+          "municipality": "Stabroek",
+          "nis_code": "11044",
+          "total_amount": 8159962.0,
+          "amount_per_capita": 424.93,
+          "yearly_amounts": {
+            "2026": 1332337.0,
+            "2027": 1343336.0,
+            "2028": 1354383.0,
+            "2029": 1365478.0,
+            "2030": 1376620.0,
+            "2031": 1387808.0
+          },
+          "yearly_per_capita": {
+            "2026": 69.38,
+            "2027": 69.95,
+            "2028": 70.53,
+            "2029": 71.11,
+            "2030": 71.69,
+            "2031": 72.27
+          }
         }
-      ]
+      ],
+      "data_file": "category/03-natuur-milieu.json"
     },
     "04-veiligheidszorg": {
       "id": "04-veiligheidszorg",
@@ -1594,8 +2839,319 @@
             "2030": 57.57,
             "2031": 12.19
           }
+        },
+        {
+          "ac_code": "AC000249",
+          "ac_short": "06.02.01.02 FA Financiën",
+          "ac_long": "06.02.01.02 FA Financiën",
+          "ap_code": "AP000072",
+          "ap_short": "06.02.01 Financiën en Aankoop  - reguliere werking",
+          "ap_long": "06.02.01 Financiën en Aankoop  - reguliere werking",
+          "bd_code": "BD000020",
+          "bd_short": "BD 6.2 - FA Regulier Beleid",
+          "bd_long": "BD 6.2 - FA Regulier Beleid",
+          "municipality": "Brasschaat",
+          "nis_code": "11008",
+          "total_amount": 10028466.0,
+          "amount_per_capita": 254.13,
+          "yearly_amounts": {
+            "2026": 2187230.0,
+            "2027": 2075788.0,
+            "2028": 2410832.0,
+            "2029": 955055.0,
+            "2030": 953594.0,
+            "2031": 1445967.0
+          },
+          "yearly_per_capita": {
+            "2026": 55.43,
+            "2027": 52.6,
+            "2028": 61.09,
+            "2029": 24.2,
+            "2030": 24.17,
+            "2031": 36.64
+          }
+        },
+        {
+          "ac_code": "3VGS010802",
+          "ac_short": "Nieuwbouw en renovatie brandwe",
+          "ac_long": "Nieuwbouw en renovatie brandweerkazernes",
+          "ap_code": "3VGS0108",
+          "ap_short": "Brandweerzone Antwerpen",
+          "ap_long": "Brandweerzone Antwerpen",
+          "bd_code": "3VGS01",
+          "bd_short": "Veiligheid",
+          "bd_long": "Veiligheid",
+          "municipality": "Antwerpen",
+          "nis_code": "11002",
+          "total_amount": 8245002.0,
+          "amount_per_capita": 14.8,
+          "yearly_amounts": {
+            "2026": 2052199.0,
+            "2027": 3108584.0,
+            "2028": 2938023.0,
+            "2029": 85281.0,
+            "2030": 0,
+            "2031": 60915.0
+          },
+          "yearly_per_capita": {
+            "2026": 3.68,
+            "2027": 5.58,
+            "2028": 5.28,
+            "2029": 0.15,
+            "2030": 0,
+            "2031": 0.11
+          }
+        },
+        {
+          "ac_code": "2.1.1",
+          "ac_short": "waarborgen van veiligheid en hulpverlening ( brandweerzone)",
+          "ac_long": "Vanuit ons beleid zetten we verder in op het waarborgen van veiligheid en hulpverlening.",
+          "ap_code": "2.1",
+          "ap_short": "Veilige gemeente – fysieke veiligheid",
+          "ap_long": "De veiligheid en de leefbaarheid van onze buurten is een absolute prioriteit. Om dit te bereiken zetten we in op een slimme combinatie van preventie, buurtwerking en strikte handhaving. Dit doen we in goede samenwerking met alle betrokken partners.",
+          "bd_code": "2",
+          "bd_short": "Lille - gemeente waar inwoners en bezoekers zich veilig voelen",
+          "bd_long": "Kwalitatieve omschrijving: Lille is een gemeente waar onze inwoners en bezoekers zich veilig voelen, waar een transparant en een rechtlijnig veiligheids,- mobiliteits- en handhavingsbeleid wordt gevoerd.",
+          "municipality": "Lille",
+          "nis_code": "13019",
+          "total_amount": 7148762.0,
+          "amount_per_capita": 418.15,
+          "yearly_amounts": {
+            "2026": 213330.0,
+            "2027": 6102961.0,
+            "2028": 198918.0,
+            "2029": 201779.0,
+            "2030": 231705.0,
+            "2031": 200069.0
+          },
+          "yearly_per_capita": {
+            "2026": 12.48,
+            "2027": 356.98,
+            "2028": 11.64,
+            "2029": 11.8,
+            "2030": 13.55,
+            "2031": 11.7
+          }
+        },
+        {
+          "ac_code": "AC000061",
+          "ac_short": "Nieuwe politiepost",
+          "ac_long": "We bouwen een moderne en klantgerichte politiepost in de Schoolweg als antenne voor onze politiewerking.",
+          "ap_code": "AP000012",
+          "ap_short": "Preventie en handhaving",
+          "ap_long": "We werken op een geïntegreerde manier samen rond preventie en handhaving om de veiligheid in onze gemeente te versterken.",
+          "bd_code": "BD000004",
+          "bd_short": "Veiligheid in Willebroek",
+          "bd_long": "We verhogen de veiligheid en leefbaarheid in Willebroek door een ketenaanpak van gerichte acties op vlak van preventie, handhaving en buurtgerichte samenwerking.",
+          "municipality": "Willebroek",
+          "nis_code": "12040",
+          "total_amount": 6550000.0,
+          "amount_per_capita": 226.83,
+          "yearly_amounts": {
+            "2026": 2200000.0,
+            "2027": 4250000.0,
+            "2028": 100000.0,
+            "2029": 0,
+            "2030": 0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 76.19,
+            "2027": 147.18,
+            "2028": 3.46,
+            "2029": 0,
+            "2030": 0,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "",
+          "ac_short": "overigBeleid zonder actie",
+          "ac_long": "overigBeleid zonder actie",
+          "ap_code": "",
+          "ap_short": "",
+          "ap_long": "",
+          "bd_code": "",
+          "bd_short": "",
+          "bd_long": "",
+          "municipality": "Ronse",
+          "nis_code": "45041",
+          "total_amount": 6462440.0,
+          "amount_per_capita": 234.87,
+          "yearly_amounts": {
+            "2026": 1854907.0,
+            "2027": 1362753.0,
+            "2028": 1181200.0,
+            "2029": 624863.0,
+            "2030": 635667.0,
+            "2031": 803050.0
+          },
+          "yearly_per_capita": {
+            "2026": 67.42,
+            "2027": 49.53,
+            "2028": 42.93,
+            "2029": 22.71,
+            "2030": 23.1,
+            "2031": 29.19
+          }
+        },
+        {
+          "ac_code": "S8B3P1",
+          "ac_short": "Bijdragen partners",
+          "ac_long": "We dragen financieel bij aan intergemeentelijke samenwerkingsverbanden, lokale kerkfabrieken en het autonoom gemeentebedrijf.",
+          "ap_code": "S8B3P1",
+          "ap_short": "Subsidie-efficiëntie verhogen",
+          "ap_long": "We verhogen de efficiëntie van de gemeentelijke werking door de subsidie-inkomsten te maximaliseren, samenwerkingen te onderzoeken en de levenscycluskost mee te nemen in alle grote investeringsbeslissingen.",
+          "bd_code": "BDS",
+          "bd_short": "S8B3 Subsidie-efficiëntie",
+          "bd_long": "We verhogen de efficiëntie van de gemeentelijke werking door de subsidie-inkomsten te maximaliseren, samenwerkingen te onderzoeken en de levenscycluskost mee te nemen in alle grote investeringsbeslissingen.",
+          "municipality": "Oudsbergen",
+          "nis_code": "72042",
+          "total_amount": 6137180.0,
+          "amount_per_capita": 254.96,
+          "yearly_amounts": {
+            "2026": 1001720.0,
+            "2027": 943700.0,
+            "2028": 1358380.0,
+            "2029": 964060.0,
+            "2030": 934030.0,
+            "2031": 935290.0
+          },
+          "yearly_per_capita": {
+            "2026": 41.61,
+            "2027": 39.2,
+            "2028": 56.43,
+            "2029": 40.05,
+            "2030": 38.8,
+            "2031": 38.85
+          }
+        },
+        {
+          "ac_code": "GBB",
+          "ac_short": "Verrichtingen zonder beleidsdoelstelling",
+          "ac_long": "Commentaar:",
+          "ap_code": "GBB",
+          "ap_short": "Verrichtingen zonder beleidsdoelstelling",
+          "ap_long": "Commentaar:",
+          "bd_code": "",
+          "bd_short": "",
+          "bd_long": "",
+          "municipality": "Beernem",
+          "nis_code": "31003",
+          "total_amount": 5768910.0,
+          "amount_per_capita": 349.24,
+          "yearly_amounts": {
+            "2026": 1845899.0,
+            "2027": 1152052.0,
+            "2028": 828548.0,
+            "2029": 679946.0,
+            "2030": 556204.0,
+            "2031": 706261.0
+          },
+          "yearly_per_capita": {
+            "2026": 111.75,
+            "2027": 69.74,
+            "2028": 50.16,
+            "2029": 41.16,
+            "2030": 33.67,
+            "2031": 42.76
+          }
+        },
+        {
+          "ac_code": "AC000045",
+          "ac_short": "2.2.2 De politie draagt bij aan het veiligheidsgevoel van de stad",
+          "ac_long": "2.2.2 De politie draagt bij aan het veiligheidsgevoel van de stad",
+          "ap_code": "AP000013",
+          "ap_short": "2.2 We verhogen het veiligheidsgevoel van onze inwoners",
+          "ap_long": "2.2 We verhogen het veiligheidsgevoel van onze inwoners",
+          "bd_code": "BD000002",
+          "bd_short": "BD 02 Turnhout is veilig - overal en voor iedereen",
+          "bd_long": "BD 02 Turnhout is veilig - overal en voor iedereen",
+          "municipality": "Turnhout",
+          "nis_code": "13040",
+          "total_amount": 5620333.0,
+          "amount_per_capita": 112.83,
+          "yearly_amounts": {
+            "2026": 909833.0,
+            "2027": 942100.0,
+            "2028": 942100.0,
+            "2029": 942100.0,
+            "2030": 942100.0,
+            "2031": 942100.0
+          },
+          "yearly_per_capita": {
+            "2026": 18.27,
+            "2027": 18.91,
+            "2028": 18.91,
+            "2029": 18.91,
+            "2030": 18.91,
+            "2031": 18.91
+          }
+        },
+        {
+          "ac_code": "AC000028",
+          "ac_short": "Realisatie van een nieuwe hulpverleningskazerne",
+          "ac_long": "We streven naar de realisatie van een nieuwe en moderne hulpverleningskazerne op de site van Sint-Jan in de Kerkstraat.",
+          "ap_code": "AP000010",
+          "ap_short": "Hulpverlening",
+          "ap_long": "Optimalisatie en modernisering van de hulpverlening",
+          "bd_code": "BD000002",
+          "bd_short": "Veiligheid",
+          "bd_long": "We wensen de veiligheid en het veiligheidsgevoel te verhogen en het aantal misdrijven en overlast te verminderen tegen 2031.",
+          "municipality": "Arendonk",
+          "nis_code": "13001",
+          "total_amount": 5550000.0,
+          "amount_per_capita": 405.84,
+          "yearly_amounts": {
+            "2026": 100000.0,
+            "2027": 100000.0,
+            "2028": 350000.0,
+            "2029": 2500000.0,
+            "2030": 2500000.0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 7.31,
+            "2027": 7.31,
+            "2028": 25.59,
+            "2029": 182.81,
+            "2030": 182.81,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "0401",
+          "ac_short": "Rotselaar breidt het aantal fietsenstallingen uit en past be",
+          "ac_long": "Rotselaar breidt het aantal fietsenstallingen uit en past bestaande stallingen aan tot kwalitatieve, diefstalvrije voorzieningen met voldoende capaciteit en comfort. Daarbij wordt prioritair ingezet op belangrijke knooppunten.",
+          "ap_code": "0401",
+          "ap_short": "0401",
+          "ap_long": "Met investeringen in comfortabele straten en veilige fiets- en wandelinfrastructuur, motiveert Rotselaar inwoners om zich duurzaam te verplaatsen.",
+          "bd_code": "BDS",
+          "bd_short": "Beleidsdoelstelling 4",
+          "bd_long": "Rotselaar realiseert de mobiliteitsshift en stimuleert veilige en duurzame verplaatsingen voor alle weggebruikers",
+          "municipality": "Rotselaar",
+          "nis_code": "24094",
+          "total_amount": 5281306.0,
+          "amount_per_capita": 291.93,
+          "yearly_amounts": {
+            "2026": 634965.0,
+            "2027": 1534123.0,
+            "2028": 1245278.0,
+            "2029": 841224.0,
+            "2030": 496200.0,
+            "2031": 529516.0
+          },
+          "yearly_per_capita": {
+            "2026": 35.1,
+            "2027": 84.8,
+            "2028": 68.83,
+            "2029": 46.5,
+            "2030": 27.43,
+            "2031": 29.27
+          }
         }
-      ]
+      ],
+      "data_file": "category/04-veiligheidszorg.json"
     },
     "05-ondernemen-werken": {
       "id": "05-ondernemen-werken",
@@ -1912,8 +3468,319 @@
             "2030": 0.22,
             "2031": 0.22
           }
+        },
+        {
+          "ac_code": "5.2.",
+          "ac_short": "Uitvoeren (natuur)beheerplannen",
+          "ac_long": "We voeren (natuur)beheerplannen uit en volgen deze op voor onze eigen terreinen (Cantelmolinie, Park 58, Willemspark, bermbeheer, Stadsrandbos...) en voor terreinen van externen (Zwin, Groene Gordel Heist-West, Golf Zoute, Binnenduinen van Knokke...).",
+          "ap_code": "5.2.",
+          "ap_short": "Vergroeningsstrategie",
+          "ap_long": "Vergroeningsstrategie",
+          "bd_code": "BDS",
+          "bd_short": "Verdere uitbouw Knokke-Heist",
+          "bd_long": "Verdere uitbouw Knokke-Heist",
+          "municipality": "Knokke-Heist",
+          "nis_code": "31043",
+          "total_amount": 3060141.0,
+          "amount_per_capita": 94.66,
+          "yearly_amounts": {
+            "2026": 2385141.0,
+            "2027": 135000.0,
+            "2028": 135000.0,
+            "2029": 135000.0,
+            "2030": 135000.0,
+            "2031": 135000.0
+          },
+          "yearly_per_capita": {
+            "2026": 73.78,
+            "2027": 4.18,
+            "2028": 4.18,
+            "2029": 4.18,
+            "2030": 4.18,
+            "2031": 4.18
+          }
+        },
+        {
+          "ac_code": "3LOW080103",
+          "ac_short": "Stedelijke werkvloeren worden",
+          "ac_long": "Stedelijke werkvloeren worden ingezet voor werkervaringstrajecten",
+          "ap_code": "3LOW0801",
+          "ap_short": "Activeerbare Antwerpenaren kri",
+          "ap_long": "Activeerbare Antwerpenaren krijgen een activeringstraject op maat en verhogen zo hun tewerkstellingskansen",
+          "bd_code": "3LOW08",
+          "bd_short": "Sociale economie",
+          "bd_long": "Sociale economie",
+          "municipality": "Antwerpen",
+          "nis_code": "11002",
+          "total_amount": 2610627.0,
+          "amount_per_capita": 4.69,
+          "yearly_amounts": {
+            "2026": 731723.0,
+            "2027": 47460.0,
+            "2028": 267287.0,
+            "2029": 1089079.0,
+            "2030": 104767.0,
+            "2031": 370311.0
+          },
+          "yearly_per_capita": {
+            "2026": 1.31,
+            "2027": 0.09,
+            "2028": 0.48,
+            "2029": 1.96,
+            "2030": 0.19,
+            "2031": 0.66
+          }
+        },
+        {
+          "ac_code": "AC000031",
+          "ac_short": "Actie 4.3.1 We zetten Aarschot op de kaart als groene, levendige en bruisende stad",
+          "ac_long": "Actie 4.3.1 : We zetten Aarschot op de kaart als groene, levendige en bruisende stad met een rijk verleden.\n\nSpeerpunten:\n4.3.1.1 We voorzien een gevarieerd toeristisch aanbod met minstens 5 kind- en jeugdvriendelijke activiteiten per jaar.\n4.3.1.2 We promoten het erfgoed, het toeristisch aanbod en evenementen online (website, sociale media) en offline (drukwerk, signalisatie) om bezoekers aan te trekken.\n4.3.1.3 We kleden het kernwinkelgebied mooi en seizoensgebonden aan om de verblijfskwaliteit te verbeteren.\n4.3.1.4 We ondersteunen de lokale economie en horeca door jaarlijks minstens 5 kernversterkende activiteiten (mee) te organiseren.\n4.3.1.5 We organiseren jaarlijks minstens 2 acties of activiteiten ter ondersteuning van de wekelijkse markt.\n4.3.1.6 We organiseren verschillende evenementen zelf en we stimuleren anderen om dat ook te doen.",
+          "ap_code": "AP000008",
+          "ap_short": "Actieplan 4.3",
+          "ap_long": "Actieplan 4.3 Aarschot boeit met ondernemerszin, gastvrijheid, toerisme en evenementen die mensen samenbrengen.",
+          "bd_code": "BDS000004",
+          "bd_short": "Doelstelling 4 : Aarschot, bruisend en dynamisch",
+          "bd_long": "Doelstelling 4 : Aarschot, bruisend en dynamisch\n\nWe stimuleren ontmoeting, cultuur, sport en economie en zorgen voor een levendige stad met kansen voor elke inwoner.",
+          "municipality": "Aarschot",
+          "nis_code": "24001",
+          "total_amount": 2559688.0,
+          "amount_per_capita": 81.53,
+          "yearly_amounts": {
+            "2026": 645927.0,
+            "2027": 263031.0,
+            "2028": 512049.0,
+            "2029": 924332.0,
+            "2030": 185331.0,
+            "2031": 29018.0
+          },
+          "yearly_per_capita": {
+            "2026": 20.57,
+            "2027": 8.38,
+            "2028": 16.31,
+            "2029": 29.44,
+            "2030": 5.9,
+            "2031": 0.92
+          }
+        },
+        {
+          "ac_code": "3LOW060101",
+          "ac_short": "Stimuleren van ecosystemen",
+          "ac_long": "Stimuleren van ecosystemen",
+          "ap_code": "3LOW0601",
+          "ap_short": "Uitbouwen van sterk verankerde",
+          "ap_long": "Uitbouwen van sterk verankerde groeiclusters",
+          "bd_code": "3LOW06",
+          "bd_short": "Economie",
+          "bd_long": "Economie",
+          "municipality": "Antwerpen",
+          "nis_code": "11002",
+          "total_amount": 2457600.0,
+          "amount_per_capita": 4.41,
+          "yearly_amounts": {
+            "2026": 409600.0,
+            "2027": 409600.0,
+            "2028": 409600.0,
+            "2029": 409600.0,
+            "2030": 409600.0,
+            "2031": 409600.0
+          },
+          "yearly_per_capita": {
+            "2026": 0.74,
+            "2027": 0.74,
+            "2028": 0.74,
+            "2029": 0.74,
+            "2030": 0.74,
+            "2031": 0.74
+          }
+        },
+        {
+          "ac_code": "AP1401",
+          "ac_short": "Met gerichte acties dragen we bij tot een kwalitatief belevi",
+          "ac_long": "Met gerichte acties dragen we bij tot een kwalitatief belevingsklimaat.",
+          "ap_code": "AP1401",
+          "ap_short": "Toerisme draagt bij aan een aantrekkelijke beleefstad.",
+          "ap_long": "Toerisme draagt bij aan een aantrekkelijke beleefstad.",
+          "bd_code": "BDS",
+          "bd_short": "BD14: Toerisme evolueert gunstig voor iedereen",
+          "bd_long": "Commentaar:",
+          "municipality": "Brugge",
+          "nis_code": "31005",
+          "total_amount": 2424000.0,
+          "amount_per_capita": 20.22,
+          "yearly_amounts": {
+            "2026": 65250.0,
+            "2027": 358750.0,
+            "2028": 1250000.0,
+            "2029": 500000.0,
+            "2030": 250000.0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 0.54,
+            "2027": 2.99,
+            "2028": 10.43,
+            "2029": 4.17,
+            "2030": 2.09,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "0505",
+          "ac_short": "Wij promoten actief onze stad als toeristische bestemming",
+          "ac_long": "We bevorderen duurzaam toerisme door aantrekkelijke en toegankelijke toeristische producten en diensten te ontwikkelen die de rijke geschiedenis, cultuur en natuurlijke omgeving van Menen in de kijker zetten",
+          "ap_code": "0505",
+          "ap_short": "Wij zetten onze stad met al haar facetten in de markt",
+          "ap_long": "Wij zetten onze stad met al haar facetten in de markt",
+          "bd_code": "BDS",
+          "bd_short": "5 - Dynamisch, belevingsvol en talentgericht Menen",
+          "bd_long": "Wij zetten in op een dynamisch, belevingsvol en talentgericht Menen",
+          "municipality": "Menen",
+          "nis_code": "34027",
+          "total_amount": 2358392.0,
+          "amount_per_capita": 66.03,
+          "yearly_amounts": {
+            "2026": 34150.0,
+            "2027": 27650.0,
+            "2028": 1300000.0,
+            "2029": 100000.0,
+            "2030": 100000.0,
+            "2031": 796592.0
+          },
+          "yearly_per_capita": {
+            "2026": 0.96,
+            "2027": 0.77,
+            "2028": 36.4,
+            "2029": 2.8,
+            "2030": 2.8,
+            "2031": 22.3
+          }
+        },
+        {
+          "ac_code": "600",
+          "ac_short": "Moderniseren vismijn",
+          "ac_long": "De stedelijke Vismijn is verankerd in het stedelijk weefsel van Nieuwpoort. De Stad zet daarom sterk in op een grondige modernisering van de infrastructuur. Door te investeren in moderne infrastructuur wordt de werking van de Vismijn efficiënter, duurzamer en beter afgestemd op de noden van de lokale visserijsector. De vernieuwde installaties garanderen een hogere kwaliteit en versheid van de aangevoerde vis, en dragen bij aan een betere voedselveiligheid.",
+          "ap_code": "600",
+          "ap_short": "Authentieke visserscultuur",
+          "ap_long": "Stad Nieuwpoort bouwt verder aan zijn authentieke visserscultuur als stimulans voor de lokale economie. De Nieuwpoortse Vismijn is als enige Vlaamse gemeentelijke vismijn uniek aan de Belgische Kust en speelt vandaag een bijzondere rol als kleinschalige maar hoogkwalitatieve nichemarkt. Het is een draaischijf voor de Nieuwpoortse visserij-economie waar vissers, kopers en verwerkers elkaar ontmoeten. Nieuwpoort is en blijft dé referentie voor kwaliteitsvolle dagverse Noordzeelekkernijen die hun weg vinden naar diverse actoren in binnen- en buitenland.",
+          "bd_code": "BDS",
+          "bd_short": "60 Economie, toerisme en evenementen",
+          "bd_long": "Stad Nieuwpoort zet in en ondersteunt een dynamische economie die gedragen wort door zijn toeristische troeven en culturele aantrekkingskracht. Door in te zetten op duurzame toeristische ontwikkeling, de ondersteuning van lokale ondernemers en het organiseren van culturele evenementen, stimuleert de stad niet alleen economische groei, maar ook de leefbaarheid en aantrekkelijkheid van Nieuwpoort.",
+          "municipality": "Nieuwpoort",
+          "nis_code": "38016",
+          "total_amount": 2345000.0,
+          "amount_per_capita": 201.88,
+          "yearly_amounts": {
+            "2026": 95000.0,
+            "2027": 150000.0,
+            "2028": 75000.0,
+            "2029": 75000.0,
+            "2030": 1950000.0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 8.18,
+            "2027": 12.91,
+            "2028": 6.46,
+            "2029": 6.46,
+            "2030": 167.87,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "GBB",
+          "ac_short": "Gelijkblijvend beleid AGB",
+          "ac_long": "Commentaar:",
+          "ap_code": "GBB",
+          "ap_short": "Verrichtingen zonder beleidsdoelstelling",
+          "ap_long": "Commentaar:",
+          "bd_code": "",
+          "bd_short": "",
+          "bd_long": "",
+          "municipality": "Edegem",
+          "nis_code": "11013",
+          "total_amount": 2308000.0,
+          "amount_per_capita": 99.35,
+          "yearly_amounts": {
+            "2026": 924500.0,
+            "2027": 267700.0,
+            "2028": 554000.0,
+            "2029": 194500.0,
+            "2030": 169150.0,
+            "2031": 198150.0
+          },
+          "yearly_per_capita": {
+            "2026": 39.8,
+            "2027": 11.52,
+            "2028": 23.85,
+            "2029": 8.37,
+            "2030": 7.28,
+            "2031": 8.53
+          }
+        },
+        {
+          "ac_code": "AC000211",
+          "ac_short": "Ontsluiten van het belfort als toeristische trekpleister",
+          "ac_long": "Het gerestaureerde belfort ontsluiten als toeristische dienst en trekpleister om bezoekers op een belevingsvolle manier toegang te geven tot en inzicht te verschaffen in de oorsprong, opbouw en functies van dit UNESCO werelderfgoedmonument, alsook het verhaal van de macht (van lokale besluitvorming, tijd en communicatie), dat sinds eeuwenlang leeft in het belfort, te vertellen.",
+          "ap_code": "AP000139",
+          "ap_short": "Visit Aalst en toeristische beleving",
+          "ap_long": "Visit Aalst faciliteert, stimuleert en promoot het recreatief toeristisch aanbod van Aalst om bij te dragen aan de economische, maatschappelijke en reputationele meerwaarde van de stad. Een bijzondere aandacht gaat deze legislatuur naar de publieksontsluiting van het belfort en het Nationaal Park Scheldevallei.",
+          "bd_code": "BD000005",
+          "bd_short": "Bruisende stad",
+          "bd_long": "Creëren van een bruisende stad met een toegankelijk cultureel aanbod en toeristische troeven.",
+          "municipality": "Aalst",
+          "nis_code": "41002",
+          "total_amount": 2192988.0,
+          "amount_per_capita": 23.21,
+          "yearly_amounts": {
+            "2026": 2192988.0,
+            "2027": 0,
+            "2028": 0,
+            "2029": 0,
+            "2030": 0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 23.21,
+            "2027": 0,
+            "2028": 0,
+            "2029": 0,
+            "2030": 0,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "AC000112",
+          "ac_short": "Optimaal beheren van toegankelijke en duurzame infrastructuur.",
+          "ac_long": "Optimaal beheren van toegankelijke en duurzame infrastructuur.",
+          "ap_code": "AP000030",
+          "ap_short": "Voorzien in ruimte en kwalitatieve, toegankelijke en duurzame infrastructuur voor vrije tijd.",
+          "ap_long": "Voorzien in ruimte en kwalitatieve, toegankelijke en duurzame infrastructuur voor vrije tijd.",
+          "bd_code": "BD000010",
+          "bd_short": "Leuven, stad met een kwalitatief, toegankelijk en gevarieerd vrijetijdsaanbod.",
+          "bd_long": "Leuven investeert in een kwalitatief, toegankelijk en gevarieerd vrijetijdsaanbod voor iedereen. \nOp vlak van cultuur worden de stedelijke culturele werkingen: 30CC, de Bib, Erfgoedcel en Stadarchief versterkt. Er wordt een open cultuurbeleid gevoerd dat inzet op participatie en samenwerking binnen het diverse culturele veld. Verenigingen, organisaties, instellingen, kunstenaars, individuele initiatieven op vlak van kunst, cultuur en cultureel erfgoed worden ondersteund. In dit ondersteuningsbeleid van de brede culturele sector wordt rekening gehouden met diversiteit en verschillende noden. \nDe podiumkunstensite is een antwoord op de nood aan grootschalige, toekomstgerichte culturele infrastructuur. Via het project Leuven Europese Culturele Hoofdstad 2030 positioneert Leuven zich als een toekomstgerichte culturele speler, lokaal en regionaal geworteld en internationaal verbonden.\nOp sportvlak investeert stad Leuven in kwaliteitsvolle toegankelijke en duurzame sportinfrastructuur met onder andere sporthallen, outdoor sportterreinen, zwemwater en laagdrempelige sport- en beweegelementen op het publieke domein. Het opnemen van een regierol voor een sport- en beweegaanbod waarbij iedere Leuvenaar aansluiting kan vinden, is een hoofdopdracht van de sportdienst. Dit aanbod kan zowel vanuit de stad ingericht worden, vanuit het verenigingsleven als vanuit een professionele of commerciële insteek en varieert van structurele clubwerking tot ongebonden sport, van grote sportevenementen voor fanbeleving of recreatieve/competitieve deelname.\nDe stad ondersteunt jeugd-, jongeren-, senioren- en andere verenigingen zodat verenigingen een kwalitatief en divers aanbod kunnen uitbouwen. Daarnaast wordt vrijwilligerswerk gestimuleerd als fundament voor een sterk verenigingsleven en wordt er verder geïnvesteerd in multifunctionele infrastructuur voor een optimaal ruimtegebruik.",
+          "municipality": "Leuven",
+          "nis_code": "24062",
+          "total_amount": 2174000.0,
+          "amount_per_capita": 20.88,
+          "yearly_amounts": {
+            "2026": 892500.0,
+            "2027": 250500.0,
+            "2028": 251000.0,
+            "2029": 259500.0,
+            "2030": 260000.0,
+            "2031": 260500.0
+          },
+          "yearly_per_capita": {
+            "2026": 8.57,
+            "2027": 2.41,
+            "2028": 2.41,
+            "2029": 2.49,
+            "2030": 2.5,
+            "2031": 2.5
+          }
         }
-      ]
+      ],
+      "data_file": "category/05-ondernemen-werken.json"
     },
     "06-wonen-ruimte": {
       "id": "06-wonen-ruimte",
@@ -2230,8 +4097,319 @@
             "2030": 3.56,
             "2031": 3.56
           }
+        },
+        {
+          "ac_code": "AC35735",
+          "ac_short": "voldoende betaalbare woningen",
+          "ac_long": "AC.Beleid voeren voor voldoende, betaalbare, gezinsvriendelijke en diverse woningen",
+          "ap_code": "OD20002",
+          "ap_short": "Vraag en aanbod woningen",
+          "ap_long": "OD.Afstemmen van vraag en aanbod voor diverse woningen met focus op Gentenaars met een laag inkomen, grote gezinnen en de huurmarkt",
+          "bd_code": "SD20001",
+          "bd_short": "SD Wonen",
+          "bd_long": "SD.Wonen",
+          "municipality": "Gent",
+          "nis_code": "44021",
+          "total_amount": 30929432.0,
+          "amount_per_capita": 111.17,
+          "yearly_amounts": {
+            "2026": 10591886.0,
+            "2027": 9762130.0,
+            "2028": 4719978.0,
+            "2029": 2145426.0,
+            "2030": 2424706.0,
+            "2031": 1285306.0
+          },
+          "yearly_per_capita": {
+            "2026": 38.07,
+            "2027": 35.09,
+            "2028": 16.97,
+            "2029": 7.71,
+            "2030": 8.72,
+            "2031": 4.62
+          }
+        },
+        {
+          "ac_code": "3ANT010201",
+          "ac_short": "Pleinen, woonerven en tuinstra",
+          "ac_long": "Pleinen, woonerven en tuinstraten",
+          "ap_code": "3ANT0102",
+          "ap_short": "Antwerpen is een leefbaar dist",
+          "ap_long": "Antwerpen is een leefbaar district",
+          "bd_code": "3ANT01",
+          "bd_short": "Antwerpen is een bruisend en g",
+          "bd_long": "Antwerpen is een bruisend en gastvrij district waar elke Antwerpenaar zich thuis voelt.",
+          "municipality": "Antwerpen",
+          "nis_code": "11002",
+          "total_amount": 29198225.0,
+          "amount_per_capita": 52.42,
+          "yearly_amounts": {
+            "2026": 4175125.0,
+            "2027": 2485600.0,
+            "2028": 7556000.0,
+            "2029": 5056000.0,
+            "2030": 3973600.0,
+            "2031": 5951900.0
+          },
+          "yearly_per_capita": {
+            "2026": 7.5,
+            "2027": 4.46,
+            "2028": 13.57,
+            "2029": 9.08,
+            "2030": 7.13,
+            "2031": 10.69
+          }
+        },
+        {
+          "ac_code": "AC000024",
+          "ac_short": "Herontwikkeling van de Stadhuis- en Pupillensite (AGSA)",
+          "ac_long": "AGSA staat in voor de vermarkting van de Stadhuis- en Pupillensite namens de stad. Tevens treedt zij ook op als gedelegeerd bouwheer voor de realisatie van de publieke delen op de site.",
+          "ap_code": "AP000105",
+          "ap_short": "Strategische stadsontwikkeling",
+          "ap_long": "Strategische stadsontwikkeling",
+          "bd_code": "BD000002",
+          "bd_short": "Aantrekkelijke stad",
+          "bd_long": "Bouwen aan een stad waar het aangenaam wonen is voor alle leeftijden.",
+          "municipality": "Aalst",
+          "nis_code": "41002",
+          "total_amount": 28293822.0,
+          "amount_per_capita": 299.42,
+          "yearly_amounts": {
+            "2026": 133500.0,
+            "2027": 37392.0,
+            "2028": 619724.0,
+            "2029": 5719977.0,
+            "2030": 8297191.0,
+            "2031": 13486038.0
+          },
+          "yearly_per_capita": {
+            "2026": 1.41,
+            "2027": 0.4,
+            "2028": 6.56,
+            "2029": 60.53,
+            "2030": 87.8,
+            "2031": 142.72
+          }
+        },
+        {
+          "ac_code": "AC000026",
+          "ac_short": "Ontwikkelen van de Tragelsite (AGSA)",
+          "ac_long": "Op de site Tragel Noord wordt het RUP Tragel Noord gerealiseerd door AGSA. Deze werken omvatten onder meer de multifunctionele zaal, een residentiële ontwikkeling en de bouw van handelszaken op de site. De publieke realisaties omvatten minstens de multifunctionele zaal en de aanleg van de publieke openbare ruimte.",
+          "ap_code": "AP000105",
+          "ap_short": "Strategische stadsontwikkeling",
+          "ap_long": "Strategische stadsontwikkeling",
+          "bd_code": "BD000002",
+          "bd_short": "Aantrekkelijke stad",
+          "bd_long": "Bouwen aan een stad waar het aangenaam wonen is voor alle leeftijden.",
+          "municipality": "Aalst",
+          "nis_code": "41002",
+          "total_amount": 24934926.0,
+          "amount_per_capita": 263.87,
+          "yearly_amounts": {
+            "2026": 1350207.0,
+            "2027": 1119199.0,
+            "2028": 6580721.0,
+            "2029": 8852528.0,
+            "2030": 6862276.0,
+            "2031": 169995.0
+          },
+          "yearly_per_capita": {
+            "2026": 14.29,
+            "2027": 11.84,
+            "2028": 69.64,
+            "2029": 93.68,
+            "2030": 72.62,
+            "2031": 1.8
+          }
+        },
+        {
+          "ac_code": "AC000485",
+          "ac_short": "Mechelen blijft investeren in het vernieuwen van straten en pleinen (incl. riolering).",
+          "ac_long": "Mechelen blijft investeren in het vernieuwen van straten en pleinen (incl. riolering).",
+          "ap_code": "AP000022",
+          "ap_short": "Openbare werken",
+          "ap_long": "Openbare werken",
+          "bd_code": "BD000006",
+          "bd_short": "Mechelen is een toegankelijke en bereikbare stad",
+          "bd_long": "Mechelen bouwt aan een stad die vlot bereikbaar is voor iedereen. We investeren in duurzame mobiliteit en toegankelijke infrastructuur. Voetgangers en fietsers krijgen meer ruimte en comfort, met veilige oversteekplaatsen, vernieuwde voet- en fietspaden en extra aandacht voor kwetsbare weggebruikers. We versterken het openbaar vervoer, breiden deelmobiliteit uit en verbeteren het parkeerbeleid.\nGrote infrastructuurprojecten zoals de heraanleg van de vesten, de Ontknoping van Battel, het masterplan Binnendijle en het nieuwe station maken de stad klaar voor de toekomst. Tegelijk zorgen we voor een betere doorstroming, minder hinder bij werken en meer groen en beleving in de publieke ruimte. Zo maken we van Mechelen een stad die beweegt, verbindt en uitnodigt.",
+          "municipality": "Mechelen",
+          "nis_code": "12025",
+          "total_amount": 24100000.0,
+          "amount_per_capita": 266.61,
+          "yearly_amounts": {
+            "2026": 3300000.0,
+            "2027": 4800000.0,
+            "2028": 4830000.0,
+            "2029": 5970000.0,
+            "2030": 4325000.0,
+            "2031": 875000.0
+          },
+          "yearly_per_capita": {
+            "2026": 36.51,
+            "2027": 53.1,
+            "2028": 53.43,
+            "2029": 66.04,
+            "2030": 47.85,
+            "2031": 9.68
+          }
+        },
+        {
+          "ac_code": "3LMS010201",
+          "ac_short": "Gebiedsgerichte regie en visie",
+          "ac_long": "Gebiedsgerichte regie en visievorming tot uitvoering",
+          "ap_code": "3LMS0102",
+          "ap_short": "Met gebiedsgerichte plannen en",
+          "ap_long": "Met gebiedsgerichte plannen en ontwerpen bieden we een duurzaam ruimtelijk antwoord op maatschappelijke noden",
+          "bd_code": "3LMS01",
+          "bd_short": "Stadsontwikkeling",
+          "bd_long": "Stadsontwikkeling",
+          "municipality": "Antwerpen",
+          "nis_code": "11002",
+          "total_amount": 22432793.0,
+          "amount_per_capita": 40.28,
+          "yearly_amounts": {
+            "2026": 0,
+            "2027": 439793.0,
+            "2028": 0,
+            "2029": 0,
+            "2030": 0,
+            "2031": 21993000.0
+          },
+          "yearly_per_capita": {
+            "2026": 0,
+            "2027": 0.79,
+            "2028": 0,
+            "2029": 0,
+            "2030": 0,
+            "2031": 39.49
+          }
+        },
+        {
+          "ac_code": "A",
+          "ac_short": "Aankopen van digitale infoborden om gemeentelijke info bij burgers te brengen",
+          "ac_long": "We brengen de info eenduidig via verschillende digitale communicatiedragers",
+          "ap_code": "AP",
+          "ap_short": "Burgergerichte (digitale) dienstverlening",
+          "ap_long": "Burgergerichte (digitale) dienstverlening: we zorgen ervoor dat burgers snel en correct geholpen worden. We zetten in op een online dienstverlening met oog voor persoonlijk contact. We gaan voor heldere communicatie van en naar burgers.",
+          "bd_code": "BD",
+          "bd_short": "Lennik bestuurt sterk: een burgergerichte en efficiënte organisatie",
+          "bd_long": "Kwalitatieve omschrijving: Lennik wil inzetten op een burgergerichte dienstverlening, waarin burgers vlot en klantvriendelijk geholpen worden en een duidelijk aanspreekpunt hebben. \nEen burgergerichte organisatie begint intern: goed functionerende processen, gemotiveerde medewerkers en een gezond financieel beleid vormen de basis voor kwaliteitsvolle dienstverlening. \nLennik zet daarom in op een sterk financieel beheer, een dynamisch personeelsbeleid en een klantgerichte werking. \nWe bundelen onze inspanningen in vijf actieplannen: \n• AP 4.1: Burgergerichte (digitale) dienstverlening.\n• AP 4.2: Kwaliteitsvol beheer patrimonium.\n• AP 4.3: Gezond financieel beleid.\n• AP 4.4: We zetten in op een verbindend personeelsbeleid en welzijn op de werkvloer. \n• AP 4.5: Professionalisering en een sterke organisatiebeheersing. \n\nMet deze doelstelling dragen we actief bij aan duurzaamheidsdoelstelling 16:\nVrede, justitie en sterke publieke diensten",
+          "municipality": "Lennik",
+          "nis_code": "23104",
+          "total_amount": 19177073.0,
+          "amount_per_capita": 1998.68,
+          "yearly_amounts": {
+            "2026": 3823881.0,
+            "2027": 3354162.0,
+            "2028": 2307247.0,
+            "2029": 1586912.0,
+            "2030": 4383538.0,
+            "2031": 3721333.0
+          },
+          "yearly_per_capita": {
+            "2026": 398.53,
+            "2027": 349.58,
+            "2028": 240.47,
+            "2029": 165.39,
+            "2030": 456.86,
+            "2031": 387.85
+          }
+        },
+        {
+          "ac_code": "3LMS010301",
+          "ac_short": "Stad aan het Water",
+          "ac_long": "Stad aan het Water",
+          "ap_code": "3LMS0103",
+          "ap_short": "Met AG VESPA regisseren we geb",
+          "ap_long": "Met AG VESPA regisseren we gebiedsontwikkelingen en projectgerichte stadsvernieuwing",
+          "bd_code": "3LMS01",
+          "bd_short": "Stadsontwikkeling",
+          "bd_long": "Stadsontwikkeling",
+          "municipality": "Antwerpen",
+          "nis_code": "11002",
+          "total_amount": 17509967.0,
+          "amount_per_capita": 31.44,
+          "yearly_amounts": {
+            "2026": 16601870.0,
+            "2027": 812630.0,
+            "2028": 95467.0,
+            "2029": 0,
+            "2030": 0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 29.81,
+            "2027": 1.46,
+            "2028": 0.17,
+            "2029": 0,
+            "2030": 0,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "AP0701",
+          "ac_short": "Met de Vlaamse Mijn VerbouwPremie bieden we financiële steun",
+          "ac_long": "Met de Vlaamse Mijn VerbouwPremie bieden we financiële steun voor energiebesparende investeringen en renovatiewerken in woningen.",
+          "ap_code": "AP0701",
+          "ap_short": "We maken van Brugge een stad die fossielvrij verwarmd wordt.",
+          "ap_long": "We maken van Brugge een stad die fossielvrij verwarmd wordt.",
+          "bd_code": "BDS",
+          "bd_short": "BD07: Klimaat, milieu en dierenwelzijn voor leefbaar Brugge",
+          "bd_long": "Commentaar:",
+          "municipality": "Brugge",
+          "nis_code": "31005",
+          "total_amount": 15000000.0,
+          "amount_per_capita": 125.13,
+          "yearly_amounts": {
+            "2026": 2500000.0,
+            "2027": 2500000.0,
+            "2028": 2500000.0,
+            "2029": 2500000.0,
+            "2030": 2500000.0,
+            "2031": 2500000.0
+          },
+          "yearly_per_capita": {
+            "2026": 20.85,
+            "2027": 20.85,
+            "2028": 20.85,
+            "2029": 20.85,
+            "2030": 20.85,
+            "2031": 20.85
+          }
+        },
+        {
+          "ac_code": "1",
+          "ac_short": "Versterken van groene verbindingen en ecologische corridors",
+          "ac_long": "Tegen 2030 versterken we onze groene corridors tussen het stadscentrum, de dorpen en het buitengebied. We doen dit door in te zetten op ecologisch bermbeheer en het stimuleren van het herstel en aanleg van hagen, bomen en bloemenranden langs routes en perceelranden.",
+          "ap_code": "1",
+          "ap_short": "Groen-blauwe leefomgeving",
+          "ap_long": "Onze leefomgeving staat onder toenemende druk door de gevolgen van klimaatverandering, verharding en ruimtelijke versnippering. Hitte, droogte en wateroverlast hebben een directe impact op de leefkwaliteit van onze inwoners. Tegelijk is de natuur versnipperd en is er nog onvoldoende kwalitatieve en toegankelijke groene ruimte in de nabijheid van woonkernen.\nDaarom investeren we gericht in een samenhangende, klimaatrobuuste groen-blauwe leefomgeving die bijdraagt aan een gezonde, veerkrachtige en aantrekkelijke stad - ook voor toekomstige generaties. Via ontharding, vergroening, ecologische verbindingen en het herstel van biodiversiteit versterken we de leefkwaliteit in het centrum, de dorpen en het platteland.",
+          "bd_code": "BDS",
+          "bd_short": "Leefbaar Diksmuide",
+          "bd_long": "Tegen 2031 versterken we de leefbaarheid in onze stad, dorpen en het platteland door een gezonde, veilige en toekomstgerichte leefomgeving te creëren. We maken ruimte voor groen en water, stimuleren betaalbaar en kwaliteitsvol wonen, versterken duurzame mobiliteit en zorgen voor een nette en ordentelijke openbare ruimte. We bouwen aan een stad die aantrekkelijk, toegankelijk en weerbaar is, met respect voor mens, natuur én bedrijvigheid.",
+          "municipality": "Diksmuide",
+          "nis_code": "32003",
+          "total_amount": 14722468.0,
+          "amount_per_capita": 839.18,
+          "yearly_amounts": {
+            "2026": 2091234.0,
+            "2027": 2461234.0,
+            "2028": 2815000.0,
+            "2029": 3865000.0,
+            "2030": 2520000.0,
+            "2031": 970000.0
+          },
+          "yearly_per_capita": {
+            "2026": 119.2,
+            "2027": 140.29,
+            "2028": 160.46,
+            "2029": 220.31,
+            "2030": 143.64,
+            "2031": 55.29
+          }
         }
-      ]
+      ],
+      "data_file": "category/06-wonen-ruimte.json"
     },
     "07-cultuur-vrije-tijd": {
       "id": "07-cultuur-vrije-tijd",
@@ -2548,8 +4726,319 @@
             "2030": 239.94,
             "2031": 149.92
           }
+        },
+        {
+          "ac_code": "AC000005",
+          "ac_short": "algemeen overig beleid",
+          "ac_long": "algemeen overig beleid",
+          "ap_code": "AP000024",
+          "ap_short": "Overig beleid",
+          "ap_long": "Overig beleid 2026-2031",
+          "bd_code": "",
+          "bd_short": "",
+          "bd_long": "",
+          "municipality": "Sint-Pieters-Leeuw",
+          "nis_code": "23077",
+          "total_amount": 35146043.0,
+          "amount_per_capita": 932.48,
+          "yearly_amounts": {
+            "2026": 16655538.0,
+            "2027": 5390618.0,
+            "2028": 5704029.0,
+            "2029": 3118031.0,
+            "2030": 2473493.0,
+            "2031": 1804334.0
+          },
+          "yearly_per_capita": {
+            "2026": 441.9,
+            "2027": 143.02,
+            "2028": 151.34,
+            "2029": 82.73,
+            "2030": 65.63,
+            "2031": 47.87
+          }
+        },
+        {
+          "ac_code": "1.4.1",
+          "ac_short": "Nieuwe zeedijk",
+          "ac_long": "De gemeente Middelkerke wil de zeedijk heraanleggen met aandacht voor kustveiligheid, esthetiek, toegankelijkheid en multifunctioneel gebruik, inclusief ruimte voor voetgangers, fietsers, horeca en evenementen.",
+          "ap_code": "1.4.1",
+          "ap_short": "Nieuwe Zeedijk",
+          "ap_long": "De gemeente Middelkerke wil de zeedijk heraanleggen met aandacht voor kustveiligheid, esthetiek, toegankelijkheid en multifunctioneel gebruik, inclusief ruimte voor voetgangers, fietsers, horeca en evenementen.",
+          "bd_code": "BDS",
+          "bd_short": "Aantrekkelijk: een kwalitatieve leefomgeving voor iedereen",
+          "bd_long": "We creëren samen een veilige en nette leefomgeving door het beheer van het openbaar domein te optimaliseren. Door een proactieve aanpak van zwerfvuil en andere vormen van vervuiling van de openbare ruimte, verhogen we de norm voor de kwaliteit en aantrekk",
+          "municipality": "Middelkerke",
+          "nis_code": "35011",
+          "total_amount": 35000000.0,
+          "amount_per_capita": 1729.97,
+          "yearly_amounts": {
+            "2026": 5000000.0,
+            "2027": 9000000.0,
+            "2028": 9000000.0,
+            "2029": 9000000.0,
+            "2030": 3000000.0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 247.14,
+            "2027": 444.85,
+            "2028": 444.85,
+            "2029": 444.85,
+            "2030": 148.28,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "AC000136",
+          "ac_short": "Renovatie van het stadhuis als toeristische topattractie en erfgoedhuis.",
+          "ac_long": "Renovatie van het stadhuis als toeristische topattractie en erfgoedhuis.",
+          "ap_code": "AP000035",
+          "ap_short": "Coördineren van het beheer, de herbestemming en de restauratie van Leuvens onroerend erfgoed.",
+          "ap_long": "Coördineren van het beheer, de herbestemming en de restauratie van Leuvens onroerend erfgoed.",
+          "bd_code": "BD000011",
+          "bd_short": "Leuven, (inter)nationaal en lokaal gekend als aantrekkelijke, innovatieve en sportieve stad.",
+          "bd_long": "De stad Leuven bouwt aan een inclusief en innovatief erfgoedbeleid waarin de Leuvense trekpleisters zoals M Leuven, Abdij van Park en het stadhuis, maar ook het Stadsarchief en de Erfgoedcel een centrale rol spelen. Er wordt verder geïnvesteerd in digitalisering, participatie en duurzame publiekswerking. \nHet historische stadhuis wordt herbestemd tot een open huis voor erfgoed, toerisme en ontmoeting. \nVia een sterk evenementenbeleid en het feit dat Leuven en de regio Oost-Brabant Europese Culturele Hoofdstad worden in 2030, zet de stad in op vernieuwing, internationale uitstraling en verbondenheid met haar rijke verleden. Tegelijk ontwikkelt de stad Leuven zich verder als cultuurhistorische citytrip- en congresbestemming, met oog voor kwaliteit, draagkracht en internationale uitstraling.\nHet aantrekken van topsportevenementen met een internationale uitstraling gebeurt selectief en steeds met een brede activatie en de nodige aandacht voor de nalatenschap voor het Leuvense sportlandschap.",
+          "municipality": "Leuven",
+          "nis_code": "24062",
+          "total_amount": 34207687.0,
+          "amount_per_capita": 328.61,
+          "yearly_amounts": {
+            "2026": 8864229.0,
+            "2027": 9669229.0,
+            "2028": 10224229.0,
+            "2029": 5280000.0,
+            "2030": 170000.0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 85.15,
+            "2027": 92.89,
+            "2028": 98.22,
+            "2029": 50.72,
+            "2030": 1.63,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "3BRS040301",
+          "ac_short": "Nieuwbouw",
+          "ac_long": "Nieuwbouw",
+          "ap_code": "3BRS0403",
+          "ap_short": "Bouwen aan een actieve stad",
+          "ap_long": "Bouwen aan een actieve stad",
+          "bd_code": "3BRS04",
+          "bd_short": "Sport",
+          "bd_long": "SPORT",
+          "municipality": "Antwerpen",
+          "nis_code": "11002",
+          "total_amount": 34143630.0,
+          "amount_per_capita": 61.3,
+          "yearly_amounts": {
+            "2026": 7320130.0,
+            "2027": 14352000.0,
+            "2028": 4870000.0,
+            "2029": 2541500.0,
+            "2030": 2420000.0,
+            "2031": 2640000.0
+          },
+          "yearly_per_capita": {
+            "2026": 13.14,
+            "2027": 25.77,
+            "2028": 8.74,
+            "2029": 4.56,
+            "2030": 4.34,
+            "2031": 4.74
+          }
+        },
+        {
+          "ac_code": "1.9.",
+          "ac_short": "Diverse investeringen in cultuur- en ontmoetingscentra",
+          "ac_long": "Diverse investeringen in cultuur- en ontmoetingscentra",
+          "ap_code": "1.9.",
+          "ap_short": "Versterken vrijetijdsinfrastructuur",
+          "ap_long": "Versterken vrijetijdsinfrastructuur",
+          "bd_code": "BDS",
+          "bd_short": "Balans wonen, werken, onderwijs en vrije tijd",
+          "bd_long": "Balans wonen, werken, onderwijs en vrije tijd",
+          "municipality": "Knokke-Heist",
+          "nis_code": "31043",
+          "total_amount": 32108316.0,
+          "amount_per_capita": 993.22,
+          "yearly_amounts": {
+            "2026": 9304845.0,
+            "2027": 5230700.0,
+            "2028": 7855771.0,
+            "2029": 5485000.0,
+            "2030": 3430000.0,
+            "2031": 802000.0
+          },
+          "yearly_per_capita": {
+            "2026": 287.83,
+            "2027": 161.8,
+            "2028": 243.01,
+            "2029": 169.67,
+            "2030": 106.1,
+            "2031": 24.81
+          }
+        },
+        {
+          "ac_code": "ACT",
+          "ac_short": "We starten de studie voor de renovatie van de polyvalente zaal in Vossem en zetten volgende stappen.",
+          "ac_long": "In 2026 realiseren we de studie voor de renovatie van de polyvalente zaal in Vossem op basis van het voorafgaand particiaptietraject en plaatsen we het lastenboek in de markt. We starten in 2027 met de bouw van de polyvalente zaal.",
+          "ap_code": "AP",
+          "ap_short": "Gemeenschapsvoorzieningen inrichten als plekken van ontmoeting en samenleven.",
+          "ap_long": "Commentaar:",
+          "bd_code": "BDS",
+          "bd_short": "Tervuren investeert in toegankelijke en kwaliteitsvolle infrastructuur.",
+          "bd_long": "Kwalitatieve omschrijving: Tervuren investeert in toegankelijke en kwaliteitsvolle infrastructuur die gedeeld gebruik mogelijk maakt, ruimte rechtvaardig verdeelt en sociale cohesie en gemeenschapsleven versterkt.",
+          "municipality": "Tervuren",
+          "nis_code": "24104",
+          "total_amount": 30677927.0,
+          "amount_per_capita": 1314.17,
+          "yearly_amounts": {
+            "2026": 4498830.0,
+            "2027": 5038210.0,
+            "2028": 6694887.0,
+            "2029": 5617000.0,
+            "2030": 3489500.0,
+            "2031": 5339500.0
+          },
+          "yearly_per_capita": {
+            "2026": 192.72,
+            "2027": 215.82,
+            "2028": 286.79,
+            "2029": 240.62,
+            "2030": 149.48,
+            "2031": 228.73
+          }
+        },
+        {
+          "ac_code": "",
+          "ac_short": "overigBeleid zonder actie",
+          "ac_long": "overigBeleid zonder actie",
+          "ap_code": "",
+          "ap_short": "",
+          "ap_long": "",
+          "bd_code": "",
+          "bd_short": "",
+          "bd_long": "",
+          "municipality": "Poperinge",
+          "nis_code": "33021",
+          "total_amount": 30445148.0,
+          "amount_per_capita": 1527.72,
+          "yearly_amounts": {
+            "2026": 8966442.0,
+            "2027": 8025345.0,
+            "2028": 5846566.0,
+            "2029": 4528764.0,
+            "2030": 2331323.0,
+            "2031": 746708.0
+          },
+          "yearly_per_capita": {
+            "2026": 449.93,
+            "2027": 402.71,
+            "2028": 293.38,
+            "2029": 227.25,
+            "2030": 116.98,
+            "2031": 37.47
+          }
+        },
+        {
+          "ac_code": "AP",
+          "ac_short": "Neen",
+          "ac_long": "Voorzien van een speeltoestel in elke dorpskern dat specifiek toegankelijk en bruikbaar is voor kinderen en/of volwassenen met een zorg- of ondersteuningsnood.",
+          "ap_code": "AP",
+          "ap_short": "AP 13.13.2",
+          "ap_long": "Streven naar een kwalitatieve en inclusieve inrichting van de publieke ruimte, waarbij actieve verplaatsing, sociale interactie en beleving voor alle doelgroepen centraal staan",
+          "bd_code": "BDS",
+          "bd_short": "BD 13.13",
+          "bd_long": "Zedelgem zet verder in op maximale sociale en maatschappelijke participatie van alle inwoners.",
+          "municipality": "Zedelgem",
+          "nis_code": "31040",
+          "total_amount": 30146594.0,
+          "amount_per_capita": 1250.86,
+          "yearly_amounts": {
+            "2026": 3305934.0,
+            "2027": 8758960.0,
+            "2028": 13086950.0,
+            "2029": 2835250.0,
+            "2030": 1935750.0,
+            "2031": 223750.0
+          },
+          "yearly_per_capita": {
+            "2026": 137.17,
+            "2027": 363.43,
+            "2028": 543.01,
+            "2029": 117.64,
+            "2030": 80.32,
+            "2031": 9.28
+          }
+        },
+        {
+          "ac_code": "AP11",
+          "ac_short": "Bouw van een evenementenhal als bruisende ontmoetingsplek",
+          "ac_long": "AC042_Bouw van een evenementenhal als bruisende ontmoetingsplek",
+          "ap_code": "AP11",
+          "ap_short": "Infrastructuur voor jeugd en cultuur versterken",
+          "ap_long": "We investeren in infrastructuur en voorzieningen voor jeugd, sport, cultuur en verenigingen: We versterken het sociaal weefsel van Halle met duurzame en toegankelijke plekken die ontmoeting, ontspanning en engagement mogelijk maken.",
+          "bd_code": "BDS",
+          "bd_short": "BD04_LEEFBAAR",
+          "bd_long": "We bouwen aan een aangename stad voor jong en oud: Een thuis voor iedereen, met een nette, kwaliteitsvolle en aantrekkelijke leefomgeving in stad en deelgemeenten. Met een langetermijnvisie op stadsvernieuwing en patrimoniumbeheer investeren we in duurzame, energiezuinige en toegankelijke gebouwen en publieke ruimtes. Sterke voorzieningen en een groene, gezonde omgeving versterken de levenskwaliteit en veerkracht van elke Hallenaar.",
+          "municipality": "Halle",
+          "nis_code": "23027",
+          "total_amount": 28446464.0,
+          "amount_per_capita": 645.0,
+          "yearly_amounts": {
+            "2026": 2196464.0,
+            "2027": 5010000.0,
+            "2028": 4527432.0,
+            "2029": 8181284.0,
+            "2030": 8281284.0,
+            "2031": 250000.0
+          },
+          "yearly_per_capita": {
+            "2026": 49.8,
+            "2027": 113.6,
+            "2028": 102.66,
+            "2029": 185.5,
+            "2030": 187.77,
+            "2031": 5.67
+          }
+        },
+        {
+          "ac_code": "AP",
+          "ac_short": "Site Schaekhof als groene long voor Varsenare",
+          "ac_long": "Vanwege de strategische prioriteit en de reeds verkregen bouwvergunning, wordt dit sleutelproject apart en nauwgezet opgevolgd. Een gedetailleerd overzicht van alle uitgaven en de gemaakte beleidskeuzes wordt hierbij transparant gerapporteerd.",
+          "ap_code": "AP",
+          "ap_short": "Site Schaekhof als groene long voor Varsenare",
+          "ap_long": "Vanwege de strategische prioriteit en de reeds verkregen bouwvergunning, wordt dit sleutelproject apart en nauwgezet opgevolgd. Een gedetailleerd overzicht van alle uitgaven en de gemaakte beleidskeuzes wordt hierbij transparant gerapporteerd.",
+          "bd_code": "BD",
+          "bd_short": "Site Schaeckhof als groene long voor Varsenare",
+          "bd_long": "Kwalitatieve omschrijving: Site Schaeckhof in Varsenare krijgt nieuw leven: we renoveren de bestaande gebouwen tot een gemeenschapszaal (multifunctioneel, geschikt voor verenigingen en feesten) en diverse multifunctionele lokalen. De bestaande fruitboomgaard wordt geïntegreerd en de groenzone wordt tot op het straatbeeld uitgebreid.\nEr wordt gekeken naar bestaande én nieuwe initiatieven in samenspraak met de burger en de lokale verenigingen, om zo tot een dynamische centrumplek te groeien en dit met respect voor de historisch elementen.\n\nHet project is complexer dan een standaard renovatie (mix van erfgoed, groen en functie) en heeft een groot maatschappelijk belang (nieuw dorpshart). Vanwege de strategische prioriteit en de reeds verkregen bouwvergunning, wordt dit sleutelproject apart opgevolgd.",
+          "municipality": "Jabbeke",
+          "nis_code": "31012",
+          "total_amount": 27598168.0,
+          "amount_per_capita": 1899.69,
+          "yearly_amounts": {
+            "2026": 6207168.0,
+            "2027": 5733500.0,
+            "2028": 5295000.0,
+            "2029": 4527500.0,
+            "2030": 3565000.0,
+            "2031": 2270000.0
+          },
+          "yearly_per_capita": {
+            "2026": 427.26,
+            "2027": 394.66,
+            "2028": 364.48,
+            "2029": 311.65,
+            "2030": 245.39,
+            "2031": 156.25
+          }
         }
-      ]
+      ],
+      "data_file": "category/07-cultuur-vrije-tijd.json"
     },
     "08-onderwijs": {
       "id": "08-onderwijs",
@@ -2866,8 +5355,319 @@
             "2030": 0,
             "2031": 0
           }
+        },
+        {
+          "ac_code": "AC000102",
+          "ac_short": "02.03.06.07 Het scholenproject Kaart wordt gerealiseerd.",
+          "ac_long": "02.03.06.07 Het scholenproject Kaart wordt gerealiseerd.",
+          "ap_code": "AP000027",
+          "ap_short": "02.03.06 We gaan rationeel om met onroerende eigendommen. We zoeken naar strategische opportuniteite",
+          "ap_long": "02.03.06 We gaan rationeel om met onroerende eigendommen. We zoeken naar strategische opportuniteiten.",
+          "bd_code": "BD000007",
+          "bd_short": "BD 2.3 We voeren een transparant en verantwoord financieel beleid",
+          "bd_long": "BD 2.3 We voeren een transparant en verantwoord financieel beleid",
+          "municipality": "Brasschaat",
+          "nis_code": "11008",
+          "total_amount": 15923777.0,
+          "amount_per_capita": 403.53,
+          "yearly_amounts": {
+            "2026": 5320000.0,
+            "2027": 10603777.0,
+            "2028": 0,
+            "2029": 0,
+            "2030": 0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 134.82,
+            "2027": 268.71,
+            "2028": 0,
+            "2029": 0,
+            "2030": 0,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "AC000204",
+          "ac_short": "01.01.02.01 De bouw van de GIBLO-school in Antwerpseweg 48 realiseren",
+          "ac_long": "We realiseren een nieuw gebouw voor ons buitengewoon onderwijs aan de Antwerpseweg, waar ook GIBLO Schransdries wordt ondergebracht. De afbraakwerken aan de voorste vleugel, de werkhuizen en de turnzaal starten uiterlijk begin 2027 en het nieuwe gebouw wordt eind 2028 opgeleverd. In het voorjaar van 2029 volgt de afbraak van het oude schoolgebouw.",
+          "ap_code": "AP000101",
+          "ap_short": "01.01.02 We realiseren de nieuwe GIBLO-school in Antwerpseweg 48",
+          "ap_long": "We realiseren een nieuw gebouw voor ons buitengewoon onderwijs, waarin beide GIBLO-afdelingen vanaf 2029 gehuisvest worden. Binnen de publiek-private samenwerking bouwt de partner ook kwalitatieve private woningen die in 2029 worden afgewerkt.",
+          "bd_code": "BD000100",
+          "bd_short": "01.01 We realiseren drie strategische projecten",
+          "bd_long": "We realiseren het dienstverleningscentrum in de Bisschopslaan en de nieuwe GIBLO-school in de Antwerpseweg. We ronden de voorbereidingen voor de ontsluiting van de Kanaalzone af en zijn ver gevorderd met de realisatie.",
+          "municipality": "Beerse",
+          "nis_code": "13004",
+          "total_amount": 15842972.0,
+          "amount_per_capita": 836.92,
+          "yearly_amounts": {
+            "2026": 0,
+            "2027": 0,
+            "2028": 7921486.0,
+            "2029": 7921486.0,
+            "2030": 0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 0,
+            "2027": 0,
+            "2028": 418.46,
+            "2029": 418.46,
+            "2030": 0,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "AC000026",
+          "ac_short": "We realiseren een nieuwbouw voor GBS Huizingen en  bereiden de (ver)nieuwbouw van GBS Dworp voor.",
+          "ac_long": "We realiseren een nieuwbouw voor de gemeentelijke basisschool van Huizingen en  bereiden de (ver)nieuwbouw van de gemeentelijke basisschool van Dworp voor.",
+          "ap_code": "AP000006",
+          "ap_short": "Beersel vernieuwt de onderwijsinfrastructuur en onderzoekt mogelijke capaciteitsuitbreidingen.",
+          "ap_long": "Beersel vernieuwt de onderwijsinfrastructuur en onderzoekt mogelijke capaciteitsuitbreidingen zodat elk kind in de eigen omgeving naar school kan gaan.",
+          "bd_code": "BD000002",
+          "bd_short": "Beersel wil een gemeente zijn waar het voor iedereen goed wonen, werken en schoollopen is.",
+          "bd_long": "Beersel wil een gemeente zijn waar het voor iedereen goed wonen, werken en schoollopen is.",
+          "municipality": "Beersel",
+          "nis_code": "23003",
+          "total_amount": 15796020.0,
+          "amount_per_capita": 576.3,
+          "yearly_amounts": {
+            "2026": 0,
+            "2027": 0,
+            "2028": 0,
+            "2029": 15796020.0,
+            "2030": 0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 0,
+            "2027": 0,
+            "2028": 0,
+            "2029": 576.3,
+            "2030": 0,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "AP1011",
+          "ac_short": "Kunstacademie op de Kappaertsite",
+          "ac_long": "We realiseren de nieuwbouw voor de kunstacademie, waarna de activiteiten definitief op de Kappaertsite gecentraliseerd worden vanaf januari 2030.",
+          "ap_code": "AP1011",
+          "ap_short": "Kappaertsite voluit",
+          "ap_long": "Kappaertsite voluit",
+          "bd_code": "BDS",
+          "bd_short": "BD101 - Kwalitatieve onderwijsinfrastructuur",
+          "bd_long": "Kwalitatieve onderwijsinfrastructuur",
+          "municipality": "Zwevegem",
+          "nis_code": "34042",
+          "total_amount": 15545794.0,
+          "amount_per_capita": 602.4,
+          "yearly_amounts": {
+            "2026": 0,
+            "2027": 0,
+            "2028": 0,
+            "2029": 15545794.0,
+            "2030": 0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 0,
+            "2027": 0,
+            "2028": 0,
+            "2029": 602.4,
+            "2030": 0,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "AP02",
+          "ac_short": "A02-02-04",
+          "ac_long": "We zetten een samenwerking op rond kunsteducatie tussen een DKO en de Kunstfabriek.",
+          "ap_code": "AP02",
+          "ap_short": "AP02-02",
+          "ap_long": "We stimuleren levenslang leren.",
+          "bd_code": "BDS",
+          "bd_short": "D02",
+          "bd_long": "Duffel, jong en in beweging",
+          "municipality": "Duffel",
+          "nis_code": "12009",
+          "total_amount": 15347876.0,
+          "amount_per_capita": 833.11,
+          "yearly_amounts": {
+            "2026": 433000.0,
+            "2027": 1300000.0,
+            "2028": 4000000.0,
+            "2029": 9614876.0,
+            "2030": 0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 23.5,
+            "2027": 70.57,
+            "2028": 217.13,
+            "2029": 521.91,
+            "2030": 0,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "AC000076",
+          "ac_short": "We realiseren een duurzame en toekomstgerichte gemeentelijke basisschool en buitenschoolse kinder...",
+          "ac_long": "We realiseren een duurzame en toekomstgerichte gemeentelijke basisschool en buitenschoolse kinderopvang op site Ter Nethe.",
+          "ap_code": "AP000019",
+          "ap_short": "We ontwikkelen site Ter Nethe tot een levendige en groene omgeving waar we mogelijkheden creëren ...",
+          "ap_long": "We ontwikkelen site Ter Nethe tot een levendige en groene omgeving waar we mogelijkheden creëren tot ontmoeting en waar verschillende generaties kunnen groeien en ontwikkelen.",
+          "bd_code": "BD000004",
+          "bd_short": "Hulshout zorgt voor een groene, veilige en inclusieve leefomgeving met oog voor huidige en toekom...",
+          "bd_long": "Hulshout zorgt voor een groene, veilige en inclusieve leefomgeving met oog voor huidige en toekomstige generaties.",
+          "municipality": "Hulshout",
+          "nis_code": "13016",
+          "total_amount": 13247250.0,
+          "amount_per_capita": 1232.37,
+          "yearly_amounts": {
+            "2026": 2500000.0,
+            "2027": 5500000.0,
+            "2028": 5000000.0,
+            "2029": 247250.0,
+            "2030": 0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 232.57,
+            "2027": 511.66,
+            "2028": 465.14,
+            "2029": 23.0,
+            "2030": 0,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "PR40625",
+          "ac_short": "Realiseren DBFM Fabiolaan",
+          "ac_long": "PR.Realiseren DBFM Fabiolalaan - Nieuwbouw voor Basisonderwijs, Kinderopvang, Jeugd en de buurt",
+          "ap_code": "OD20028",
+          "ap_short": "Vastgoed opgroeien, opvoeden en leren",
+          "ap_long": "OD.Bouwen aan kwalitatieve en toekomstbestendige ruimte voor opgroeien, opvoeden en leren",
+          "bd_code": "SD20007",
+          "bd_short": "SD Leren en groeien",
+          "bd_long": "SD.Leren en groeien",
+          "municipality": "Gent",
+          "nis_code": "44021",
+          "total_amount": 12624225.0,
+          "amount_per_capita": 45.38,
+          "yearly_amounts": {
+            "2026": 49574.0,
+            "2027": 0,
+            "2028": 12574651.0,
+            "2029": 0,
+            "2030": 0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 0.18,
+            "2027": 0,
+            "2028": 45.2,
+            "2029": 0,
+            "2030": 0,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "AC000023",
+          "ac_short": "De twee vestigingen van de GBS De Lijsterboom worden vernieuwd met subsidies.",
+          "ac_long": "De twee vestigingen van de GBS De Lijsterboom worden vernieuwd met subsidies. Kwaliteit, duurzaamheid, comfort van leerling en leerkracht en multifunctioneel ruimtegebruik voor de inwoners van de gemeente staan hierbij centraal.",
+          "ap_code": "AP000007",
+          "ap_short": "We investeren in onze gemeentelijke gebouwen en werken aan een toekomstvisie voor ons patrimonium.",
+          "ap_long": "We investeren gericht in onze gemeentelijke gebouwen en werken aan een toekomstvisie voor ons ganse patrimonium.",
+          "bd_code": "BD000002",
+          "bd_short": "We investeren in ons gebouwenpatrimonium, met nadruk op duurzaam veelzijdig efficiënt ruimtegebruik",
+          "bd_long": "We investeren fors in ons gebouwenpatrimonium, met de nadruk op duurzaam, veelzijdig en efficiënt ruimtegebruik.",
+          "municipality": "Oud-Heverlee",
+          "nis_code": "24086",
+          "total_amount": 12157000.0,
+          "amount_per_capita": 1067.79,
+          "yearly_amounts": {
+            "2026": 390000.0,
+            "2027": 1224000.0,
+            "2028": 3120000.0,
+            "2029": 4860000.0,
+            "2030": 2563000.0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 34.26,
+            "2027": 107.51,
+            "2028": 274.04,
+            "2029": 426.87,
+            "2030": 225.12,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "AC000202",
+          "ac_short": "Het project voor de tijdelijke school voor de stedelijke basisschool Kinderkoppen is afgerond.",
+          "ac_long": "Het project voor de tijdelijke school voor de stedelijke basisschool Kinderkoppen is afgerond.",
+          "ap_code": "AP000023",
+          "ap_short": "We investeren in een sterk stedelijk onderwijs door te investeren in infrastructuur.",
+          "ap_long": "We investeren in een sterk stedelijk onderwijs door te investeren in infrastructuur.",
+          "bd_code": "BD000005",
+          "bd_short": "Vilvoorde is een kindvriendelijke stad.",
+          "bd_long": "Vilvoorde is een kindvriendelijke stad die een sterke uitgangspositie verzekert voor elk kind en elke jongere door voldoende kwaliteitsvolle kinderopvang, onderwijs en ontplooiingskansen te voorzien.",
+          "municipality": "Vilvoorde",
+          "nis_code": "23088",
+          "total_amount": 12057877.0,
+          "amount_per_capita": 241.16,
+          "yearly_amounts": {
+            "2026": 0,
+            "2027": 10000.0,
+            "2028": 10000.0,
+            "2029": 12037877.0,
+            "2030": 0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 0,
+            "2027": 0.2,
+            "2028": 0.2,
+            "2029": 240.76,
+            "2030": 0,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "AC000005",
+          "ac_short": "SD1.AP02.AC02. Nieuwbouw SBS Guido Gezellestraat",
+          "ac_long": "SD1.AP02.AC02. Nieuwbouw SBS Guido Gezellestraat",
+          "ap_code": "AP000002",
+          "ap_short": "SD1.AP2. De ontwikkelkansen, het welzijn en de veiligheid van kinderen en jongeren mee bevorderen",
+          "ap_long": "SD1.AP02. De ontwikkelkansen, het welzijn en de veiligheid van kinderen en jongeren mee bevorderen",
+          "bd_code": "BD000001",
+          "bd_short": "SD1. Voor een warme, inclusieve stad waar iedereen zich thuis voelt.",
+          "bd_long": "SD1. Voor een warme, inclusieve stad waar iedereen zich thuis voelt.",
+          "municipality": "Waregem",
+          "nis_code": "34040",
+          "total_amount": 11357000.0,
+          "amount_per_capita": 280.3,
+          "yearly_amounts": {
+            "2026": 1500000.0,
+            "2027": 5000000.0,
+            "2028": 4857000.0,
+            "2029": 0,
+            "2030": 0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 37.02,
+            "2027": 123.41,
+            "2028": 119.88,
+            "2029": 0,
+            "2030": 0,
+            "2031": 0
+          }
         }
-      ]
+      ],
+      "data_file": "category/08-onderwijs.json"
     },
     "09-zorg-opvang": {
       "id": "09-zorg-opvang",
@@ -3184,8 +5984,319 @@
             "2030": 216.23,
             "2031": 204.99
           }
+        },
+        {
+          "ac_code": "AC000289",
+          "ac_short": "14.2.2 We investeren in ons stedelijk patrimonium",
+          "ac_long": "14.2.2 We investeren in ons stedelijk patrimonium",
+          "ap_code": "AP000072",
+          "ap_short": "14.2 Het vastgoedplan begeleidt ons bij strategische keuzes voor het stedelijk patrimonium",
+          "ap_long": "14.2 Het vastgoedplan begeleidt ons bij strategische keuzes voor het stedelijk patrimonium",
+          "bd_code": "BD000014",
+          "bd_short": "BD 14 Turnhout beheert met visie",
+          "bd_long": "BD 14 Turnhout beheert met visie",
+          "municipality": "Turnhout",
+          "nis_code": "13040",
+          "total_amount": 23383976.0,
+          "amount_per_capita": 469.45,
+          "yearly_amounts": {
+            "2026": 8865728.0,
+            "2027": 983000.0,
+            "2028": 3256160.0,
+            "2029": 1474483.0,
+            "2030": 702973.0,
+            "2031": 8101632.0
+          },
+          "yearly_per_capita": {
+            "2026": 177.99,
+            "2027": 19.73,
+            "2028": 65.37,
+            "2029": 29.6,
+            "2030": 14.11,
+            "2031": 162.65
+          }
+        },
+        {
+          "ac_code": "AP26",
+          "ac_short": "Neen",
+          "ac_long": "Het woon- en zorgmodel van de toekomst inbouwen in de (vernieuwde) infrastructuur (nieuwbouw +huidige bouw).",
+          "ap_code": "AP26",
+          "ap_short": "Woon- en zorgmodel vormgeven via infrastructuur.",
+          "ap_long": "Het uitgewerkte woon- en zorgmodel vormgeven via een vernieuwde infrastructuur.",
+          "bd_code": "BDS",
+          "bd_short": "Aangepaste en duurzame infrastructuur",
+          "bd_long": "Aangepaste en duurzame infrastructuur om het woon- en zorgmodel maximaal te faciliteren (P)",
+          "municipality": "Edegem",
+          "nis_code": "11013",
+          "total_amount": 22400000.0,
+          "amount_per_capita": 964.27,
+          "yearly_amounts": {
+            "2026": 1775000.0,
+            "2027": 8250000.0,
+            "2028": 8250000.0,
+            "2029": 4125000.0,
+            "2030": 0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 76.41,
+            "2027": 355.14,
+            "2028": 355.14,
+            "2029": 177.57,
+            "2030": 0,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "AP1.1",
+          "ac_short": "Opfrissingswerken Ceder a/d Leie",
+          "ac_long": "We werken de opfrissingswerken Ceder a/d Leie af",
+          "ap_code": "AP1.1",
+          "ap_short": "Toekomstbestendige infrastructuur WZC en GAW",
+          "ap_long": "We investeren in een kwalitatieve en toekomstbestendige infrastructuur van de woonzorgcentra en de assistentiewoningen",
+          "bd_code": "BDS",
+          "bd_short": "BD 1 - Versterken excellente residentiële zorg",
+          "bd_long": "We versterken onze excellente residentiële zorg",
+          "municipality": "Harelbeke",
+          "nis_code": "34013",
+          "total_amount": 22381700.0,
+          "amount_per_capita": 730.18,
+          "yearly_amounts": {
+            "2026": 1786700.0,
+            "2027": 220000.0,
+            "2028": 5000000.0,
+            "2029": 100000.0,
+            "2030": 100000.0,
+            "2031": 15175000.0
+          },
+          "yearly_per_capita": {
+            "2026": 58.29,
+            "2027": 7.18,
+            "2028": 163.12,
+            "2029": 3.26,
+            "2030": 3.26,
+            "2031": 495.07
+          }
+        },
+        {
+          "ac_code": "A000002",
+          "ac_short": "Tegen 31 december 2030 wordt een woonzorgcentrum gebouwd op de site van de welzijnscampus.",
+          "ac_long": "Tegen 31 december 2030 wordt een nieuw woonzorgcentrum gebouwd op de site van de welzijnscampus dat we verder zullen exploiteren in eigen beheer, met een woonzorgmodel dat is afgestemd op de behoeften van de toekomstige bewoners. Daartoe worden de nodige middelen ingezet voor ontwerp, voorbereiding en realisatie van het project. We voorzien eveneens middelen voor de aankoop van gronden die kunnen dienen als parking.",
+          "ap_code": "AP000001",
+          "ap_short": "Brecht wil de gemeenschapsvoorzieningen meer op de grootteorde brengen van het inwonersaantal.",
+          "ap_long": "Brecht wil de gemeenschapsvoorzieningen op zijn grondgebied meer op de grootteorde brengen van het inwonersaantal. We maken een inhaalbeweging en willen meer gerichte dienstverlening kunnen aanbieden aan onze inwoners en functies kunnen faciliteren die bijdragen aan gemeenschapsvorming. We investeren zo gericht in nieuwe gebouwen zoals een nieuw dienstencentrum in Sint-Lenaarts, een gemeenschapscentrum in Sint-Job, een school in Brecht, een sporthal in Sint-Job en een woonzorgcentrum in Brecht, steeds met oog voor multifunctioneel en gedeeld gebruik.",
+          "bd_code": "D000001",
+          "bd_short": "Brecht, da's echt bouwen aan de toekomst.",
+          "bd_long": "Brecht groeit ondertussen door naar 31.000 inwoners. We maken een inhaalbeweging en schalen de gemeenschapsvoorzieningen verder op naar de grootteorde van onze gemeenschap. We willen meer gerichte dienstverlening kunnen aanbieden aan onze inwoners en functies kunnen faciliteren die bijdragen aan gemeenschapsvorming. We investeren zo gericht in nieuwe gebouwen zoals een gemeenschapscentrum, een school en een woonzorgcentrum, steeds met oog voor multifunctioneel en gedeeld gebruik.\nWe ondersteunen onze verenigingen met infrastructuur én een duidelijk subsidiebeleid voor hun eigen infrastructuur. Zo zorgen we voor kwaliteitsvolle voorzieningen in elke woonkern, afgestemd op de noden van vandaag en de toekomst.",
+          "municipality": "Brecht",
+          "nis_code": "11009",
+          "total_amount": 20415000.0,
+          "amount_per_capita": 649.63,
+          "yearly_amounts": {
+            "2026": 225000.0,
+            "2027": 0,
+            "2028": 5190000.0,
+            "2029": 7500000.0,
+            "2030": 7500000.0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 7.16,
+            "2027": 0,
+            "2028": 165.15,
+            "2029": 238.66,
+            "2030": 238.66,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "3LOW019801",
+          "ac_short": "Cluster investeringen",
+          "ac_long": "Cluster investeringen",
+          "ap_code": "3LOW0198",
+          "ap_short": "Cluster investeringen",
+          "ap_long": "Cluster investeringen",
+          "bd_code": "3LOW01",
+          "bd_short": "Kinderopvang",
+          "bd_long": "Kinderopvang",
+          "municipality": "Antwerpen",
+          "nis_code": "11002",
+          "total_amount": 19644251.0,
+          "amount_per_capita": 35.27,
+          "yearly_amounts": {
+            "2026": 1843625.0,
+            "2027": 6069594.0,
+            "2028": 4131773.0,
+            "2029": 2740304.0,
+            "2030": 3489327.0,
+            "2031": 1369628.0
+          },
+          "yearly_per_capita": {
+            "2026": 3.31,
+            "2027": 10.9,
+            "2028": 7.42,
+            "2029": 4.92,
+            "2030": 6.26,
+            "2031": 2.46
+          }
+        },
+        {
+          "ac_code": "1.1.",
+          "ac_short": "Vernieuwen sociaal patrimonium (OCMW)",
+          "ac_long": "Vernieuwen sociaal patrimonium (OCMW)",
+          "ap_code": "1.1.",
+          "ap_short": "Kwaliteitsvol en betaalbaar woonaanbod",
+          "ap_long": "Kwaliteitsvol en betaalbaar woonaanbod",
+          "bd_code": "BDS",
+          "bd_short": "Balans wonen, werken, onderwijs en vrije tijd",
+          "bd_long": "Balans wonen, werken, onderwijs en vrije tijd",
+          "municipality": "Knokke-Heist",
+          "nis_code": "31043",
+          "total_amount": 19592270.0,
+          "amount_per_capita": 606.05,
+          "yearly_amounts": {
+            "2026": 7574090.0,
+            "2027": 9230635.0,
+            "2028": 2787545.0,
+            "2029": 0,
+            "2030": 0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 234.29,
+            "2027": 285.53,
+            "2028": 86.23,
+            "2029": 0,
+            "2030": 0,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "AC000073",
+          "ac_short": "We bouwen een duurzaam en toekomstgericht woonzorgcentrum.",
+          "ac_long": "We bouwen een duurzaam en toekomstgericht woonzorgcentrum.",
+          "ap_code": "AP000019",
+          "ap_short": "We ontwikkelen site Ter Nethe tot een levendige en groene omgeving waar we mogelijkheden creëren ...",
+          "ap_long": "We ontwikkelen site Ter Nethe tot een levendige en groene omgeving waar we mogelijkheden creëren tot ontmoeting en waar verschillende generaties kunnen groeien en ontwikkelen.",
+          "bd_code": "BD000004",
+          "bd_short": "Hulshout zorgt voor een groene, veilige en inclusieve leefomgeving met oog voor huidige en toekom...",
+          "bd_long": "Hulshout zorgt voor een groene, veilige en inclusieve leefomgeving met oog voor huidige en toekomstige generaties.",
+          "municipality": "Hulshout",
+          "nis_code": "13016",
+          "total_amount": 16644202.0,
+          "amount_per_capita": 1548.39,
+          "yearly_amounts": {
+            "2026": 0,
+            "2027": 4000000.0,
+            "2028": 6500000.0,
+            "2029": 6144202.0,
+            "2030": 0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 0,
+            "2027": 372.11,
+            "2028": 604.69,
+            "2029": 571.59,
+            "2030": 0,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "A.01.01.01",
+          "ac_short": "Realisatie van een woondorp op site Lemberge",
+          "ac_long": "De plannen voor het woondorp zijn reeds beschikbaar. De volgende jaren zetten we in op de verdere realisatie hiervan.  Het doel is om de werkzaamheden op te starten in 2027.",
+          "ap_code": "AP.01.01",
+          "ap_short": "Woonvormen herdenken en realiseren",
+          "ap_long": "Een deel van ons patrimonium is aan vernieuwing toe. We wensen dit te zien als een opportuniteit. Daar waar een nieuwbouw zich opdringt wordt bekeken wat de noden zijn van de buurt en hoe we een omgeving kunnen creëren die mee kan evolueren met de noden van onze gebruikers.",
+          "bd_code": "BD.01",
+          "bd_short": "Toekomstbestendige zorg",
+          "bd_long": "Kwalitatieve omschrijving: De vergrijzing en interne vergrijzing neemt steeds verder toe. Ouderen blijven langer thuis wonen, waardoor de zorgbehoefte in de thuissituatie toeneemt. Die evolutie dwingt ons om onze zorg te herdenken. Oplossingen moeten schaalbaar zijn voor de toekomst, en menselijk blijven in de dagelijkse praktijk. Tegelijk moet de zorg betaalbaar blijven, zowel voor de organisatie als voor de cliënt en hun omgeving. Het is belangrijk deze evoluties nu reeds mee te nemen in onze beslissingen van vandaag. \n\nDaarom kiezen we nu resoluut voor toekomstbestendige zorg, met oog voor innovatie, nabijheid en duurzaamheid. We investeren in zorgzame buurten, waarin partners samenwerken en bewoners ondersteund worden in hun autonomie.",
+          "municipality": "Destelbergen",
+          "nis_code": "44013",
+          "total_amount": 15488146.0,
+          "amount_per_capita": 788.4,
+          "yearly_amounts": {
+            "2026": 0,
+            "2027": 6922042.0,
+            "2028": 7607954.0,
+            "2029": 958150.0,
+            "2030": 0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 0,
+            "2027": 352.36,
+            "2028": 387.27,
+            "2029": 48.77,
+            "2030": 0,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "AC000020",
+          "ac_short": "We investeren in een nieuwbouw voor het woonzorgcentrum.",
+          "ac_long": "Het huidig patrimonium van het woonzorgcentrum is aan vervanging toe. We investeren als organisatie in de vernieuwing van de infrastructuur voor het woonzorgcentrum. We hebben hierbij aandacht voor duurzaamheid en de meest recente wetgeving, opdat ons huis klaar is voor de ouderenzorg van morgen.",
+          "ap_code": "AP000009",
+          "ap_short": "We zetten sterk in op ouderenzorg, en hebben aandacht voor de specifieke behoeften die zij kennen.",
+          "ap_long": "We werken als organisatie verder aan ons zorgaanbod. Meer specifiek richten we een CADO op, die de brug vormt tussen het aanbod thuiszorg en verdere (semi)residentiële zorg op het grondgebied. We hebben hierbij oog voor een goede inbedding bij het overige zorgaanbod op de zorgcampus. Daarnaast investeren we ook in nieuwe duurzame infrastructuur voor ons woonzorgcentrum.",
+          "bd_code": "BD000003",
+          "bd_short": "We investeren als organisatie in de toekomst.",
+          "bd_long": "We bereiden onze organisatie voor op de toekomst door te investeren in duurzame infrastructuur en innovatieve zorgvormen. We versterken onze lokale zorg met de oprichting van een CADO, een dienstverlening die oudere personen en hun mantelzorgers mee kan ondersteunen doorheen hun zorgtraject. Daarnaast willen we inzetten op samenwerkingen met andere zorgspelers en actief strategische partnerschappen aangaan met andere publieke welzijnsverenigingen om onze efficiëntie, kwaliteit en financiële gezondheid te vergroten. Dit alles met blijvende aandacht voor welzijn, toegankelijkheid en maatschappelijke meerwaarde.",
+          "municipality": "Grobbendonk",
+          "nis_code": "13010",
+          "total_amount": 15000000.0,
+          "amount_per_capita": 1282.57,
+          "yearly_amounts": {
+            "2026": 75000.0,
+            "2027": 125000.0,
+            "2028": 7370000.0,
+            "2029": 7250000.0,
+            "2030": 180000.0,
+            "2031": 0
+          },
+          "yearly_per_capita": {
+            "2026": 6.41,
+            "2027": 10.69,
+            "2028": 630.17,
+            "2029": 619.91,
+            "2030": 15.39,
+            "2031": 0
+          }
+        },
+        {
+          "ac_code": "R",
+          "ac_short": "Woonzorg",
+          "ac_long": "Woonzorg",
+          "ap_code": "R",
+          "ap_short": "Regulier afdeling burger",
+          "ap_long": "Regulier afdeling burger",
+          "bd_code": "BDS",
+          "bd_short": "R. Samen bouwen aan een stevige basisdienstverlening",
+          "bd_long": "We bouwen samen aan een stevige basisdienstverlening voor een stad die leeft, groeit en verbindt.",
+          "municipality": "Hoogstraten",
+          "nis_code": "13014",
+          "total_amount": 13855395.0,
+          "amount_per_capita": 614.01,
+          "yearly_amounts": {
+            "2026": 3026865.0,
+            "2027": 2094636.0,
+            "2028": 3357775.0,
+            "2029": 1586195.0,
+            "2030": 2214867.0,
+            "2031": 1575057.0
+          },
+          "yearly_per_capita": {
+            "2026": 134.14,
+            "2027": 92.83,
+            "2028": 148.8,
+            "2029": 70.29,
+            "2030": 98.15,
+            "2031": 69.8
+          }
         }
-      ]
+      ],
+      "data_file": "category/09-zorg-opvang.json"
     },
     "overige": {
       "id": "overige",
