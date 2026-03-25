@@ -1,0 +1,22 @@
+{
+  "sourceProvider": "Nationale Bank van België (NBB)",
+  "sourceTitle": "MFI rentetarieven (MIR) - hypothecaire rente op nieuwe contracten (> 10 jaar rentevast)",
+  "sourceUrl": "https://nsidisseminate-stat.nbb.be/rest/data/BE2,DF_MIR,1.0/M.R_N.2250.A2C.A_P.Z.Z?startPeriod=2015-01&dimensionAtObservation=AllDimensions",
+  "sourcePublicationDate": "2026-01-31",
+  "latestPeriod": "2026-01",
+  "latestRate": 3.32,
+  "minRate": 1.33,
+  "maxRate": 3.6,
+  "observationCount": 133,
+  "fetchedAt": "2026-03-25T09:36:53Z",
+  "responseSha256": "5a599654eb6e5de0bfb290147db5c14d478569b81224e4cd3cfd35dca4c29747",
+  "series": {
+    "frequency": "M",
+    "item": "R_N",
+    "sector": "2250",
+    "instrument": "A2C",
+    "maturity": "A_P",
+    "quartile": "Z",
+    "factor": "Z"
+  }
+}
